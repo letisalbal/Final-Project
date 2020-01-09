@@ -1,4 +1,4 @@
-ID,Age,Gender,ChestPain,RestingBloodPressure,Cholesterol,FastingBloodSugar,RestingECG,MaxHeartrate,ExerciseIndusedAngina,OldPeak,Slope,MajorVessels,Thalassemia,Target
+﻿ID,Age,Gender,ChestPain,RestingBloodPressure,Cholesterol,FastingBloodSugar,RestingECG,MaxHeartrate,ExerciseIndusedAngina,OldPeak,Slope,MajorVessels,Thalassemia,Target
 0,52,Male,Typical Angina,125,212,FALSE,1,168,No,1,downsloping,2,Reversable_Defect,No Heart Problem
 1,53,Male,Typical Angina,140,203,TRUE,0,155,Yes,3.1,unsloping,0,Reversable_Defect,No Heart Problem
 2,70,Male,Typical Angina,145,174,FALSE,1,125,Yes,2.6,unsloping,0,Reversable_Defect,No Heart Problem
