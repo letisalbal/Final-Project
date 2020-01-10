@@ -13,7 +13,7 @@
 11,43,Female,Typical Angina,132,341,TRUE,0,136,Yes,3,flat,0,Reversable_Defect,No Heart Problem
 12,34,Female,Atypical Angina,118,210,FALSE,1,192,No,0.7,downsloping,0,Fixed_Defect,Heart Problem
 13,51,Male,Typical Angina,140,298,FALSE,1,122,Yes,4.2,flat,3,Reversable_Defect,No Heart Problem
-14,52,Male,Typical Angina,128,204,TRUE,1,156,Yes,1,flat,0,0,No Heart Problem
+14,52,Male,Typical Angina,128,204,TRUE,1,156,Yes,1,flat,0,N/A,No Heart Problem
 15,34,Female,Atypical Angina,118,210,FALSE,1,192,No,0.7,downsloping,0,Fixed_Defect,Heart Problem
 16,51,Female,Non-Anginal,140,308,FALSE,0,142,No,1.5,downsloping,1,Fixed_Defect,Heart Problem
 17,54,Male,Typical Angina,124,266,FALSE,0,109,Yes,2.2,flat,1,Reversable_Defect,No Heart Problem
@@ -318,7 +318,7 @@
 316,64,Female,Non-Anginal,140,313,FALSE,1,133,No,0.2,downsloping,0,Reversable_Defect,Heart Problem
 317,63,Female,Non-Anginal,135,252,FALSE,0,172,No,0,downsloping,0,Fixed_Defect,Heart Problem
 318,59,Male,Typical Angina,140,177,FALSE,1,162,Yes,0,downsloping,1,Reversable_Defect,No Heart Problem
-319,53,Female,Non-Anginal,128,216,FALSE,0,115,No,0,downsloping,0,0,Heart Problem
+319,53,Female,Non-Anginal,128,216,FALSE,0,115,No,0,downsloping,0,N/A,Heart Problem
 320,53,Female,Typical Angina,130,264,FALSE,0,143,No,0.4,flat,0,Fixed_Defect,Heart Problem
 321,48,Female,Non-Anginal,130,275,FALSE,1,139,No,0.2,downsloping,0,Fixed_Defect,Heart Problem
 322,45,Male,Typical Angina,142,309,FALSE,0,147,Yes,0,flat,3,Reversable_Defect,No Heart Problem
@@ -328,7 +328,7 @@
 326,54,Male,Atypical Angina,192,283,FALSE,0,195,No,0,downsloping,1,Reversable_Defect,No Heart Problem
 327,57,Male,Typical Angina,150,276,FALSE,0,112,Yes,0.6,flat,1,Normal,No Heart Problem
 328,70,Male,Typical Angina,130,322,FALSE,0,109,No,2.4,flat,3,Fixed_Defect,No Heart Problem
-329,53,Female,Non-Anginal,128,216,FALSE,0,115,No,0,downsloping,0,0,Heart Problem
+329,53,Female,Non-Anginal,128,216,FALSE,0,115,No,0,downsloping,0,N/A,Heart Problem
 330,37,Female,Non-Anginal,120,215,FALSE,1,170,No,0,downsloping,0,Fixed_Defect,Heart Problem
 331,63,Female,Typical Angina,108,269,FALSE,1,169,Yes,1.8,flat,2,Fixed_Defect,No Heart Problem
 332,37,Male,Non-Anginal,130,250,FALSE,1,187,No,3.5,unsloping,0,Fixed_Defect,Heart Problem
@@ -358,7 +358,7 @@
 356,59,Male,Typical Angina,164,176,TRUE,0,90,No,1,flat,2,Normal,No Heart Problem
 357,67,Male,Typical Angina,160,286,FALSE,0,108,Yes,1.5,flat,3,Fixed_Defect,No Heart Problem
 358,59,Male,Asymptomatic,134,204,FALSE,1,162,No,0.8,downsloping,2,Fixed_Defect,No Heart Problem
-359,53,Female,Non-Anginal,128,216,FALSE,0,115,No,0,downsloping,0,0,Heart Problem
+359,53,Female,Non-Anginal,128,216,FALSE,0,115,No,0,downsloping,0,N/A,Heart Problem
 360,48,Male,Typical Angina,122,222,FALSE,0,186,No,0,downsloping,0,Fixed_Defect,Heart Problem
 361,62,Male,Non-Anginal,130,231,FALSE,1,146,No,1.8,flat,3,Reversable_Defect,Heart Problem
 362,43,Female,Non-Anginal,122,213,FALSE,1,165,No,0.2,flat,0,Fixed_Defect,Heart Problem
@@ -685,7 +685,7 @@
 683,43,Male,Typical Angina,120,177,FALSE,0,120,Yes,2.5,flat,0,Reversable_Defect,No Heart Problem
 684,60,Male,Non-Anginal,140,185,FALSE,0,155,No,3,flat,0,Fixed_Defect,No Heart Problem
 685,63,Female,Typical Angina,150,407,FALSE,0,154,No,4,flat,3,Reversable_Defect,No Heart Problem
-686,52,Male,Typical Angina,128,204,TRUE,1,156,Yes,1,flat,0,0,No Heart Problem
+686,52,Male,Typical Angina,128,204,TRUE,1,156,Yes,1,flat,0,N/A,No Heart Problem
 687,58,Male,Typical Angina,125,300,FALSE,0,171,No,0,downsloping,2,Reversable_Defect,No Heart Problem
 688,56,Female,Typical Angina,200,288,TRUE,0,133,Yes,4,unsloping,2,Reversable_Defect,No Heart Problem
 689,54,Female,Non-Anginal,135,304,TRUE,1,170,No,0,downsloping,0,Fixed_Defect,Heart Problem
@@ -733,7 +733,7 @@
 731,52,Male,Typical Angina,112,230,FALSE,1,160,No,0,downsloping,1,Fixed_Defect,No Heart Problem
 732,51,Male,Non-Anginal,94,227,FALSE,1,154,Yes,0,downsloping,1,Reversable_Defect,Heart Problem
 733,44,Female,Non-Anginal,108,141,FALSE,1,175,No,0.6,flat,0,Fixed_Defect,Heart Problem
-734,52,Male,Typical Angina,128,204,TRUE,1,156,Yes,1,flat,0,0,No Heart Problem
+734,52,Male,Typical Angina,128,204,TRUE,1,156,Yes,1,flat,0,N/A,No Heart Problem
 735,50,Male,Non-Anginal,129,196,FALSE,1,163,No,0,downsloping,0,Fixed_Defect,Heart Problem
 736,59,Male,Typical Angina,110,239,FALSE,0,142,Yes,1.2,flat,1,Reversable_Defect,No Heart Problem
 737,67,Male,Typical Angina,120,229,FALSE,0,129,Yes,2.6,flat,2,Reversable_Defect,No Heart Problem
@@ -892,7 +892,7 @@
 890,55,Female,Typical Angina,128,205,FALSE,2,130,Yes,2,flat,1,Reversable_Defect,No Heart Problem
 891,64,Female,Typical Angina,180,325,FALSE,1,154,Yes,0,downsloping,0,Fixed_Defect,Heart Problem
 892,54,Male,Typical Angina,110,239,FALSE,1,126,Yes,2.8,flat,1,Reversable_Defect,No Heart Problem
-893,52,Male,Typical Angina,128,204,TRUE,1,156,Yes,1,flat,0,0,No Heart Problem
+893,52,Male,Typical Angina,128,204,TRUE,1,156,Yes,1,flat,0,N/A,No Heart Problem
 894,51,Male,Typical Angina,140,299,FALSE,1,173,Yes,1.6,downsloping,0,Reversable_Defect,No Heart Problem
 895,62,Female,Non-Anginal,130,263,FALSE,1,97,No,1.2,flat,1,Reversable_Defect,No Heart Problem
 896,59,Male,Asymptomatic,178,270,FALSE,0,145,No,4.2,unsloping,0,Reversable_Defect,Heart Problem
