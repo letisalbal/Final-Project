@@ -1,1026 +1,1026 @@
-ID,Age,Gender,ChestPain,RestingBloodPressure,Cholesterol,FastingBloodSugar,RestingECG,MaxHeartrate,ExerciseIndusedAngina,OldPeak,Slope,MajorVessels,Thalassemia,Target
-0,52,Male,Typical Angina,125,212,FALSE,1,168,No,1,downsloping,2,Reversable_Defect,No Heart Problem
-1,53,Male,Typical Angina,140,203,TRUE,0,155,Yes,3.1,unsloping,0,Reversable_Defect,No Heart Problem
-2,70,Male,Typical Angina,145,174,FALSE,1,125,Yes,2.6,unsloping,0,Reversable_Defect,No Heart Problem
-3,61,Male,Typical Angina,148,203,FALSE,1,161,No,0,downsloping,1,Reversable_Defect,No Heart Problem
-4,62,Female,Typical Angina,138,294,TRUE,1,106,No,1.9,flat,3,Fixed_Defect,No Heart Problem
-5,58,Female,Typical Angina,100,248,FALSE,0,122,No,1,flat,0,Fixed_Defect,Heart Problem
-6,58,Male,Typical Angina,114,318,FALSE,2,140,No,4.4,unsloping,3,Normal,No Heart Problem
-7,55,Male,Typical Angina,160,289,FALSE,0,145,Yes,0.8,flat,1,Reversable_Defect,No Heart Problem
-8,46,Male,Typical Angina,120,249,FALSE,0,144,No,0.8,downsloping,0,Reversable_Defect,No Heart Problem
-9,54,Male,Typical Angina,122,286,FALSE,0,116,Yes,3.2,flat,2,Fixed_Defect,No Heart Problem
-10,71,Female,Typical Angina,112,149,FALSE,1,125,No,1.6,flat,0,Fixed_Defect,Heart Problem
-11,43,Female,Typical Angina,132,341,TRUE,0,136,Yes,3,flat,0,Reversable_Defect,No Heart Problem
-12,34,Female,Atypical Angina,118,210,FALSE,1,192,No,0.7,downsloping,0,Fixed_Defect,Heart Problem
-13,51,Male,Typical Angina,140,298,FALSE,1,122,Yes,4.2,flat,3,Reversable_Defect,No Heart Problem
-14,52,Male,Typical Angina,128,204,TRUE,1,156,Yes,1,flat,0,0,No Heart Problem
-15,34,Female,Atypical Angina,118,210,FALSE,1,192,No,0.7,downsloping,0,Fixed_Defect,Heart Problem
-16,51,Female,Non-Anginal,140,308,FALSE,0,142,No,1.5,downsloping,1,Fixed_Defect,Heart Problem
-17,54,Male,Typical Angina,124,266,FALSE,0,109,Yes,2.2,flat,1,Reversable_Defect,No Heart Problem
-18,50,Female,Atypical Angina,120,244,FALSE,1,162,No,1.1,downsloping,0,Fixed_Defect,Heart Problem
-19,58,Male,Non-Anginal,140,211,TRUE,0,165,No,0,downsloping,0,Fixed_Defect,Heart Problem
-20,60,Male,Non-Anginal,140,185,FALSE,0,155,No,3,flat,0,Fixed_Defect,No Heart Problem
-21,67,Female,Typical Angina,106,223,FALSE,1,142,No,0.3,downsloping,2,Fixed_Defect,Heart Problem
-22,45,Male,Typical Angina,104,208,FALSE,0,148,Yes,3,flat,0,Fixed_Defect,Heart Problem
-23,63,Female,Non-Anginal,135,252,FALSE,0,172,No,0,downsloping,0,Fixed_Defect,Heart Problem
-24,42,Female,Non-Anginal,120,209,FALSE,1,173,No,0,flat,0,Fixed_Defect,Heart Problem
-25,61,Female,Typical Angina,145,307,FALSE,0,146,Yes,1,flat,0,Reversable_Defect,No Heart Problem
-26,44,Male,Non-Anginal,130,233,FALSE,1,179,Yes,0.4,downsloping,0,Fixed_Defect,Heart Problem
-27,58,Female,Atypical Angina,136,319,TRUE,0,152,No,0,downsloping,2,Fixed_Defect,No Heart Problem
-28,56,Male,Non-Anginal,130,256,TRUE,0,142,Yes,0.6,flat,1,Normal,No Heart Problem
-29,55,Female,Typical Angina,180,327,FALSE,2,117,Yes,3.4,flat,0,Fixed_Defect,No Heart Problem
-30,44,Male,Typical Angina,120,169,FALSE,1,144,Yes,2.8,unsloping,0,Normal,No Heart Problem
-31,50,Female,Atypical Angina,120,244,FALSE,1,162,No,1.1,downsloping,0,Fixed_Defect,Heart Problem
-32,57,Male,Typical Angina,130,131,FALSE,1,115,Yes,1.2,flat,1,Reversable_Defect,No Heart Problem
-33,70,Male,Non-Anginal,160,269,FALSE,1,112,Yes,2.9,flat,1,Reversable_Defect,No Heart Problem
-34,50,Male,Non-Anginal,129,196,FALSE,1,163,No,0,downsloping,0,Fixed_Defect,Heart Problem
-35,46,Male,Non-Anginal,150,231,FALSE,1,147,No,3.6,flat,0,Fixed_Defect,No Heart Problem
-36,51,Male,Asymptomatic,125,213,FALSE,0,125,Yes,1.4,downsloping,1,Fixed_Defect,Heart Problem
-37,59,Male,Typical Angina,138,271,FALSE,0,182,No,0,downsloping,0,Fixed_Defect,Heart Problem
-38,64,Male,Typical Angina,128,263,FALSE,1,105,Yes,0.2,flat,1,Reversable_Defect,Heart Problem
-39,57,Male,Non-Anginal,128,229,FALSE,0,150,No,0.4,flat,1,Reversable_Defect,No Heart Problem
-40,65,Female,Non-Anginal,160,360,FALSE,0,151,No,0.8,downsloping,0,Fixed_Defect,Heart Problem
-41,54,Male,Non-Anginal,120,258,FALSE,0,147,No,0.4,flat,0,Reversable_Defect,Heart Problem
-42,61,Female,Typical Angina,130,330,FALSE,0,169,No,0,downsloping,0,Fixed_Defect,No Heart Problem
-43,46,Male,Typical Angina,120,249,FALSE,0,144,No,0.8,downsloping,0,Reversable_Defect,No Heart Problem
-44,55,Female,Atypical Angina,132,342,FALSE,1,166,No,1.2,downsloping,0,Fixed_Defect,Heart Problem
-45,42,Male,Typical Angina,140,226,FALSE,1,178,No,0,downsloping,0,Fixed_Defect,Heart Problem
-46,41,Male,Atypical Angina,135,203,FALSE,1,132,No,0,flat,0,Normal,Heart Problem
-47,66,Female,Typical Angina,178,228,TRUE,1,165,Yes,1,flat,2,Reversable_Defect,No Heart Problem
-48,66,Female,Non-Anginal,146,278,FALSE,0,152,No,0,flat,1,Fixed_Defect,Heart Problem
-49,60,Male,Typical Angina,117,230,TRUE,1,160,Yes,1.4,downsloping,2,Reversable_Defect,No Heart Problem
-50,58,Female,Asymptomatic,150,283,TRUE,0,162,No,1,downsloping,0,Fixed_Defect,Heart Problem
-51,57,Female,Typical Angina,140,241,FALSE,1,123,Yes,0.2,flat,0,Reversable_Defect,No Heart Problem
-52,38,Male,Non-Anginal,138,175,FALSE,1,173,No,0,downsloping,4,Fixed_Defect,Heart Problem
-53,49,Male,Non-Anginal,120,188,FALSE,1,139,No,2,flat,3,Reversable_Defect,No Heart Problem
-54,55,Male,Typical Angina,140,217,FALSE,1,111,Yes,5.6,unsloping,0,Reversable_Defect,No Heart Problem
-55,55,Male,Typical Angina,140,217,FALSE,1,111,Yes,5.6,unsloping,0,Reversable_Defect,No Heart Problem
-56,56,Male,Asymptomatic,120,193,FALSE,0,162,No,1.9,flat,0,Reversable_Defect,Heart Problem
-57,48,Male,Atypical Angina,130,245,FALSE,0,180,No,0.2,flat,0,Fixed_Defect,Heart Problem
-58,67,Male,Non-Anginal,152,212,FALSE,0,150,No,0.8,flat,0,Reversable_Defect,No Heart Problem
-59,57,Male,Atypical Angina,154,232,FALSE,0,164,No,0,downsloping,1,Fixed_Defect,No Heart Problem
-60,29,Male,Atypical Angina,130,204,FALSE,0,202,No,0,downsloping,0,Fixed_Defect,Heart Problem
-61,66,Female,Non-Anginal,146,278,FALSE,0,152,No,0,flat,1,Fixed_Defect,Heart Problem
-62,67,Male,Typical Angina,100,299,FALSE,0,125,Yes,0.9,flat,2,Fixed_Defect,No Heart Problem
-63,59,Male,Non-Anginal,150,212,TRUE,1,157,No,1.6,downsloping,0,Fixed_Defect,Heart Problem
-64,29,Male,Atypical Angina,130,204,FALSE,0,202,No,0,downsloping,0,Fixed_Defect,Heart Problem
-65,59,Male,Asymptomatic,170,288,FALSE,0,159,No,0.2,flat,0,Reversable_Defect,No Heart Problem
-66,53,Male,Non-Anginal,130,197,TRUE,0,152,No,1.2,unsloping,0,Fixed_Defect,Heart Problem
-67,42,Male,Typical Angina,136,315,FALSE,1,125,Yes,1.8,flat,0,Normal,No Heart Problem
-68,37,Female,Non-Anginal,120,215,FALSE,1,170,No,0,downsloping,0,Fixed_Defect,Heart Problem
-69,62,Female,Typical Angina,160,164,FALSE,0,145,No,6.2,unsloping,3,Reversable_Defect,No Heart Problem
-70,59,Male,Typical Angina,170,326,FALSE,0,140,Yes,3.4,unsloping,0,Reversable_Defect,No Heart Problem
-71,61,Male,Typical Angina,140,207,FALSE,0,138,Yes,1.9,downsloping,1,Reversable_Defect,No Heart Problem
-72,56,Male,Typical Angina,125,249,TRUE,0,144,Yes,1.2,flat,1,Fixed_Defect,No Heart Problem
-73,59,Male,Typical Angina,140,177,FALSE,1,162,Yes,0,downsloping,1,Reversable_Defect,No Heart Problem
-74,48,Male,Typical Angina,130,256,TRUE,0,150,Yes,0,downsloping,2,Reversable_Defect,No Heart Problem
-75,47,Male,Non-Anginal,138,257,FALSE,0,156,No,0,downsloping,0,Fixed_Defect,Heart Problem
-76,48,Male,Non-Anginal,124,255,TRUE,1,175,No,0,downsloping,2,Fixed_Defect,Heart Problem
-77,63,Male,Typical Angina,140,187,FALSE,0,144,Yes,4,downsloping,2,Reversable_Defect,No Heart Problem
-78,52,Male,Atypical Angina,134,201,FALSE,1,158,No,0.8,downsloping,1,Fixed_Defect,Heart Problem
-79,52,Male,Atypical Angina,134,201,FALSE,1,158,No,0.8,downsloping,1,Fixed_Defect,Heart Problem
-80,50,Male,Non-Anginal,140,233,FALSE,1,163,No,0.6,flat,1,Reversable_Defect,No Heart Problem
-81,49,Male,Non-Anginal,118,149,FALSE,0,126,No,0.8,downsloping,3,Fixed_Defect,No Heart Problem
-82,46,Male,Non-Anginal,150,231,FALSE,1,147,No,3.6,flat,0,Fixed_Defect,No Heart Problem
-83,38,Male,Non-Anginal,138,175,FALSE,1,173,No,0,downsloping,4,Fixed_Defect,Heart Problem
-84,37,Female,Non-Anginal,120,215,FALSE,1,170,No,0,downsloping,0,Fixed_Defect,Heart Problem
-85,44,Male,Atypical Angina,120,220,FALSE,1,170,No,0,downsloping,0,Fixed_Defect,Heart Problem
-86,58,Male,Non-Anginal,140,211,TRUE,0,165,No,0,downsloping,0,Fixed_Defect,Heart Problem
-87,59,Female,Typical Angina,174,249,FALSE,1,143,Yes,0,flat,0,Fixed_Defect,No Heart Problem
-88,62,Female,Typical Angina,140,268,FALSE,0,160,No,3.6,unsloping,2,Fixed_Defect,No Heart Problem
-89,68,Male,Typical Angina,144,193,TRUE,1,141,No,3.4,flat,2,Reversable_Defect,No Heart Problem
-90,54,Female,Non-Anginal,108,267,FALSE,0,167,No,0,downsloping,0,Fixed_Defect,Heart Problem
-91,62,Female,Typical Angina,124,209,FALSE,1,163,No,0,downsloping,0,Fixed_Defect,Heart Problem
-92,63,Male,Typical Angina,140,187,FALSE,0,144,Yes,4,downsloping,2,Reversable_Defect,No Heart Problem
-93,44,Male,Typical Angina,120,169,FALSE,1,144,Yes,2.8,unsloping,0,Normal,No Heart Problem
-94,62,Male,Atypical Angina,128,208,TRUE,0,140,No,0,downsloping,0,Fixed_Defect,Heart Problem
-95,45,Female,Typical Angina,138,236,FALSE,0,152,Yes,0.2,flat,0,Fixed_Defect,Heart Problem
-96,57,Female,Typical Angina,128,303,FALSE,0,159,No,0,downsloping,1,Fixed_Defect,Heart Problem
-97,53,Male,Typical Angina,123,282,FALSE,1,95,Yes,2,flat,2,Reversable_Defect,No Heart Problem
-98,65,Male,Typical Angina,110,248,FALSE,0,158,No,0.6,downsloping,2,Normal,No Heart Problem
-99,76,Female,Non-Anginal,140,197,FALSE,2,116,No,1.1,flat,0,Fixed_Defect,Heart Problem
-100,43,Female,Non-Anginal,122,213,FALSE,1,165,No,0.2,flat,0,Fixed_Defect,Heart Problem
-101,57,Male,Non-Anginal,150,126,TRUE,1,173,No,0.2,downsloping,1,Reversable_Defect,Heart Problem
-102,54,Male,Atypical Angina,108,309,FALSE,1,156,No,0,downsloping,0,Reversable_Defect,Heart Problem
-103,47,Male,Non-Anginal,138,257,FALSE,0,156,No,0,downsloping,0,Fixed_Defect,Heart Problem
-104,52,Male,Asymptomatic,118,186,FALSE,0,190,No,0,flat,0,Normal,Heart Problem
-105,47,Male,Typical Angina,110,275,FALSE,0,118,Yes,1,flat,1,Fixed_Defect,No Heart Problem
-106,51,Male,Typical Angina,140,299,FALSE,1,173,Yes,1.6,downsloping,0,Reversable_Defect,No Heart Problem
-107,62,Male,Atypical Angina,120,281,FALSE,0,103,No,1.4,flat,1,Reversable_Defect,No Heart Problem
-108,40,Male,Typical Angina,152,223,FALSE,1,181,No,0,downsloping,0,Reversable_Defect,No Heart Problem
-109,54,Male,Typical Angina,110,206,FALSE,0,108,Yes,0,flat,1,Fixed_Defect,No Heart Problem
-110,44,Male,Typical Angina,110,197,FALSE,0,177,No,0,downsloping,1,Fixed_Defect,No Heart Problem
-111,53,Male,Typical Angina,142,226,FALSE,0,111,Yes,0,downsloping,0,Reversable_Defect,Heart Problem
-112,48,Male,Typical Angina,130,256,TRUE,0,150,Yes,0,downsloping,2,Reversable_Defect,No Heart Problem
-113,57,Male,Typical Angina,110,335,FALSE,1,143,Yes,3,flat,1,Reversable_Defect,No Heart Problem
-114,59,Male,Non-Anginal,126,218,TRUE,1,134,No,2.2,flat,1,Normal,No Heart Problem
-115,61,Female,Typical Angina,145,307,FALSE,0,146,Yes,1,flat,0,Reversable_Defect,No Heart Problem
-116,63,Male,Typical Angina,130,254,FALSE,0,147,No,1.4,flat,1,Reversable_Defect,No Heart Problem
-117,43,Male,Typical Angina,120,177,FALSE,0,120,Yes,2.5,flat,0,Reversable_Defect,No Heart Problem
-118,29,Male,Atypical Angina,130,204,FALSE,0,202,No,0,downsloping,0,Fixed_Defect,Heart Problem
-119,42,Male,Atypical Angina,120,295,FALSE,1,162,No,0,downsloping,0,Fixed_Defect,Heart Problem
-120,54,Male,Atypical Angina,108,309,FALSE,1,156,No,0,downsloping,0,Reversable_Defect,Heart Problem
-121,44,Male,Typical Angina,120,169,FALSE,1,144,Yes,2.8,unsloping,0,Normal,No Heart Problem
-122,60,Male,Typical Angina,145,282,FALSE,0,142,Yes,2.8,flat,2,Reversable_Defect,No Heart Problem
-123,65,Female,Non-Anginal,140,417,TRUE,0,157,No,0.8,downsloping,1,Fixed_Defect,Heart Problem
-124,61,Male,Typical Angina,120,260,FALSE,1,140,Yes,3.6,flat,1,Reversable_Defect,No Heart Problem
-125,60,Female,Asymptomatic,150,240,FALSE,1,171,No,0.9,downsloping,0,Fixed_Defect,Heart Problem
-126,66,Male,Typical Angina,120,302,FALSE,0,151,No,0.4,flat,0,Fixed_Defect,Heart Problem
-127,53,Male,Non-Anginal,130,197,TRUE,0,152,No,1.2,unsloping,0,Fixed_Defect,Heart Problem
-128,52,Male,Non-Anginal,138,223,FALSE,1,169,No,0,downsloping,4,Fixed_Defect,Heart Problem
-129,57,Male,Typical Angina,140,192,FALSE,1,148,No,0.4,flat,0,Normal,Heart Problem
-130,60,Female,Asymptomatic,150,240,FALSE,1,171,No,0.9,downsloping,0,Fixed_Defect,Heart Problem
-131,51,Female,Non-Anginal,130,256,FALSE,0,149,No,0.5,downsloping,0,Fixed_Defect,Heart Problem
-132,41,Male,Atypical Angina,135,203,FALSE,1,132,No,0,flat,0,Normal,Heart Problem
-133,50,Male,Non-Anginal,129,196,FALSE,1,163,No,0,downsloping,0,Fixed_Defect,Heart Problem
-134,54,Male,Atypical Angina,108,309,FALSE,1,156,No,0,downsloping,0,Reversable_Defect,Heart Problem
-135,58,Female,Typical Angina,170,225,TRUE,0,146,Yes,2.8,flat,2,Normal,No Heart Problem
-136,55,Female,Atypical Angina,132,342,FALSE,1,166,No,1.2,downsloping,0,Fixed_Defect,Heart Problem
-137,64,Female,Typical Angina,180,325,FALSE,1,154,Yes,0,downsloping,0,Fixed_Defect,Heart Problem
-138,47,Male,Non-Anginal,138,257,FALSE,0,156,No,0,downsloping,0,Fixed_Defect,Heart Problem
-139,41,Male,Atypical Angina,110,235,FALSE,1,153,No,0,downsloping,0,Fixed_Defect,Heart Problem
-140,57,Male,Typical Angina,152,274,FALSE,1,88,Yes,1.2,flat,1,Reversable_Defect,No Heart Problem
-141,63,Female,Typical Angina,124,197,FALSE,1,136,Yes,0,flat,0,Fixed_Defect,No Heart Problem
-142,61,Male,Asymptomatic,134,234,FALSE,1,145,No,2.6,flat,2,Fixed_Defect,No Heart Problem
-143,34,Male,Asymptomatic,118,182,FALSE,0,174,No,0,downsloping,0,Fixed_Defect,Heart Problem
-144,47,Male,Typical Angina,112,204,FALSE,1,143,No,0.1,downsloping,0,Fixed_Defect,Heart Problem
-145,40,Male,Typical Angina,110,167,FALSE,0,114,Yes,2,flat,0,Reversable_Defect,No Heart Problem
-146,51,Female,Non-Anginal,120,295,FALSE,0,157,No,0.6,downsloping,0,Fixed_Defect,Heart Problem
-147,41,Male,Typical Angina,110,172,FALSE,0,158,No,0,downsloping,0,Reversable_Defect,No Heart Problem
-148,52,Male,Asymptomatic,152,298,TRUE,1,178,No,1.2,flat,0,Reversable_Defect,Heart Problem
-149,39,Male,Non-Anginal,140,321,FALSE,0,182,No,0,downsloping,0,Fixed_Defect,Heart Problem
-150,58,Male,Typical Angina,114,318,FALSE,2,140,No,4.4,unsloping,3,Normal,No Heart Problem
-151,54,Male,Atypical Angina,192,283,FALSE,0,195,No,0,downsloping,1,Reversable_Defect,No Heart Problem
-152,58,Male,Typical Angina,125,300,FALSE,0,171,No,0,downsloping,2,Reversable_Defect,No Heart Problem
-153,54,Male,Non-Anginal,120,258,FALSE,0,147,No,0.4,flat,0,Reversable_Defect,Heart Problem
-154,63,Male,Typical Angina,130,330,TRUE,0,132,Yes,1.8,downsloping,3,Reversable_Defect,No Heart Problem
-155,54,Male,Atypical Angina,108,309,FALSE,1,156,No,0,downsloping,0,Reversable_Defect,Heart Problem
-156,40,Male,Asymptomatic,140,199,FALSE,1,178,Yes,1.4,downsloping,0,Reversable_Defect,Heart Problem
-157,54,Male,Non-Anginal,120,258,FALSE,0,147,No,0.4,flat,0,Reversable_Defect,Heart Problem
-158,67,Female,Non-Anginal,115,564,FALSE,0,160,No,1.6,flat,0,Reversable_Defect,Heart Problem
-159,41,Male,Atypical Angina,120,157,FALSE,1,182,No,0,downsloping,0,Fixed_Defect,Heart Problem
-160,77,Male,Typical Angina,125,304,FALSE,0,162,Yes,0,downsloping,3,Fixed_Defect,No Heart Problem
-161,51,Male,Non-Anginal,100,222,FALSE,1,143,Yes,1.2,flat,0,Fixed_Defect,Heart Problem
-162,77,Male,Typical Angina,125,304,FALSE,0,162,Yes,0,downsloping,3,Fixed_Defect,No Heart Problem
-163,48,Male,Typical Angina,124,274,FALSE,0,166,No,0.5,flat,0,Reversable_Defect,No Heart Problem
-164,56,Male,Typical Angina,125,249,TRUE,0,144,Yes,1.2,flat,1,Fixed_Defect,No Heart Problem
-165,59,Male,Typical Angina,170,326,FALSE,0,140,Yes,3.4,unsloping,0,Reversable_Defect,No Heart Problem
-166,56,Male,Typical Angina,132,184,FALSE,0,105,Yes,2.1,flat,1,Normal,No Heart Problem
-167,57,Female,Typical Angina,120,354,FALSE,1,163,Yes,0.6,downsloping,0,Fixed_Defect,Heart Problem
-168,43,Male,Non-Anginal,130,315,FALSE,1,162,No,1.9,downsloping,1,Fixed_Defect,Heart Problem
-169,45,Female,Atypical Angina,112,160,FALSE,1,138,No,0,flat,0,Fixed_Defect,Heart Problem
-170,43,Male,Typical Angina,150,247,FALSE,1,171,No,1.5,downsloping,0,Fixed_Defect,Heart Problem
-171,56,Male,Typical Angina,130,283,TRUE,0,103,Yes,1.6,unsloping,0,Reversable_Defect,No Heart Problem
-172,56,Male,Atypical Angina,120,240,FALSE,1,169,No,0,unsloping,0,Fixed_Defect,Heart Problem
-173,39,Female,Non-Anginal,94,199,FALSE,1,179,No,0,downsloping,0,Fixed_Defect,Heart Problem
-174,54,Male,Typical Angina,110,239,FALSE,1,126,Yes,2.8,flat,1,Reversable_Defect,No Heart Problem
-175,56,Female,Typical Angina,200,288,TRUE,0,133,Yes,4,unsloping,2,Reversable_Defect,No Heart Problem
-176,56,Male,Typical Angina,130,283,TRUE,0,103,Yes,1.6,unsloping,0,Reversable_Defect,No Heart Problem
-177,64,Male,Typical Angina,120,246,FALSE,0,96,Yes,2.2,unsloping,1,Fixed_Defect,No Heart Problem
-178,44,Male,Typical Angina,110,197,FALSE,0,177,No,0,downsloping,1,Fixed_Defect,No Heart Problem
-179,56,Female,Typical Angina,134,409,FALSE,0,150,Yes,1.9,flat,2,Reversable_Defect,No Heart Problem
-180,63,Male,Typical Angina,140,187,FALSE,0,144,Yes,4,downsloping,2,Reversable_Defect,No Heart Problem
-181,64,Male,Asymptomatic,110,211,FALSE,0,144,Yes,1.8,flat,0,Fixed_Defect,Heart Problem
-182,60,Male,Typical Angina,140,293,FALSE,0,170,No,1.2,flat,2,Reversable_Defect,No Heart Problem
-183,42,Male,Non-Anginal,130,180,FALSE,1,150,No,0,downsloping,0,Fixed_Defect,Heart Problem
-184,45,Male,Atypical Angina,128,308,FALSE,0,170,No,0,downsloping,0,Fixed_Defect,Heart Problem
-185,57,Male,Typical Angina,165,289,TRUE,0,124,No,1,flat,3,Reversable_Defect,No Heart Problem
-186,40,Male,Typical Angina,110,167,FALSE,0,114,Yes,2,flat,0,Reversable_Defect,No Heart Problem
-187,56,Male,Typical Angina,125,249,TRUE,0,144,Yes,1.2,flat,1,Fixed_Defect,No Heart Problem
-188,63,Male,Typical Angina,130,254,FALSE,0,147,No,1.4,flat,1,Reversable_Defect,No Heart Problem
-189,64,Male,Non-Anginal,125,309,FALSE,1,131,Yes,1.8,flat,0,Reversable_Defect,No Heart Problem
-190,41,Male,Non-Anginal,112,250,FALSE,1,179,No,0,downsloping,0,Fixed_Defect,Heart Problem
-191,56,Male,Atypical Angina,130,221,FALSE,0,163,No,0,downsloping,0,Reversable_Defect,Heart Problem
-192,67,Female,Non-Anginal,115,564,FALSE,0,160,No,1.6,flat,0,Reversable_Defect,Heart Problem
-193,69,Male,Asymptomatic,160,234,TRUE,0,131,No,0.1,flat,1,Fixed_Defect,Heart Problem
-194,67,Male,Typical Angina,160,286,FALSE,0,108,Yes,1.5,flat,3,Fixed_Defect,No Heart Problem
-195,59,Male,Non-Anginal,150,212,TRUE,1,157,No,1.6,downsloping,0,Fixed_Defect,Heart Problem
-196,58,Male,Typical Angina,100,234,FALSE,1,156,No,0.1,downsloping,1,Reversable_Defect,No Heart Problem
-197,45,Male,Typical Angina,115,260,FALSE,0,185,No,0,downsloping,0,Fixed_Defect,Heart Problem
-198,60,Female,Non-Anginal,102,318,FALSE,1,160,No,0,downsloping,1,Fixed_Defect,Heart Problem
-199,50,Male,Typical Angina,144,200,FALSE,0,126,Yes,0.9,flat,0,Reversable_Defect,No Heart Problem
-200,62,Female,Typical Angina,124,209,FALSE,1,163,No,0,downsloping,0,Fixed_Defect,Heart Problem
-201,34,Male,Asymptomatic,118,182,FALSE,0,174,No,0,downsloping,0,Fixed_Defect,Heart Problem
-202,52,Male,Asymptomatic,152,298,TRUE,1,178,No,1.2,flat,0,Reversable_Defect,Heart Problem
-203,64,Male,Asymptomatic,170,227,FALSE,0,155,No,0.6,flat,0,Reversable_Defect,Heart Problem
-204,66,Female,Non-Anginal,146,278,FALSE,0,152,No,0,flat,1,Fixed_Defect,Heart Problem
-205,42,Male,Asymptomatic,148,244,FALSE,0,178,No,0.8,downsloping,2,Fixed_Defect,Heart Problem
-206,59,Male,Non-Anginal,126,218,TRUE,1,134,No,2.2,flat,1,Normal,No Heart Problem
-207,41,Male,Non-Anginal,112,250,FALSE,1,179,No,0,downsloping,0,Fixed_Defect,Heart Problem
-208,38,Male,Non-Anginal,138,175,FALSE,1,173,No,0,downsloping,4,Fixed_Defect,Heart Problem
-209,62,Male,Atypical Angina,120,281,FALSE,0,103,No,1.4,flat,1,Reversable_Defect,No Heart Problem
-210,42,Male,Non-Anginal,120,240,TRUE,1,194,No,0.8,unsloping,0,Reversable_Defect,Heart Problem
-211,67,Male,Typical Angina,100,299,FALSE,0,125,Yes,0.9,flat,2,Fixed_Defect,No Heart Problem
-212,50,Male,Typical Angina,150,243,FALSE,0,128,No,2.6,flat,0,Reversable_Defect,No Heart Problem
-213,43,Male,Non-Anginal,130,315,FALSE,1,162,No,1.9,downsloping,1,Fixed_Defect,Heart Problem
-214,45,Male,Atypical Angina,128,308,FALSE,0,170,No,0,downsloping,0,Fixed_Defect,Heart Problem
-215,49,Male,Atypical Angina,130,266,FALSE,1,171,No,0.6,downsloping,0,Fixed_Defect,Heart Problem
-216,65,Male,Typical Angina,135,254,FALSE,0,127,No,2.8,flat,1,Reversable_Defect,No Heart Problem
-217,41,Male,Atypical Angina,120,157,FALSE,1,182,No,0,downsloping,0,Fixed_Defect,Heart Problem
-218,46,Male,Typical Angina,140,311,FALSE,1,120,Yes,1.8,flat,2,Reversable_Defect,No Heart Problem
-219,54,Male,Typical Angina,122,286,FALSE,0,116,Yes,3.2,flat,2,Fixed_Defect,No Heart Problem
-220,57,Female,Atypical Angina,130,236,FALSE,0,174,No,0,flat,1,Fixed_Defect,No Heart Problem
-221,63,Male,Typical Angina,130,254,FALSE,0,147,No,1.4,flat,1,Reversable_Defect,No Heart Problem
-222,64,Male,Asymptomatic,110,211,FALSE,0,144,Yes,1.8,flat,0,Fixed_Defect,Heart Problem
-223,39,Female,Non-Anginal,94,199,FALSE,1,179,No,0,downsloping,0,Fixed_Defect,Heart Problem
-224,51,Male,Typical Angina,140,261,FALSE,0,186,Yes,0,downsloping,0,Fixed_Defect,Heart Problem
-225,54,Male,Non-Anginal,150,232,FALSE,0,165,No,1.6,downsloping,0,Reversable_Defect,Heart Problem
-226,49,Male,Non-Anginal,118,149,FALSE,0,126,No,0.8,downsloping,3,Fixed_Defect,No Heart Problem
-227,44,Female,Non-Anginal,118,242,FALSE,1,149,No,0.3,flat,1,Fixed_Defect,Heart Problem
-228,52,Male,Atypical Angina,128,205,TRUE,1,184,No,0,downsloping,0,Fixed_Defect,Heart Problem
-229,66,Female,Typical Angina,178,228,TRUE,1,165,Yes,1,flat,2,Reversable_Defect,No Heart Problem
-230,58,Male,Typical Angina,125,300,FALSE,0,171,No,0,downsloping,2,Reversable_Defect,No Heart Problem
-231,56,Male,Atypical Angina,120,236,FALSE,1,178,No,0.8,downsloping,0,Fixed_Defect,Heart Problem
-232,60,Male,Typical Angina,125,258,FALSE,0,141,Yes,2.8,flat,1,Reversable_Defect,No Heart Problem
-233,41,Female,Atypical Angina,126,306,FALSE,1,163,No,0,downsloping,0,Fixed_Defect,Heart Problem
-234,49,Female,Typical Angina,130,269,FALSE,1,163,No,0,downsloping,0,Fixed_Defect,Heart Problem
-235,64,Male,Asymptomatic,170,227,FALSE,0,155,No,0.6,flat,0,Reversable_Defect,Heart Problem
-236,49,Male,Non-Anginal,118,149,FALSE,0,126,No,0.8,downsloping,3,Fixed_Defect,No Heart Problem
-237,57,Male,Atypical Angina,124,261,FALSE,1,141,No,0.3,downsloping,0,Reversable_Defect,No Heart Problem
-238,60,Male,Typical Angina,117,230,TRUE,1,160,Yes,1.4,downsloping,2,Reversable_Defect,No Heart Problem
-239,62,Female,Typical Angina,150,244,FALSE,1,154,Yes,1.4,flat,0,Fixed_Defect,No Heart Problem
-240,54,Female,Atypical Angina,132,288,TRUE,0,159,Yes,0,downsloping,1,Fixed_Defect,Heart Problem
-241,67,Male,Non-Anginal,152,212,FALSE,0,150,No,0.8,flat,0,Reversable_Defect,No Heart Problem
-242,38,Male,Non-Anginal,138,175,FALSE,1,173,No,0,downsloping,4,Fixed_Defect,Heart Problem
-243,60,Male,Non-Anginal,140,185,FALSE,0,155,No,3,flat,0,Fixed_Defect,No Heart Problem
-244,51,Male,Non-Anginal,125,245,TRUE,0,166,No,2.4,flat,0,Fixed_Defect,Heart Problem
-245,44,Male,Atypical Angina,130,219,FALSE,0,188,No,0,downsloping,0,Fixed_Defect,Heart Problem
-246,54,Male,Atypical Angina,192,283,FALSE,0,195,No,0,downsloping,1,Reversable_Defect,No Heart Problem
-247,46,Male,Typical Angina,140,311,FALSE,1,120,Yes,1.8,flat,2,Reversable_Defect,No Heart Problem
-248,39,Female,Non-Anginal,138,220,FALSE,1,152,No,0,flat,0,Fixed_Defect,Heart Problem
-249,42,Male,Non-Anginal,130,180,FALSE,1,150,No,0,downsloping,0,Fixed_Defect,Heart Problem
-250,47,Male,Typical Angina,110,275,FALSE,0,118,Yes,1,flat,1,Fixed_Defect,No Heart Problem
-251,45,Female,Atypical Angina,112,160,FALSE,1,138,No,0,flat,0,Fixed_Defect,Heart Problem
-252,55,Male,Typical Angina,132,353,FALSE,1,132,Yes,1.2,flat,1,Reversable_Defect,No Heart Problem
-253,57,Male,Typical Angina,165,289,TRUE,0,124,No,1,flat,3,Reversable_Defect,No Heart Problem
-254,35,Male,Typical Angina,120,198,FALSE,1,130,Yes,1.6,flat,0,Reversable_Defect,No Heart Problem
-255,62,Female,Typical Angina,140,394,FALSE,0,157,No,1.2,flat,0,Fixed_Defect,Heart Problem
-256,35,Female,Typical Angina,138,183,FALSE,1,182,No,1.4,downsloping,0,Fixed_Defect,Heart Problem
-257,64,Female,Typical Angina,180,325,FALSE,1,154,Yes,0,downsloping,0,Fixed_Defect,Heart Problem
-258,38,Male,Asymptomatic,120,231,FALSE,1,182,Yes,3.8,flat,0,Reversable_Defect,No Heart Problem
-259,66,Male,Typical Angina,120,302,FALSE,0,151,No,0.4,flat,0,Fixed_Defect,Heart Problem
-260,44,Male,Non-Anginal,120,226,FALSE,1,169,No,0,downsloping,0,Fixed_Defect,Heart Problem
-261,54,Male,Non-Anginal,150,232,FALSE,0,165,No,1.6,downsloping,0,Reversable_Defect,Heart Problem
-262,48,Male,Typical Angina,122,222,FALSE,0,186,No,0,downsloping,0,Fixed_Defect,Heart Problem
-263,55,Female,Atypical Angina,132,342,FALSE,1,166,No,1.2,downsloping,0,Fixed_Defect,Heart Problem
-264,58,Female,Typical Angina,170,225,TRUE,0,146,Yes,2.8,flat,2,Normal,No Heart Problem
-265,45,Male,Typical Angina,104,208,FALSE,0,148,Yes,3,flat,0,Fixed_Defect,Heart Problem
-266,53,Male,Typical Angina,123,282,FALSE,1,95,Yes,2,flat,2,Reversable_Defect,No Heart Problem
-267,67,Male,Typical Angina,120,237,FALSE,1,71,No,1,flat,0,Fixed_Defect,No Heart Problem
-268,58,Male,Non-Anginal,132,224,FALSE,0,173,No,3.2,downsloping,2,Reversable_Defect,No Heart Problem
-269,71,Female,Non-Anginal,110,265,TRUE,0,130,No,0,downsloping,1,Fixed_Defect,Heart Problem
-270,43,Male,Typical Angina,110,211,FALSE,1,161,No,0,downsloping,0,Reversable_Defect,Heart Problem
-271,44,Male,Atypical Angina,120,263,FALSE,1,173,No,0,downsloping,0,Reversable_Defect,Heart Problem
-272,39,Female,Non-Anginal,138,220,FALSE,1,152,No,0,flat,0,Fixed_Defect,Heart Problem
-273,54,Male,Typical Angina,110,206,FALSE,0,108,Yes,0,flat,1,Fixed_Defect,No Heart Problem
-274,66,Male,Typical Angina,160,228,FALSE,0,138,No,2.3,downsloping,0,Normal,Heart Problem
-275,56,Male,Typical Angina,130,283,TRUE,0,103,Yes,1.6,unsloping,0,Reversable_Defect,No Heart Problem
-276,57,Male,Typical Angina,132,207,FALSE,1,168,Yes,0,downsloping,0,Reversable_Defect,Heart Problem
-277,44,Male,Atypical Angina,130,219,FALSE,0,188,No,0,downsloping,0,Fixed_Defect,Heart Problem
-278,55,Male,Typical Angina,160,289,FALSE,0,145,Yes,0.8,flat,1,Reversable_Defect,No Heart Problem
-279,41,Female,Atypical Angina,105,198,FALSE,1,168,No,0,downsloping,1,Fixed_Defect,Heart Problem
-280,45,Female,Atypical Angina,130,234,FALSE,0,175,No,0.6,flat,0,Fixed_Defect,Heart Problem
-281,35,Male,Atypical Angina,122,192,FALSE,1,174,No,0,downsloping,0,Fixed_Defect,Heart Problem
-282,41,Female,Atypical Angina,130,204,FALSE,0,172,No,1.4,downsloping,0,Fixed_Defect,Heart Problem
-283,64,Male,Asymptomatic,110,211,FALSE,0,144,Yes,1.8,flat,0,Fixed_Defect,Heart Problem
-284,58,Male,Non-Anginal,132,224,FALSE,0,173,No,3.2,downsloping,2,Reversable_Defect,No Heart Problem
-285,71,Female,Non-Anginal,110,265,TRUE,0,130,No,0,downsloping,1,Fixed_Defect,Heart Problem
-286,64,Female,Non-Anginal,140,313,FALSE,1,133,No,0.2,downsloping,0,Reversable_Defect,Heart Problem
-287,71,Female,Atypical Angina,160,302,FALSE,1,162,No,0.4,downsloping,2,Fixed_Defect,Heart Problem
-288,58,Female,Non-Anginal,120,340,FALSE,1,172,No,0,downsloping,0,Fixed_Defect,Heart Problem
-289,40,Male,Typical Angina,152,223,FALSE,1,181,No,0,downsloping,0,Reversable_Defect,No Heart Problem
-290,52,Male,Non-Anginal,138,223,FALSE,1,169,No,0,downsloping,4,Fixed_Defect,Heart Problem
-291,58,Male,Typical Angina,128,259,FALSE,0,130,Yes,3,flat,2,Reversable_Defect,No Heart Problem
-292,61,Male,Non-Anginal,150,243,TRUE,1,137,Yes,1,flat,0,Fixed_Defect,Heart Problem
-293,59,Male,Non-Anginal,150,212,TRUE,1,157,No,1.6,downsloping,0,Fixed_Defect,Heart Problem
-294,56,Female,Typical Angina,200,288,TRUE,0,133,Yes,4,unsloping,2,Reversable_Defect,No Heart Problem
-295,67,Male,Typical Angina,100,299,FALSE,0,125,Yes,0.9,flat,2,Fixed_Defect,No Heart Problem
-296,67,Male,Typical Angina,120,237,FALSE,1,71,No,1,flat,0,Fixed_Defect,No Heart Problem
-297,58,Male,Typical Angina,150,270,FALSE,0,111,Yes,0.8,downsloping,0,Reversable_Defect,No Heart Problem
-298,35,Male,Atypical Angina,122,192,FALSE,1,174,No,0,downsloping,0,Fixed_Defect,Heart Problem
-299,52,Male,Atypical Angina,120,325,FALSE,1,172,No,0.2,downsloping,0,Fixed_Defect,Heart Problem
-300,46,Female,Atypical Angina,105,204,FALSE,1,172,No,0,downsloping,0,Fixed_Defect,Heart Problem
-301,51,Male,Non-Anginal,94,227,FALSE,1,154,Yes,0,downsloping,1,Reversable_Defect,Heart Problem
-302,55,Female,Atypical Angina,132,342,FALSE,1,166,No,1.2,downsloping,0,Fixed_Defect,Heart Problem
-303,60,Male,Typical Angina,145,282,FALSE,0,142,Yes,2.8,flat,2,Reversable_Defect,No Heart Problem
-304,52,Female,Non-Anginal,136,196,FALSE,0,169,No,0.1,flat,0,Fixed_Defect,Heart Problem
-305,62,Male,Typical Angina,120,267,FALSE,1,99,Yes,1.8,flat,2,Reversable_Defect,No Heart Problem
-306,44,Female,Non-Anginal,118,242,FALSE,1,149,No,0.3,flat,1,Fixed_Defect,Heart Problem
-307,44,Male,Atypical Angina,120,220,FALSE,1,170,No,0,downsloping,0,Fixed_Defect,Heart Problem
-308,59,Male,Non-Anginal,126,218,TRUE,1,134,No,2.2,flat,1,Normal,No Heart Problem
-309,56,Female,Atypical Angina,140,294,FALSE,0,153,No,1.3,flat,0,Fixed_Defect,Heart Problem
-310,61,Male,Typical Angina,120,260,FALSE,1,140,Yes,3.6,flat,1,Reversable_Defect,No Heart Problem
-311,48,Male,Typical Angina,130,256,TRUE,0,150,Yes,0,downsloping,2,Reversable_Defect,No Heart Problem
-312,70,Male,Non-Anginal,160,269,FALSE,1,112,Yes,2.9,flat,1,Reversable_Defect,No Heart Problem
-313,74,Female,Atypical Angina,120,269,FALSE,0,121,Yes,0.2,downsloping,1,Fixed_Defect,Heart Problem
-314,40,Male,Asymptomatic,140,199,FALSE,1,178,Yes,1.4,downsloping,0,Reversable_Defect,Heart Problem
-315,42,Male,Asymptomatic,148,244,FALSE,0,178,No,0.8,downsloping,2,Fixed_Defect,Heart Problem
-316,64,Female,Non-Anginal,140,313,FALSE,1,133,No,0.2,downsloping,0,Reversable_Defect,Heart Problem
-317,63,Female,Non-Anginal,135,252,FALSE,0,172,No,0,downsloping,0,Fixed_Defect,Heart Problem
-318,59,Male,Typical Angina,140,177,FALSE,1,162,Yes,0,downsloping,1,Reversable_Defect,No Heart Problem
-319,53,Female,Non-Anginal,128,216,FALSE,0,115,No,0,downsloping,0,0,Heart Problem
-320,53,Female,Typical Angina,130,264,FALSE,0,143,No,0.4,flat,0,Fixed_Defect,Heart Problem
-321,48,Female,Non-Anginal,130,275,FALSE,1,139,No,0.2,downsloping,0,Fixed_Defect,Heart Problem
-322,45,Male,Typical Angina,142,309,FALSE,0,147,Yes,0,flat,3,Reversable_Defect,No Heart Problem
-323,66,Male,Atypical Angina,160,246,FALSE,1,120,Yes,0,flat,3,Normal,No Heart Problem
-324,48,Male,Atypical Angina,130,245,FALSE,0,180,No,0.2,flat,0,Fixed_Defect,Heart Problem
-325,56,Female,Atypical Angina,140,294,FALSE,0,153,No,1.3,flat,0,Fixed_Defect,Heart Problem
-326,54,Male,Atypical Angina,192,283,FALSE,0,195,No,0,downsloping,1,Reversable_Defect,No Heart Problem
-327,57,Male,Typical Angina,150,276,FALSE,0,112,Yes,0.6,flat,1,Normal,No Heart Problem
-328,70,Male,Typical Angina,130,322,FALSE,0,109,No,2.4,flat,3,Fixed_Defect,No Heart Problem
-329,53,Female,Non-Anginal,128,216,FALSE,0,115,No,0,downsloping,0,0,Heart Problem
-330,37,Female,Non-Anginal,120,215,FALSE,1,170,No,0,downsloping,0,Fixed_Defect,Heart Problem
-331,63,Female,Typical Angina,108,269,FALSE,1,169,Yes,1.8,flat,2,Fixed_Defect,No Heart Problem
-332,37,Male,Non-Anginal,130,250,FALSE,1,187,No,3.5,unsloping,0,Fixed_Defect,Heart Problem
-333,54,Female,Non-Anginal,110,214,FALSE,1,158,No,1.6,flat,0,Fixed_Defect,Heart Problem
-334,60,Male,Typical Angina,130,206,FALSE,0,132,Yes,2.4,flat,2,Reversable_Defect,No Heart Problem
-335,58,Male,Typical Angina,150,270,FALSE,0,111,Yes,0.8,downsloping,0,Reversable_Defect,No Heart Problem
-336,57,Male,Non-Anginal,150,126,TRUE,1,173,No,0.2,downsloping,1,Reversable_Defect,Heart Problem
-337,54,Male,Non-Anginal,125,273,FALSE,0,152,No,0.5,unsloping,1,Fixed_Defect,Heart Problem
-338,56,Male,Non-Anginal,130,256,TRUE,0,142,Yes,0.6,flat,1,Normal,No Heart Problem
-339,60,Male,Typical Angina,130,253,FALSE,1,144,Yes,1.4,downsloping,1,Reversable_Defect,No Heart Problem
-340,38,Male,Non-Anginal,138,175,FALSE,1,173,No,0,downsloping,4,Fixed_Defect,Heart Problem
-341,44,Male,Non-Anginal,120,226,FALSE,1,169,No,0,downsloping,0,Fixed_Defect,Heart Problem
-342,65,Female,Non-Anginal,155,269,FALSE,1,148,No,0.8,downsloping,0,Fixed_Defect,Heart Problem
-343,52,Male,Non-Anginal,172,199,TRUE,1,162,No,0.5,downsloping,0,Reversable_Defect,Heart Problem
-344,41,Male,Atypical Angina,120,157,FALSE,1,182,No,0,downsloping,0,Fixed_Defect,Heart Problem
-345,66,Male,Atypical Angina,160,246,FALSE,1,120,Yes,0,flat,3,Normal,No Heart Problem
-346,50,Male,Typical Angina,150,243,FALSE,0,128,No,2.6,flat,0,Reversable_Defect,No Heart Problem
-347,54,Female,Non-Anginal,108,267,FALSE,0,167,No,0,downsloping,0,Fixed_Defect,Heart Problem
-348,43,Male,Typical Angina,132,247,TRUE,0,143,Yes,0.1,flat,4,Reversable_Defect,No Heart Problem
-349,62,Female,Non-Anginal,130,263,FALSE,1,97,No,1.2,flat,1,Reversable_Defect,No Heart Problem
-350,66,Male,Typical Angina,120,302,FALSE,0,151,No,0.4,flat,0,Fixed_Defect,Heart Problem
-351,50,Male,Typical Angina,144,200,FALSE,0,126,Yes,0.9,flat,0,Reversable_Defect,No Heart Problem
-352,57,Male,Typical Angina,110,335,FALSE,1,143,Yes,3,flat,1,Reversable_Defect,No Heart Problem
-353,57,Male,Typical Angina,110,201,FALSE,1,126,Yes,1.5,flat,0,Normal,Heart Problem
-354,57,Male,Atypical Angina,124,261,FALSE,1,141,No,0.3,downsloping,0,Reversable_Defect,No Heart Problem
-355,46,Female,Typical Angina,138,243,FALSE,0,152,Yes,0,flat,0,Fixed_Defect,Heart Problem
-356,59,Male,Typical Angina,164,176,TRUE,0,90,No,1,flat,2,Normal,No Heart Problem
-357,67,Male,Typical Angina,160,286,FALSE,0,108,Yes,1.5,flat,3,Fixed_Defect,No Heart Problem
-358,59,Male,Asymptomatic,134,204,FALSE,1,162,No,0.8,downsloping,2,Fixed_Defect,No Heart Problem
-359,53,Female,Non-Anginal,128,216,FALSE,0,115,No,0,downsloping,0,0,Heart Problem
-360,48,Male,Typical Angina,122,222,FALSE,0,186,No,0,downsloping,0,Fixed_Defect,Heart Problem
-361,62,Male,Non-Anginal,130,231,FALSE,1,146,No,1.8,flat,3,Reversable_Defect,Heart Problem
-362,43,Female,Non-Anginal,122,213,FALSE,1,165,No,0.2,flat,0,Fixed_Defect,Heart Problem
-363,53,Male,Non-Anginal,130,246,TRUE,0,173,No,0,downsloping,3,Fixed_Defect,Heart Problem
-364,57,Female,Atypical Angina,130,236,FALSE,0,174,No,0,flat,1,Fixed_Defect,No Heart Problem
-365,53,Male,Non-Anginal,130,246,TRUE,0,173,No,0,downsloping,3,Fixed_Defect,Heart Problem
-366,58,Male,Non-Anginal,112,230,FALSE,0,165,No,2.5,flat,1,Reversable_Defect,No Heart Problem
-367,48,Male,Atypical Angina,110,229,FALSE,1,168,No,1,unsloping,0,Reversable_Defect,No Heart Problem
-368,58,Male,Non-Anginal,105,240,FALSE,0,154,Yes,0.6,flat,0,Reversable_Defect,Heart Problem
-369,51,Male,Non-Anginal,110,175,FALSE,1,123,No,0.6,downsloping,0,Fixed_Defect,Heart Problem
-370,43,Female,Typical Angina,132,341,TRUE,0,136,Yes,3,flat,0,Reversable_Defect,No Heart Problem
-371,55,Male,Typical Angina,132,353,FALSE,1,132,Yes,1.2,flat,1,Reversable_Defect,No Heart Problem
-372,54,Female,Non-Anginal,110,214,FALSE,1,158,No,1.6,flat,0,Fixed_Defect,Heart Problem
-373,58,Male,Atypical Angina,120,284,FALSE,0,160,No,1.8,flat,0,Fixed_Defect,No Heart Problem
-374,46,Female,Non-Anginal,142,177,FALSE,0,160,Yes,1.4,unsloping,0,Fixed_Defect,Heart Problem
-375,66,Male,Typical Angina,160,228,FALSE,0,138,No,2.3,downsloping,0,Normal,Heart Problem
-376,59,Male,Atypical Angina,140,221,FALSE,1,164,Yes,0,downsloping,0,Fixed_Defect,Heart Problem
-377,64,Female,Typical Angina,130,303,FALSE,1,122,No,2,flat,2,Fixed_Defect,Heart Problem
-378,67,Male,Typical Angina,120,237,FALSE,1,71,No,1,flat,0,Fixed_Defect,No Heart Problem
-379,52,Male,Asymptomatic,118,186,FALSE,0,190,No,0,flat,0,Normal,Heart Problem
-380,58,Male,Typical Angina,146,218,FALSE,1,105,No,2,flat,1,Reversable_Defect,No Heart Problem
-381,58,Male,Non-Anginal,132,224,FALSE,0,173,No,3.2,downsloping,2,Reversable_Defect,No Heart Problem
-382,59,Male,Typical Angina,110,239,FALSE,0,142,Yes,1.2,flat,1,Reversable_Defect,No Heart Problem
-383,58,Male,Typical Angina,150,270,FALSE,0,111,Yes,0.8,downsloping,0,Reversable_Defect,No Heart Problem
-384,35,Male,Typical Angina,126,282,FALSE,0,156,Yes,0,downsloping,0,Reversable_Defect,No Heart Problem
-385,51,Male,Non-Anginal,110,175,FALSE,1,123,No,0.6,downsloping,0,Fixed_Defect,Heart Problem
-386,42,Female,Non-Anginal,120,209,FALSE,1,173,No,0,flat,0,Fixed_Defect,Heart Problem
-387,77,Male,Typical Angina,125,304,FALSE,0,162,Yes,0,downsloping,3,Fixed_Defect,No Heart Problem
-388,64,Male,Typical Angina,120,246,FALSE,0,96,Yes,2.2,unsloping,1,Fixed_Defect,No Heart Problem
-389,63,Male,Asymptomatic,145,233,TRUE,0,150,No,2.3,unsloping,0,Normal,Heart Problem
-390,58,Female,Atypical Angina,136,319,TRUE,0,152,No,0,downsloping,2,Fixed_Defect,No Heart Problem
-391,45,Male,Asymptomatic,110,264,FALSE,1,132,No,1.2,flat,0,Reversable_Defect,No Heart Problem
-392,51,Male,Non-Anginal,110,175,FALSE,1,123,No,0.6,downsloping,0,Fixed_Defect,Heart Problem
-393,62,Female,Typical Angina,160,164,FALSE,0,145,No,6.2,unsloping,3,Reversable_Defect,No Heart Problem
-394,63,Male,Typical Angina,130,330,TRUE,0,132,Yes,1.8,downsloping,3,Reversable_Defect,No Heart Problem
-395,66,Female,Non-Anginal,146,278,FALSE,0,152,No,0,flat,1,Fixed_Defect,Heart Problem
-396,68,Male,Non-Anginal,180,274,TRUE,0,150,Yes,1.6,flat,0,Reversable_Defect,No Heart Problem
-397,40,Male,Typical Angina,110,167,FALSE,0,114,Yes,2,flat,0,Reversable_Defect,No Heart Problem
-398,66,Male,Typical Angina,160,228,FALSE,0,138,No,2.3,downsloping,0,Normal,Heart Problem
-399,63,Male,Asymptomatic,145,233,TRUE,0,150,No,2.3,unsloping,0,Normal,Heart Problem
-400,49,Male,Non-Anginal,120,188,FALSE,1,139,No,2,flat,3,Reversable_Defect,No Heart Problem
-401,71,Female,Typical Angina,112,149,FALSE,1,125,No,1.6,flat,0,Fixed_Defect,Heart Problem
-402,70,Male,Atypical Angina,156,245,FALSE,0,143,No,0,downsloping,0,Fixed_Defect,Heart Problem
-403,46,Female,Atypical Angina,105,204,FALSE,1,172,No,0,downsloping,0,Fixed_Defect,Heart Problem
-404,61,Male,Typical Angina,140,207,FALSE,0,138,Yes,1.9,downsloping,1,Reversable_Defect,No Heart Problem
-405,56,Male,Non-Anginal,130,256,TRUE,0,142,Yes,0.6,flat,1,Normal,No Heart Problem
-406,58,Male,Non-Anginal,140,211,TRUE,0,165,No,0,downsloping,0,Fixed_Defect,Heart Problem
-407,58,Male,Typical Angina,100,234,FALSE,1,156,No,0.1,downsloping,1,Reversable_Defect,No Heart Problem
-408,46,Female,Typical Angina,138,243,FALSE,0,152,Yes,0,flat,0,Fixed_Defect,Heart Problem
-409,46,Male,Non-Anginal,150,231,FALSE,1,147,No,3.6,flat,0,Fixed_Defect,No Heart Problem
-410,41,Female,Atypical Angina,105,198,FALSE,1,168,No,0,downsloping,1,Fixed_Defect,Heart Problem
-411,56,Male,Typical Angina,125,249,TRUE,0,144,Yes,1.2,flat,1,Fixed_Defect,No Heart Problem
-412,57,Male,Typical Angina,150,276,FALSE,0,112,Yes,0.6,flat,1,Normal,No Heart Problem
-413,70,Male,Typical Angina,130,322,FALSE,0,109,No,2.4,flat,3,Fixed_Defect,No Heart Problem
-414,59,Male,Asymptomatic,170,288,FALSE,0,159,No,0.2,flat,0,Reversable_Defect,No Heart Problem
-415,41,Female,Atypical Angina,130,204,FALSE,0,172,No,1.4,downsloping,0,Fixed_Defect,Heart Problem
-416,54,Male,Non-Anginal,125,273,FALSE,0,152,No,0.5,unsloping,1,Fixed_Defect,Heart Problem
-417,52,Male,Non-Anginal,138,223,FALSE,1,169,No,0,downsloping,4,Fixed_Defect,Heart Problem
-418,62,Female,Typical Angina,124,209,FALSE,1,163,No,0,downsloping,0,Fixed_Defect,Heart Problem
-419,65,Female,Non-Anginal,160,360,FALSE,0,151,No,0.8,downsloping,0,Fixed_Defect,Heart Problem
-420,57,Female,Typical Angina,128,303,FALSE,0,159,No,0,downsloping,1,Fixed_Defect,Heart Problem
-421,42,Female,Typical Angina,102,265,FALSE,0,122,No,0.6,flat,0,Fixed_Defect,Heart Problem
-422,57,Female,Typical Angina,120,354,FALSE,1,163,Yes,0.6,downsloping,0,Fixed_Defect,Heart Problem
-423,58,Female,Atypical Angina,136,319,TRUE,0,152,No,0,downsloping,2,Fixed_Defect,No Heart Problem
-424,45,Male,Typical Angina,142,309,FALSE,0,147,Yes,0,flat,3,Reversable_Defect,No Heart Problem
-425,51,Female,Typical Angina,130,305,FALSE,1,142,Yes,1.2,flat,0,Reversable_Defect,No Heart Problem
-426,54,Female,Non-Anginal,160,201,FALSE,1,163,No,0,downsloping,1,Fixed_Defect,Heart Problem
-427,57,Male,Non-Anginal,150,168,FALSE,1,174,No,1.6,downsloping,0,Fixed_Defect,Heart Problem
-428,43,Male,Typical Angina,132,247,TRUE,0,143,Yes,0.1,flat,4,Reversable_Defect,No Heart Problem
-429,47,Male,Non-Anginal,108,243,FALSE,1,152,No,0,downsloping,0,Fixed_Defect,No Heart Problem
-430,67,Male,Non-Anginal,152,212,FALSE,0,150,No,0.8,flat,0,Reversable_Defect,No Heart Problem
-431,65,Female,Typical Angina,150,225,FALSE,0,114,No,1,flat,3,Reversable_Defect,No Heart Problem
-432,60,Female,Non-Anginal,102,318,FALSE,1,160,No,0,downsloping,1,Fixed_Defect,Heart Problem
-433,37,Male,Non-Anginal,130,250,FALSE,1,187,No,3.5,unsloping,0,Fixed_Defect,Heart Problem
-434,41,Female,Non-Anginal,112,268,FALSE,0,172,Yes,0,downsloping,0,Fixed_Defect,Heart Problem
-435,57,Female,Typical Angina,120,354,FALSE,1,163,Yes,0.6,downsloping,0,Fixed_Defect,Heart Problem
-436,59,Female,Typical Angina,174,249,FALSE,1,143,Yes,0,flat,0,Fixed_Defect,No Heart Problem
-437,67,Male,Typical Angina,120,229,FALSE,0,129,Yes,2.6,flat,2,Reversable_Defect,No Heart Problem
-438,47,Male,Non-Anginal,130,253,FALSE,1,179,No,0,downsloping,0,Fixed_Defect,Heart Problem
-439,58,Male,Atypical Angina,120,284,FALSE,0,160,No,1.8,flat,0,Fixed_Defect,No Heart Problem
-440,62,Female,Typical Angina,150,244,FALSE,1,154,Yes,1.4,flat,0,Fixed_Defect,No Heart Problem
-441,60,Male,Typical Angina,140,293,FALSE,0,170,No,1.2,flat,2,Reversable_Defect,No Heart Problem
-442,57,Male,Typical Angina,152,274,FALSE,1,88,Yes,1.2,flat,1,Reversable_Defect,No Heart Problem
-443,57,Male,Non-Anginal,150,168,FALSE,1,174,No,1.6,downsloping,0,Fixed_Defect,Heart Problem
-444,47,Male,Non-Anginal,130,253,FALSE,1,179,No,0,downsloping,0,Fixed_Defect,Heart Problem
-445,52,Male,Atypical Angina,128,205,TRUE,1,184,No,0,downsloping,0,Fixed_Defect,Heart Problem
-446,53,Male,Non-Anginal,130,246,TRUE,0,173,No,0,downsloping,3,Fixed_Defect,Heart Problem
-447,55,Male,Typical Angina,160,289,FALSE,0,145,Yes,0.8,flat,1,Reversable_Defect,No Heart Problem
-448,51,Female,Non-Anginal,120,295,FALSE,0,157,No,0.6,downsloping,0,Fixed_Defect,Heart Problem
-449,52,Male,Typical Angina,112,230,FALSE,1,160,No,0,downsloping,1,Fixed_Defect,No Heart Problem
-450,63,Female,Typical Angina,150,407,FALSE,0,154,No,4,flat,3,Reversable_Defect,No Heart Problem
-451,49,Female,Atypical Angina,134,271,FALSE,1,162,No,0,flat,0,Fixed_Defect,Heart Problem
-452,66,Female,Typical Angina,178,228,TRUE,1,165,Yes,1,flat,2,Reversable_Defect,No Heart Problem
-453,49,Female,Atypical Angina,134,271,FALSE,1,162,No,0,flat,0,Fixed_Defect,Heart Problem
-454,65,Female,Typical Angina,150,225,FALSE,0,114,No,1,flat,3,Reversable_Defect,No Heart Problem
-455,69,Male,Asymptomatic,160,234,TRUE,0,131,No,0.1,flat,1,Fixed_Defect,Heart Problem
-456,47,Male,Non-Anginal,108,243,FALSE,1,152,No,0,downsloping,0,Fixed_Defect,No Heart Problem
-457,39,Female,Non-Anginal,138,220,FALSE,1,152,No,0,flat,0,Fixed_Defect,Heart Problem
-458,43,Male,Typical Angina,150,247,FALSE,1,171,No,1.5,downsloping,0,Fixed_Defect,Heart Problem
-459,51,Male,Typical Angina,140,261,FALSE,0,186,Yes,0,downsloping,0,Fixed_Defect,Heart Problem
-460,69,Male,Non-Anginal,140,254,FALSE,0,146,No,2,flat,3,Reversable_Defect,No Heart Problem
-461,48,Male,Non-Anginal,124,255,TRUE,1,175,No,0,downsloping,2,Fixed_Defect,Heart Problem
-462,52,Male,Asymptomatic,118,186,FALSE,0,190,No,0,flat,0,Normal,Heart Problem
-463,43,Male,Typical Angina,110,211,FALSE,1,161,No,0,downsloping,0,Reversable_Defect,Heart Problem
-464,67,Female,Non-Anginal,115,564,FALSE,0,160,No,1.6,flat,0,Reversable_Defect,Heart Problem
-465,38,Male,Non-Anginal,138,175,FALSE,1,173,No,0,downsloping,4,Fixed_Defect,Heart Problem
-466,44,Male,Atypical Angina,130,219,FALSE,0,188,No,0,downsloping,0,Fixed_Defect,Heart Problem
-467,47,Male,Typical Angina,110,275,FALSE,0,118,Yes,1,flat,1,Fixed_Defect,No Heart Problem
-468,61,Male,Non-Anginal,150,243,TRUE,1,137,Yes,1,flat,0,Fixed_Defect,Heart Problem
-469,67,Male,Typical Angina,160,286,FALSE,0,108,Yes,1.5,flat,3,Fixed_Defect,No Heart Problem
-470,60,Female,Asymptomatic,150,240,FALSE,1,171,No,0.9,downsloping,0,Fixed_Defect,Heart Problem
-471,64,Female,Non-Anginal,140,313,FALSE,1,133,No,0.2,downsloping,0,Reversable_Defect,Heart Problem
-472,58,Female,Typical Angina,130,197,FALSE,1,131,No,0.6,flat,0,Fixed_Defect,Heart Problem
-473,41,Male,Non-Anginal,130,214,FALSE,0,168,No,2,flat,0,Fixed_Defect,Heart Problem
-474,48,Male,Atypical Angina,110,229,FALSE,1,168,No,1,unsloping,0,Reversable_Defect,No Heart Problem
-475,57,Male,Non-Anginal,150,126,TRUE,1,173,No,0.2,downsloping,1,Reversable_Defect,Heart Problem
-476,57,Male,Typical Angina,165,289,TRUE,0,124,No,1,flat,3,Reversable_Defect,No Heart Problem
-477,57,Male,Non-Anginal,128,229,FALSE,0,150,No,0.4,flat,1,Reversable_Defect,No Heart Problem
-478,39,Male,Non-Anginal,140,321,FALSE,0,182,No,0,downsloping,0,Fixed_Defect,Heart Problem
-479,58,Male,Typical Angina,128,216,FALSE,0,131,Yes,2.2,flat,3,Reversable_Defect,No Heart Problem
-480,51,Female,Typical Angina,130,305,FALSE,1,142,Yes,1.2,flat,0,Reversable_Defect,No Heart Problem
-481,63,Female,Typical Angina,150,407,FALSE,0,154,No,4,flat,3,Reversable_Defect,No Heart Problem
-482,51,Male,Typical Angina,140,298,FALSE,1,122,Yes,4.2,flat,3,Reversable_Defect,No Heart Problem
-483,35,Male,Atypical Angina,122,192,FALSE,1,174,No,0,downsloping,0,Fixed_Defect,Heart Problem
-484,65,Male,Typical Angina,110,248,FALSE,0,158,No,0.6,downsloping,2,Normal,No Heart Problem
-485,62,Male,Atypical Angina,120,281,FALSE,0,103,No,1.4,flat,1,Reversable_Defect,No Heart Problem
-486,41,Male,Typical Angina,110,172,FALSE,0,158,No,0,downsloping,0,Reversable_Defect,No Heart Problem
-487,65,Male,Typical Angina,135,254,FALSE,0,127,No,2.8,flat,1,Reversable_Defect,No Heart Problem
-488,54,Female,Atypical Angina,132,288,TRUE,0,159,Yes,0,downsloping,1,Fixed_Defect,Heart Problem
-489,61,Male,Non-Anginal,150,243,TRUE,1,137,Yes,1,flat,0,Fixed_Defect,Heart Problem
-490,57,Female,Typical Angina,128,303,FALSE,0,159,No,0,downsloping,1,Fixed_Defect,Heart Problem
-491,57,Male,Non-Anginal,150,168,FALSE,1,174,No,1.6,downsloping,0,Fixed_Defect,Heart Problem
-492,64,Male,Non-Anginal,125,309,FALSE,1,131,Yes,1.8,flat,0,Reversable_Defect,No Heart Problem
-493,55,Male,Typical Angina,132,353,FALSE,1,132,Yes,1.2,flat,1,Reversable_Defect,No Heart Problem
-494,51,Male,Non-Anginal,125,245,TRUE,0,166,No,2.4,flat,0,Fixed_Defect,Heart Problem
-495,59,Male,Typical Angina,135,234,FALSE,1,161,No,0.5,flat,0,Reversable_Defect,Heart Problem
-496,68,Male,Non-Anginal,180,274,TRUE,0,150,Yes,1.6,flat,0,Reversable_Defect,No Heart Problem
-497,57,Male,Atypical Angina,154,232,FALSE,0,164,No,0,downsloping,1,Fixed_Defect,No Heart Problem
-498,54,Male,Typical Angina,140,239,FALSE,1,160,No,1.2,downsloping,0,Fixed_Defect,Heart Problem
-499,46,Female,Non-Anginal,142,177,FALSE,0,160,Yes,1.4,unsloping,0,Fixed_Defect,Heart Problem
-500,71,Female,Typical Angina,112,149,FALSE,1,125,No,1.6,flat,0,Fixed_Defect,Heart Problem
-501,35,Female,Typical Angina,138,183,FALSE,1,182,No,1.4,downsloping,0,Fixed_Defect,Heart Problem
-502,46,Female,Non-Anginal,142,177,FALSE,0,160,Yes,1.4,unsloping,0,Fixed_Defect,Heart Problem
-503,45,Female,Atypical Angina,130,234,FALSE,0,175,No,0.6,flat,0,Fixed_Defect,Heart Problem
-504,47,Male,Non-Anginal,108,243,FALSE,1,152,No,0,downsloping,0,Fixed_Defect,No Heart Problem
-505,44,Female,Non-Anginal,118,242,FALSE,1,149,No,0.3,flat,1,Fixed_Defect,Heart Problem
-506,61,Male,Typical Angina,120,260,FALSE,1,140,Yes,3.6,flat,1,Reversable_Defect,No Heart Problem
-507,41,Female,Atypical Angina,130,204,FALSE,0,172,No,1.4,downsloping,0,Fixed_Defect,Heart Problem
-508,56,Female,Typical Angina,200,288,TRUE,0,133,Yes,4,unsloping,2,Reversable_Defect,No Heart Problem
-509,55,Female,Typical Angina,180,327,FALSE,2,117,Yes,3.4,flat,0,Fixed_Defect,No Heart Problem
-510,54,Female,Atypical Angina,132,288,TRUE,0,159,Yes,0,downsloping,1,Fixed_Defect,Heart Problem
-511,43,Male,Typical Angina,120,177,FALSE,0,120,Yes,2.5,flat,0,Reversable_Defect,No Heart Problem
-512,44,Male,Typical Angina,112,290,FALSE,0,153,No,0,downsloping,1,Fixed_Defect,No Heart Problem
-513,54,Male,Typical Angina,110,206,FALSE,0,108,Yes,0,flat,1,Fixed_Defect,No Heart Problem
-514,44,Male,Atypical Angina,120,220,FALSE,1,170,No,0,downsloping,0,Fixed_Defect,Heart Problem
-515,49,Male,Non-Anginal,120,188,FALSE,1,139,No,2,flat,3,Reversable_Defect,No Heart Problem
-516,60,Male,Typical Angina,130,206,FALSE,0,132,Yes,2.4,flat,2,Reversable_Defect,No Heart Problem
-517,41,Female,Atypical Angina,105,198,FALSE,1,168,No,0,downsloping,1,Fixed_Defect,Heart Problem
-518,49,Male,Non-Anginal,120,188,FALSE,1,139,No,2,flat,3,Reversable_Defect,No Heart Problem
-519,61,Male,Typical Angina,148,203,FALSE,1,161,No,0,downsloping,1,Reversable_Defect,No Heart Problem
-520,59,Male,Typical Angina,140,177,FALSE,1,162,Yes,0,downsloping,1,Reversable_Defect,No Heart Problem
-521,58,Male,Atypical Angina,125,220,FALSE,1,144,No,0.4,flat,4,Reversable_Defect,Heart Problem
-522,67,Female,Non-Anginal,152,277,FALSE,1,172,No,0,downsloping,1,Fixed_Defect,Heart Problem
-523,61,Male,Typical Angina,148,203,FALSE,1,161,No,0,downsloping,1,Reversable_Defect,No Heart Problem
-524,58,Male,Non-Anginal,112,230,FALSE,0,165,No,2.5,flat,1,Reversable_Defect,No Heart Problem
-525,51,Female,Non-Anginal,130,256,FALSE,0,149,No,0.5,downsloping,0,Fixed_Defect,Heart Problem
-526,62,Female,Typical Angina,160,164,FALSE,0,145,No,6.2,unsloping,3,Reversable_Defect,No Heart Problem
-527,62,Female,Typical Angina,124,209,FALSE,1,163,No,0,downsloping,0,Fixed_Defect,Heart Problem
-528,59,Male,Asymptomatic,178,270,FALSE,0,145,No,4.2,unsloping,0,Reversable_Defect,Heart Problem
-529,69,Male,Asymptomatic,160,234,TRUE,0,131,No,0.1,flat,1,Fixed_Defect,Heart Problem
-530,60,Female,Typical Angina,150,258,FALSE,0,157,No,2.6,flat,2,Reversable_Defect,No Heart Problem
-531,65,Female,Non-Anginal,155,269,FALSE,1,148,No,0.8,downsloping,0,Fixed_Defect,Heart Problem
-532,63,Female,Typical Angina,124,197,FALSE,1,136,Yes,0,flat,0,Fixed_Defect,No Heart Problem
-533,53,Female,Typical Angina,138,234,FALSE,0,160,No,0,downsloping,0,Fixed_Defect,Heart Problem
-534,54,Female,Non-Anginal,108,267,FALSE,0,167,No,0,downsloping,0,Fixed_Defect,Heart Problem
-535,76,Female,Non-Anginal,140,197,FALSE,2,116,No,1.1,flat,0,Fixed_Defect,Heart Problem
-536,50,Female,Non-Anginal,120,219,FALSE,1,158,No,1.6,flat,0,Fixed_Defect,Heart Problem
-537,52,Male,Atypical Angina,120,325,FALSE,1,172,No,0.2,downsloping,0,Fixed_Defect,Heart Problem
-538,46,Male,Typical Angina,120,249,FALSE,0,144,No,0.8,downsloping,0,Reversable_Defect,No Heart Problem
-539,64,Male,Asymptomatic,170,227,FALSE,0,155,No,0.6,flat,0,Reversable_Defect,Heart Problem
-540,58,Male,Typical Angina,128,259,FALSE,0,130,Yes,3,flat,2,Reversable_Defect,No Heart Problem
-541,44,Male,Non-Anginal,140,235,FALSE,0,180,No,0,downsloping,0,Fixed_Defect,Heart Problem
-542,62,Female,Typical Angina,140,394,FALSE,0,157,No,1.2,flat,0,Fixed_Defect,Heart Problem
-543,59,Male,Asymptomatic,134,204,FALSE,1,162,No,0.8,downsloping,2,Fixed_Defect,No Heart Problem
-544,54,Male,Non-Anginal,125,273,FALSE,0,152,No,0.5,unsloping,1,Fixed_Defect,Heart Problem
-545,48,Male,Atypical Angina,110,229,FALSE,1,168,No,1,unsloping,0,Reversable_Defect,No Heart Problem
-546,70,Male,Typical Angina,130,322,FALSE,0,109,No,2.4,flat,3,Fixed_Defect,No Heart Problem
-547,67,Female,Typical Angina,106,223,FALSE,1,142,No,0.3,downsloping,2,Fixed_Defect,Heart Problem
-548,51,Female,Non-Anginal,120,295,FALSE,0,157,No,0.6,downsloping,0,Fixed_Defect,Heart Problem
-549,68,Male,Non-Anginal,118,277,FALSE,1,151,No,1,downsloping,1,Reversable_Defect,Heart Problem
-550,69,Male,Non-Anginal,140,254,FALSE,0,146,No,2,flat,3,Reversable_Defect,No Heart Problem
-551,54,Male,Typical Angina,122,286,FALSE,0,116,Yes,3.2,flat,2,Fixed_Defect,No Heart Problem
-552,43,Female,Typical Angina,132,341,TRUE,0,136,Yes,3,flat,0,Reversable_Defect,No Heart Problem
-553,53,Male,Non-Anginal,130,197,TRUE,0,152,No,1.2,unsloping,0,Fixed_Defect,Heart Problem
-554,58,Male,Typical Angina,100,234,FALSE,1,156,No,0.1,downsloping,1,Reversable_Defect,No Heart Problem
-555,67,Male,Typical Angina,125,254,TRUE,1,163,No,0.2,flat,2,Reversable_Defect,No Heart Problem
-556,59,Male,Typical Angina,140,177,FALSE,1,162,Yes,0,downsloping,1,Reversable_Defect,No Heart Problem
-557,48,Male,Typical Angina,122,222,FALSE,0,186,No,0,downsloping,0,Fixed_Defect,Heart Problem
-558,39,Female,Non-Anginal,94,199,FALSE,1,179,No,0,downsloping,0,Fixed_Defect,Heart Problem
-559,67,Male,Typical Angina,120,237,FALSE,1,71,No,1,flat,0,Fixed_Defect,No Heart Problem
-560,58,Female,Typical Angina,130,197,FALSE,1,131,No,0.6,flat,0,Fixed_Defect,Heart Problem
-561,65,Female,Non-Anginal,155,269,FALSE,1,148,No,0.8,downsloping,0,Fixed_Defect,Heart Problem
-562,42,Female,Non-Anginal,120,209,FALSE,1,173,No,0,flat,0,Fixed_Defect,Heart Problem
-563,44,Male,Typical Angina,112,290,FALSE,0,153,No,0,downsloping,1,Fixed_Defect,No Heart Problem
-564,56,Male,Typical Angina,132,184,FALSE,0,105,Yes,2.1,flat,1,Normal,No Heart Problem
-565,53,Female,Typical Angina,138,234,FALSE,0,160,No,0,downsloping,0,Fixed_Defect,Heart Problem
-566,50,Female,Typical Angina,110,254,FALSE,0,159,No,0,downsloping,0,Fixed_Defect,Heart Problem
-567,41,Male,Non-Anginal,130,214,FALSE,0,168,No,2,flat,0,Fixed_Defect,Heart Problem
-568,54,Female,Non-Anginal,160,201,FALSE,1,163,No,0,downsloping,1,Fixed_Defect,Heart Problem
-569,42,Male,Non-Anginal,120,240,TRUE,1,194,No,0.8,unsloping,0,Reversable_Defect,Heart Problem
-570,54,Female,Non-Anginal,135,304,TRUE,1,170,No,0,downsloping,0,Fixed_Defect,Heart Problem
-571,60,Male,Typical Angina,145,282,FALSE,0,142,Yes,2.8,flat,2,Reversable_Defect,No Heart Problem
-572,34,Male,Asymptomatic,118,182,FALSE,0,174,No,0,downsloping,0,Fixed_Defect,Heart Problem
-573,44,Male,Typical Angina,112,290,FALSE,0,153,No,0,downsloping,1,Fixed_Defect,No Heart Problem
-574,60,Male,Typical Angina,125,258,FALSE,0,141,Yes,2.8,flat,1,Reversable_Defect,No Heart Problem
-575,43,Male,Typical Angina,150,247,FALSE,1,171,No,1.5,downsloping,0,Fixed_Defect,Heart Problem
-576,52,Male,Asymptomatic,152,298,TRUE,1,178,No,1.2,flat,0,Reversable_Defect,Heart Problem
-577,70,Male,Typical Angina,130,322,FALSE,0,109,No,2.4,flat,3,Fixed_Defect,No Heart Problem
-578,62,Female,Typical Angina,140,394,FALSE,0,157,No,1.2,flat,0,Fixed_Defect,Heart Problem
-579,58,Male,Typical Angina,146,218,FALSE,1,105,No,2,flat,1,Reversable_Defect,No Heart Problem
-580,46,Male,Atypical Angina,101,197,TRUE,1,156,No,0,downsloping,0,Reversable_Defect,Heart Problem
-581,44,Male,Non-Anginal,140,235,FALSE,0,180,No,0,downsloping,0,Fixed_Defect,Heart Problem
-582,55,Male,Atypical Angina,130,262,FALSE,1,155,No,0,downsloping,0,Fixed_Defect,Heart Problem
-583,43,Male,Typical Angina,120,177,FALSE,0,120,Yes,2.5,flat,0,Reversable_Defect,No Heart Problem
-584,55,Male,Typical Angina,132,353,FALSE,1,132,Yes,1.2,flat,1,Reversable_Defect,No Heart Problem
-585,40,Male,Asymptomatic,140,199,FALSE,1,178,Yes,1.4,downsloping,0,Reversable_Defect,Heart Problem
-586,64,Male,Non-Anginal,125,309,FALSE,1,131,Yes,1.8,flat,0,Reversable_Defect,No Heart Problem
-587,59,Male,Typical Angina,164,176,TRUE,0,90,No,1,flat,2,Normal,No Heart Problem
-588,61,Female,Typical Angina,145,307,FALSE,0,146,Yes,1,flat,0,Reversable_Defect,No Heart Problem
-589,54,Male,Typical Angina,122,286,FALSE,0,116,Yes,3.2,flat,2,Fixed_Defect,No Heart Problem
-590,74,Female,Atypical Angina,120,269,FALSE,0,121,Yes,0.2,downsloping,1,Fixed_Defect,Heart Problem
-591,63,Female,Typical Angina,108,269,FALSE,1,169,Yes,1.8,flat,2,Fixed_Defect,No Heart Problem
-592,70,Male,Non-Anginal,160,269,FALSE,1,112,Yes,2.9,flat,1,Reversable_Defect,No Heart Problem
-593,63,Female,Typical Angina,108,269,FALSE,1,169,Yes,1.8,flat,2,Fixed_Defect,No Heart Problem
-594,64,Male,Typical Angina,145,212,FALSE,0,132,No,2,flat,2,Normal,No Heart Problem
-595,61,Male,Typical Angina,148,203,FALSE,1,161,No,0,downsloping,1,Reversable_Defect,No Heart Problem
-596,59,Male,Atypical Angina,140,221,FALSE,1,164,Yes,0,downsloping,0,Fixed_Defect,Heart Problem
-597,38,Male,Non-Anginal,138,175,FALSE,1,173,No,0,downsloping,4,Fixed_Defect,Heart Problem
-598,58,Male,Atypical Angina,120,284,FALSE,0,160,No,1.8,flat,0,Fixed_Defect,No Heart Problem
-599,63,Female,Atypical Angina,140,195,FALSE,1,179,No,0,downsloping,2,Fixed_Defect,Heart Problem
-600,62,Female,Non-Anginal,130,263,FALSE,1,97,No,1.2,flat,1,Reversable_Defect,No Heart Problem
-601,46,Male,Typical Angina,140,311,FALSE,1,120,Yes,1.8,flat,2,Reversable_Defect,No Heart Problem
-602,58,Female,Non-Anginal,120,340,FALSE,1,172,No,0,downsloping,0,Fixed_Defect,Heart Problem
-603,63,Female,Atypical Angina,140,195,FALSE,1,179,No,0,downsloping,2,Fixed_Defect,Heart Problem
-604,47,Male,Non-Anginal,130,253,FALSE,1,179,No,0,downsloping,0,Fixed_Defect,Heart Problem
-605,71,Female,Non-Anginal,110,265,TRUE,0,130,No,0,downsloping,1,Fixed_Defect,Heart Problem
-606,66,Male,Typical Angina,112,212,FALSE,0,132,Yes,0.1,downsloping,1,Fixed_Defect,No Heart Problem
-607,42,Male,Typical Angina,136,315,FALSE,1,125,Yes,1.8,flat,0,Normal,No Heart Problem
-608,64,Male,Typical Angina,145,212,FALSE,0,132,No,2,flat,2,Normal,No Heart Problem
-609,55,Female,Typical Angina,180,327,FALSE,2,117,Yes,3.4,flat,0,Fixed_Defect,No Heart Problem
-610,43,Female,Typical Angina,132,341,TRUE,0,136,Yes,3,flat,0,Reversable_Defect,No Heart Problem
-611,55,Female,Typical Angina,128,205,FALSE,2,130,Yes,2,flat,1,Reversable_Defect,No Heart Problem
-612,58,Female,Typical Angina,170,225,TRUE,0,146,Yes,2.8,flat,2,Normal,No Heart Problem
-613,55,Male,Typical Angina,140,217,FALSE,1,111,Yes,5.6,unsloping,0,Reversable_Defect,No Heart Problem
-614,51,Female,Typical Angina,130,305,FALSE,1,142,Yes,1.2,flat,0,Reversable_Defect,No Heart Problem
-615,50,Female,Non-Anginal,120,219,FALSE,1,158,No,1.6,flat,0,Fixed_Defect,Heart Problem
-616,43,Male,Typical Angina,115,303,FALSE,1,181,No,1.2,flat,0,Fixed_Defect,Heart Problem
-617,41,Female,Atypical Angina,126,306,FALSE,1,163,No,0,downsloping,0,Fixed_Defect,Heart Problem
-618,49,Male,Atypical Angina,130,266,FALSE,1,171,No,0.6,downsloping,0,Fixed_Defect,Heart Problem
-619,65,Male,Typical Angina,110,248,FALSE,0,158,No,0.6,downsloping,2,Normal,No Heart Problem
-620,57,Male,Typical Angina,152,274,FALSE,1,88,Yes,1.2,flat,1,Reversable_Defect,No Heart Problem
-621,48,Male,Typical Angina,130,256,TRUE,0,150,Yes,0,downsloping,2,Reversable_Defect,No Heart Problem
-622,62,Female,Typical Angina,138,294,TRUE,1,106,No,1.9,flat,3,Fixed_Defect,No Heart Problem
-623,61,Male,Asymptomatic,134,234,FALSE,1,145,No,2.6,flat,2,Fixed_Defect,No Heart Problem
-624,59,Male,Asymptomatic,178,270,FALSE,0,145,No,4.2,unsloping,0,Reversable_Defect,Heart Problem
-625,69,Male,Non-Anginal,140,254,FALSE,0,146,No,2,flat,3,Reversable_Defect,No Heart Problem
-626,58,Male,Non-Anginal,132,224,FALSE,0,173,No,3.2,downsloping,2,Reversable_Defect,No Heart Problem
-627,38,Male,Asymptomatic,120,231,FALSE,1,182,Yes,3.8,flat,0,Reversable_Defect,No Heart Problem
-628,69,Female,Asymptomatic,140,239,FALSE,1,151,No,1.8,downsloping,2,Fixed_Defect,Heart Problem
-629,65,Male,Asymptomatic,138,282,TRUE,0,174,No,1.4,flat,1,Fixed_Defect,No Heart Problem
-630,45,Male,Asymptomatic,110,264,FALSE,1,132,No,1.2,flat,0,Reversable_Defect,No Heart Problem
-631,49,Male,Atypical Angina,130,266,FALSE,1,171,No,0.6,downsloping,0,Fixed_Defect,Heart Problem
-632,45,Female,Atypical Angina,130,234,FALSE,0,175,No,0.6,flat,0,Fixed_Defect,Heart Problem
-633,61,Male,Typical Angina,138,166,FALSE,0,125,Yes,3.6,flat,1,Fixed_Defect,No Heart Problem
-634,52,Male,Typical Angina,125,212,FALSE,1,168,No,1,downsloping,2,Reversable_Defect,No Heart Problem
-635,53,Female,Typical Angina,130,264,FALSE,0,143,No,0.4,flat,0,Fixed_Defect,Heart Problem
-636,59,Female,Typical Angina,174,249,FALSE,1,143,Yes,0,flat,0,Fixed_Defect,No Heart Problem
-637,58,Female,Non-Anginal,120,340,FALSE,1,172,No,0,downsloping,0,Fixed_Defect,Heart Problem
-638,65,Male,Asymptomatic,138,282,TRUE,0,174,No,1.4,flat,1,Fixed_Defect,No Heart Problem
-639,58,Female,Typical Angina,130,197,FALSE,1,131,No,0.6,flat,0,Fixed_Defect,Heart Problem
-640,46,Female,Typical Angina,138,243,FALSE,0,152,Yes,0,flat,0,Fixed_Defect,Heart Problem
-641,56,Female,Typical Angina,134,409,FALSE,0,150,Yes,1.9,flat,2,Reversable_Defect,No Heart Problem
-642,64,Male,Typical Angina,128,263,FALSE,1,105,Yes,0.2,flat,1,Reversable_Defect,Heart Problem
-643,65,Male,Typical Angina,120,177,FALSE,1,140,No,0.4,downsloping,0,Reversable_Defect,Heart Problem
-644,44,Male,Non-Anginal,120,226,FALSE,1,169,No,0,downsloping,0,Fixed_Defect,Heart Problem
-645,50,Male,Typical Angina,150,243,FALSE,0,128,No,2.6,flat,0,Reversable_Defect,No Heart Problem
-646,47,Male,Non-Anginal,108,243,FALSE,1,152,No,0,downsloping,0,Fixed_Defect,No Heart Problem
-647,64,Female,Typical Angina,130,303,FALSE,1,122,No,2,flat,2,Fixed_Defect,Heart Problem
-648,71,Female,Typical Angina,112,149,FALSE,1,125,No,1.6,flat,0,Fixed_Defect,Heart Problem
-649,45,Female,Atypical Angina,130,234,FALSE,0,175,No,0.6,flat,0,Fixed_Defect,Heart Problem
-650,62,Male,Typical Angina,120,267,FALSE,1,99,Yes,1.8,flat,2,Reversable_Defect,No Heart Problem
-651,41,Male,Atypical Angina,120,157,FALSE,1,182,No,0,downsloping,0,Fixed_Defect,Heart Problem
-652,66,Female,Asymptomatic,150,226,FALSE,1,114,No,2.6,unsloping,0,Fixed_Defect,Heart Problem
-653,56,Male,Typical Angina,130,283,TRUE,0,103,Yes,1.6,unsloping,0,Reversable_Defect,No Heart Problem
-654,41,Female,Atypical Angina,126,306,FALSE,1,163,No,0,downsloping,0,Fixed_Defect,Heart Problem
-655,41,Male,Atypical Angina,110,235,FALSE,1,153,No,0,downsloping,0,Fixed_Defect,Heart Problem
-656,57,Female,Atypical Angina,130,236,FALSE,0,174,No,0,flat,1,Fixed_Defect,No Heart Problem
-657,39,Female,Non-Anginal,138,220,FALSE,1,152,No,0,flat,0,Fixed_Defect,Heart Problem
-658,64,Male,Non-Anginal,125,309,FALSE,1,131,Yes,1.8,flat,0,Reversable_Defect,No Heart Problem
-659,59,Male,Typical Angina,138,271,FALSE,0,182,No,0,downsloping,0,Fixed_Defect,Heart Problem
-660,61,Male,Typical Angina,138,166,FALSE,0,125,Yes,3.6,flat,1,Fixed_Defect,No Heart Problem
-661,58,Male,Typical Angina,114,318,FALSE,2,140,No,4.4,unsloping,3,Normal,No Heart Problem
-662,47,Male,Typical Angina,112,204,FALSE,1,143,No,0.1,downsloping,0,Fixed_Defect,Heart Problem
-663,58,Female,Typical Angina,100,248,FALSE,0,122,No,1,flat,0,Fixed_Defect,Heart Problem
-664,66,Female,Asymptomatic,150,226,FALSE,1,114,No,2.6,unsloping,0,Fixed_Defect,Heart Problem
-665,65,Female,Non-Anginal,140,417,TRUE,0,157,No,0.8,downsloping,1,Fixed_Defect,Heart Problem
-666,35,Male,Atypical Angina,122,192,FALSE,1,174,No,0,downsloping,0,Fixed_Defect,Heart Problem
-667,57,Male,Atypical Angina,124,261,FALSE,1,141,No,0.3,downsloping,0,Reversable_Defect,No Heart Problem
-668,29,Male,Atypical Angina,130,204,FALSE,0,202,No,0,downsloping,0,Fixed_Defect,Heart Problem
-669,66,Male,Atypical Angina,160,246,FALSE,1,120,Yes,0,flat,3,Normal,No Heart Problem
-670,61,Female,Typical Angina,130,330,FALSE,0,169,No,0,downsloping,0,Fixed_Defect,No Heart Problem
-671,52,Male,Typical Angina,125,212,FALSE,1,168,No,1,downsloping,2,Reversable_Defect,No Heart Problem
-672,68,Male,Non-Anginal,118,277,FALSE,1,151,No,1,downsloping,1,Reversable_Defect,Heart Problem
-673,54,Male,Non-Anginal,120,258,FALSE,0,147,No,0.4,flat,0,Reversable_Defect,Heart Problem
-674,63,Male,Typical Angina,130,330,TRUE,0,132,Yes,1.8,downsloping,3,Reversable_Defect,No Heart Problem
-675,58,Male,Typical Angina,100,234,FALSE,1,156,No,0.1,downsloping,1,Reversable_Defect,No Heart Problem
-676,60,Male,Typical Angina,130,253,FALSE,1,144,Yes,1.4,downsloping,1,Reversable_Defect,No Heart Problem
-677,63,Male,Typical Angina,130,254,FALSE,0,147,No,1.4,flat,1,Reversable_Defect,No Heart Problem
-678,41,Female,Non-Anginal,112,268,FALSE,0,172,Yes,0,downsloping,0,Fixed_Defect,Heart Problem
-679,68,Male,Non-Anginal,180,274,TRUE,0,150,Yes,1.6,flat,0,Reversable_Defect,No Heart Problem
-680,42,Male,Atypical Angina,120,295,FALSE,1,162,No,0,downsloping,0,Fixed_Defect,Heart Problem
-681,59,Male,Typical Angina,170,326,FALSE,0,140,Yes,3.4,unsloping,0,Reversable_Defect,No Heart Problem
-682,59,Male,Typical Angina,164,176,TRUE,0,90,No,1,flat,2,Normal,No Heart Problem
-683,43,Male,Typical Angina,120,177,FALSE,0,120,Yes,2.5,flat,0,Reversable_Defect,No Heart Problem
-684,60,Male,Non-Anginal,140,185,FALSE,0,155,No,3,flat,0,Fixed_Defect,No Heart Problem
-685,63,Female,Typical Angina,150,407,FALSE,0,154,No,4,flat,3,Reversable_Defect,No Heart Problem
-686,52,Male,Typical Angina,128,204,TRUE,1,156,Yes,1,flat,0,0,No Heart Problem
-687,58,Male,Typical Angina,125,300,FALSE,0,171,No,0,downsloping,2,Reversable_Defect,No Heart Problem
-688,56,Female,Typical Angina,200,288,TRUE,0,133,Yes,4,unsloping,2,Reversable_Defect,No Heart Problem
-689,54,Female,Non-Anginal,135,304,TRUE,1,170,No,0,downsloping,0,Fixed_Defect,Heart Problem
-690,58,Male,Non-Anginal,105,240,FALSE,0,154,Yes,0.6,flat,0,Reversable_Defect,Heart Problem
-691,55,Female,Atypical Angina,135,250,FALSE,0,161,No,1.4,flat,0,Fixed_Defect,Heart Problem
-692,53,Male,Typical Angina,140,203,TRUE,0,155,Yes,3.1,unsloping,0,Reversable_Defect,No Heart Problem
-693,63,Female,Atypical Angina,140,195,FALSE,1,179,No,0,downsloping,2,Fixed_Defect,Heart Problem
-694,39,Male,Typical Angina,118,219,FALSE,1,140,No,1.2,flat,0,Reversable_Defect,No Heart Problem
-695,35,Male,Typical Angina,126,282,FALSE,0,156,Yes,0,downsloping,0,Reversable_Defect,No Heart Problem
-696,50,Female,Non-Anginal,120,219,FALSE,1,158,No,1.6,flat,0,Fixed_Defect,Heart Problem
-697,67,Male,Non-Anginal,152,212,FALSE,0,150,No,0.8,flat,0,Reversable_Defect,No Heart Problem
-698,66,Male,Typical Angina,112,212,FALSE,0,132,Yes,0.1,downsloping,1,Fixed_Defect,No Heart Problem
-699,35,Male,Typical Angina,126,282,FALSE,0,156,Yes,0,downsloping,0,Reversable_Defect,No Heart Problem
-700,41,Male,Non-Anginal,130,214,FALSE,0,168,No,2,flat,0,Fixed_Defect,Heart Problem
-701,35,Male,Typical Angina,120,198,FALSE,1,130,Yes,1.6,flat,0,Reversable_Defect,No Heart Problem
-702,71,Female,Atypical Angina,160,302,FALSE,1,162,No,0.4,downsloping,2,Fixed_Defect,Heart Problem
-703,57,Male,Typical Angina,110,201,FALSE,1,126,Yes,1.5,flat,0,Normal,Heart Problem
-704,51,Male,Non-Anginal,94,227,FALSE,1,154,Yes,0,downsloping,1,Reversable_Defect,Heart Problem
-705,58,Male,Typical Angina,128,216,FALSE,0,131,Yes,2.2,flat,3,Reversable_Defect,No Heart Problem
-706,57,Male,Non-Anginal,128,229,FALSE,0,150,No,0.4,flat,1,Reversable_Defect,No Heart Problem
-707,56,Female,Atypical Angina,140,294,FALSE,0,153,No,1.3,flat,0,Fixed_Defect,Heart Problem
-708,60,Female,Non-Anginal,120,178,TRUE,1,96,No,0,downsloping,0,Fixed_Defect,Heart Problem
-709,45,Male,Asymptomatic,110,264,FALSE,1,132,No,1.2,flat,0,Reversable_Defect,No Heart Problem
-710,56,Male,Atypical Angina,130,221,FALSE,0,163,No,0,downsloping,0,Reversable_Defect,Heart Problem
-711,35,Male,Typical Angina,120,198,FALSE,1,130,Yes,1.6,flat,0,Reversable_Defect,No Heart Problem
-712,45,Female,Atypical Angina,112,160,FALSE,1,138,No,0,flat,0,Fixed_Defect,Heart Problem
-713,66,Female,Asymptomatic,150,226,FALSE,1,114,No,2.6,unsloping,0,Fixed_Defect,Heart Problem
-714,51,Male,Asymptomatic,125,213,FALSE,0,125,Yes,1.4,downsloping,1,Fixed_Defect,Heart Problem
-715,70,Male,Atypical Angina,156,245,FALSE,0,143,No,0,downsloping,0,Fixed_Defect,Heart Problem
-716,55,Female,Typical Angina,128,205,FALSE,2,130,Yes,2,flat,1,Reversable_Defect,No Heart Problem
-717,56,Male,Non-Anginal,130,256,TRUE,0,142,Yes,0.6,flat,1,Normal,No Heart Problem
-718,55,Female,Atypical Angina,135,250,FALSE,0,161,No,1.4,flat,0,Fixed_Defect,Heart Problem
-719,52,Male,Typical Angina,108,233,TRUE,1,147,No,0.1,downsloping,3,Reversable_Defect,Heart Problem
-720,64,Male,Non-Anginal,140,335,FALSE,1,158,No,0,downsloping,0,Fixed_Defect,No Heart Problem
-721,45,Male,Typical Angina,115,260,FALSE,0,185,No,0,downsloping,0,Fixed_Defect,Heart Problem
-722,67,Female,Non-Anginal,152,277,FALSE,1,172,No,0,downsloping,1,Fixed_Defect,Heart Problem
-723,68,Female,Non-Anginal,120,211,FALSE,0,115,No,1.5,flat,0,Fixed_Defect,Heart Problem
-724,74,Female,Atypical Angina,120,269,FALSE,0,121,Yes,0.2,downsloping,1,Fixed_Defect,Heart Problem
-725,60,Female,Typical Angina,150,258,FALSE,0,157,No,2.6,flat,2,Reversable_Defect,No Heart Problem
-726,48,Male,Typical Angina,124,274,FALSE,0,166,No,0.5,flat,0,Reversable_Defect,No Heart Problem
-727,56,Male,Atypical Angina,130,221,FALSE,0,163,No,0,downsloping,0,Reversable_Defect,Heart Problem
-728,46,Male,Typical Angina,140,311,FALSE,1,120,Yes,1.8,flat,2,Reversable_Defect,No Heart Problem
-729,55,Female,Atypical Angina,135,250,FALSE,0,161,No,1.4,flat,0,Fixed_Defect,Heart Problem
-730,44,Male,Atypical Angina,120,220,FALSE,1,170,No,0,downsloping,0,Fixed_Defect,Heart Problem
-731,52,Male,Typical Angina,112,230,FALSE,1,160,No,0,downsloping,1,Fixed_Defect,No Heart Problem
-732,51,Male,Non-Anginal,94,227,FALSE,1,154,Yes,0,downsloping,1,Reversable_Defect,Heart Problem
-733,44,Female,Non-Anginal,108,141,FALSE,1,175,No,0.6,flat,0,Fixed_Defect,Heart Problem
-734,52,Male,Typical Angina,128,204,TRUE,1,156,Yes,1,flat,0,0,No Heart Problem
-735,50,Male,Non-Anginal,129,196,FALSE,1,163,No,0,downsloping,0,Fixed_Defect,Heart Problem
-736,59,Male,Typical Angina,110,239,FALSE,0,142,Yes,1.2,flat,1,Reversable_Defect,No Heart Problem
-737,67,Male,Typical Angina,120,229,FALSE,0,129,Yes,2.6,flat,2,Reversable_Defect,No Heart Problem
-738,58,Male,Typical Angina,125,300,FALSE,0,171,No,0,downsloping,2,Reversable_Defect,No Heart Problem
-739,52,Male,Typical Angina,128,255,FALSE,1,161,Yes,0,downsloping,1,Reversable_Defect,No Heart Problem
-740,44,Male,Non-Anginal,140,235,FALSE,0,180,No,0,downsloping,0,Fixed_Defect,Heart Problem
-741,41,Female,Non-Anginal,112,268,FALSE,0,172,Yes,0,downsloping,0,Fixed_Defect,Heart Problem
-742,63,Male,Typical Angina,130,330,TRUE,0,132,Yes,1.8,downsloping,3,Reversable_Defect,No Heart Problem
-743,58,Male,Atypical Angina,125,220,FALSE,1,144,No,0.4,flat,4,Reversable_Defect,Heart Problem
-744,60,Female,Non-Anginal,102,318,FALSE,1,160,No,0,downsloping,1,Fixed_Defect,Heart Problem
-745,51,Male,Non-Anginal,100,222,FALSE,1,143,Yes,1.2,flat,0,Fixed_Defect,Heart Problem
-746,64,Male,Non-Anginal,140,335,FALSE,1,158,No,0,downsloping,0,Fixed_Defect,No Heart Problem
-747,60,Male,Typical Angina,117,230,TRUE,1,160,Yes,1.4,downsloping,2,Reversable_Defect,No Heart Problem
-748,44,Male,Non-Anginal,120,226,FALSE,1,169,No,0,downsloping,0,Fixed_Defect,Heart Problem
-749,58,Male,Atypical Angina,125,220,FALSE,1,144,No,0.4,flat,4,Reversable_Defect,Heart Problem
-750,55,Male,Atypical Angina,130,262,FALSE,1,155,No,0,downsloping,0,Fixed_Defect,Heart Problem
-751,65,Female,Non-Anginal,160,360,FALSE,0,151,No,0.8,downsloping,0,Fixed_Defect,Heart Problem
-752,48,Male,Atypical Angina,130,245,FALSE,0,180,No,0.2,flat,0,Fixed_Defect,Heart Problem
-753,65,Male,Typical Angina,120,177,FALSE,1,140,No,0.4,downsloping,0,Reversable_Defect,Heart Problem
-754,51,Female,Non-Anginal,130,256,FALSE,0,149,No,0.5,downsloping,0,Fixed_Defect,Heart Problem
-755,48,Male,Non-Anginal,124,255,TRUE,1,175,No,0,downsloping,2,Fixed_Defect,Heart Problem
-756,64,Male,Typical Angina,120,246,FALSE,0,96,Yes,2.2,unsloping,1,Fixed_Defect,No Heart Problem
-757,66,Male,Typical Angina,160,228,FALSE,0,138,No,2.3,downsloping,0,Normal,Heart Problem
-758,46,Female,Atypical Angina,105,204,FALSE,1,172,No,0,downsloping,0,Fixed_Defect,Heart Problem
-759,61,Female,Typical Angina,130,330,FALSE,0,169,No,0,downsloping,0,Fixed_Defect,No Heart Problem
-760,57,Male,Typical Angina,150,276,FALSE,0,112,Yes,0.6,flat,1,Normal,No Heart Problem
-761,49,Female,Typical Angina,130,269,FALSE,1,163,No,0,downsloping,0,Fixed_Defect,Heart Problem
-762,56,Male,Atypical Angina,130,221,FALSE,0,163,No,0,downsloping,0,Reversable_Defect,Heart Problem
-763,58,Female,Asymptomatic,150,283,TRUE,0,162,No,1,downsloping,0,Fixed_Defect,Heart Problem
-764,63,Male,Typical Angina,140,187,FALSE,0,144,Yes,4,downsloping,2,Reversable_Defect,No Heart Problem
-765,57,Male,Typical Angina,110,335,FALSE,1,143,Yes,3,flat,1,Reversable_Defect,No Heart Problem
-766,57,Male,Typical Angina,110,335,FALSE,1,143,Yes,3,flat,1,Reversable_Defect,No Heart Problem
-767,68,Male,Typical Angina,144,193,TRUE,1,141,No,3.4,flat,2,Reversable_Defect,No Heart Problem
-768,46,Male,Atypical Angina,101,197,TRUE,1,156,No,0,downsloping,0,Reversable_Defect,Heart Problem
-769,71,Female,Non-Anginal,110,265,TRUE,0,130,No,0,downsloping,1,Fixed_Defect,Heart Problem
-770,41,Male,Atypical Angina,135,203,FALSE,1,132,No,0,flat,0,Normal,Heart Problem
-771,45,Female,Typical Angina,138,236,FALSE,0,152,Yes,0.2,flat,0,Fixed_Defect,Heart Problem
-772,62,Female,Typical Angina,150,244,FALSE,1,154,Yes,1.4,flat,0,Fixed_Defect,No Heart Problem
-773,65,Female,Typical Angina,150,225,FALSE,0,114,No,1,flat,3,Reversable_Defect,No Heart Problem
-774,48,Female,Non-Anginal,130,275,FALSE,1,139,No,0.2,downsloping,0,Fixed_Defect,Heart Problem
-775,51,Male,Non-Anginal,100,222,FALSE,1,143,Yes,1.2,flat,0,Fixed_Defect,Heart Problem
-776,61,Female,Typical Angina,145,307,FALSE,0,146,Yes,1,flat,0,Reversable_Defect,No Heart Problem
-777,53,Male,Typical Angina,123,282,FALSE,1,95,Yes,2,flat,2,Reversable_Defect,No Heart Problem
-778,59,Male,Asymptomatic,134,204,FALSE,1,162,No,0.8,downsloping,2,Fixed_Defect,No Heart Problem
-779,34,Female,Atypical Angina,118,210,FALSE,1,192,No,0.7,downsloping,0,Fixed_Defect,Heart Problem
-780,44,Male,Typical Angina,120,169,FALSE,1,144,Yes,2.8,unsloping,0,Normal,No Heart Problem
-781,58,Male,Typical Angina,146,218,FALSE,1,105,No,2,flat,1,Reversable_Defect,No Heart Problem
-782,64,Female,Typical Angina,130,303,FALSE,1,122,No,2,flat,2,Fixed_Defect,Heart Problem
-783,56,Male,Atypical Angina,120,240,FALSE,1,169,No,0,unsloping,0,Fixed_Defect,Heart Problem
-784,54,Male,Non-Anginal,150,232,FALSE,0,165,No,1.6,downsloping,0,Reversable_Defect,Heart Problem
-785,55,Male,Typical Angina,160,289,FALSE,0,145,Yes,0.8,flat,1,Reversable_Defect,No Heart Problem
-786,67,Male,Typical Angina,125,254,TRUE,1,163,No,0.2,flat,2,Reversable_Defect,No Heart Problem
-787,51,Male,Typical Angina,140,298,FALSE,1,122,Yes,4.2,flat,3,Reversable_Defect,No Heart Problem
-788,62,Female,Typical Angina,138,294,TRUE,1,106,No,1.9,flat,3,Fixed_Defect,No Heart Problem
-789,62,Male,Atypical Angina,120,281,FALSE,0,103,No,1.4,flat,1,Reversable_Defect,No Heart Problem
-790,54,Male,Typical Angina,110,239,FALSE,1,126,Yes,2.8,flat,1,Reversable_Defect,No Heart Problem
-791,54,Male,Typical Angina,110,239,FALSE,1,126,Yes,2.8,flat,1,Reversable_Defect,No Heart Problem
-792,68,Male,Typical Angina,144,193,TRUE,1,141,No,3.4,flat,2,Reversable_Defect,No Heart Problem
-793,60,Female,Non-Anginal,120,178,TRUE,1,96,No,0,downsloping,0,Fixed_Defect,Heart Problem
-794,61,Male,Asymptomatic,134,234,FALSE,1,145,No,2.6,flat,2,Fixed_Defect,No Heart Problem
-795,62,Male,Atypical Angina,128,208,TRUE,0,140,No,0,downsloping,0,Fixed_Defect,Heart Problem
-796,41,Male,Atypical Angina,135,203,FALSE,1,132,No,0,flat,0,Normal,Heart Problem
-797,65,Female,Typical Angina,150,225,FALSE,0,114,No,1,flat,3,Reversable_Defect,No Heart Problem
-798,59,Male,Asymptomatic,170,288,FALSE,0,159,No,0.2,flat,0,Reversable_Defect,No Heart Problem
-799,43,Male,Typical Angina,115,303,FALSE,1,181,No,1.2,flat,0,Fixed_Defect,Heart Problem
-800,67,Male,Typical Angina,120,229,FALSE,0,129,Yes,2.6,flat,2,Reversable_Defect,No Heart Problem
-801,63,Male,Asymptomatic,145,233,TRUE,0,150,No,2.3,unsloping,0,Normal,Heart Problem
-802,63,Female,Typical Angina,124,197,FALSE,1,136,Yes,0,flat,0,Fixed_Defect,No Heart Problem
-803,52,Male,Typical Angina,112,230,FALSE,1,160,No,0,downsloping,1,Fixed_Defect,No Heart Problem
-804,58,Female,Typical Angina,130,197,FALSE,1,131,No,0.6,flat,0,Fixed_Defect,Heart Problem
-805,53,Male,Typical Angina,142,226,FALSE,0,111,Yes,0,downsloping,0,Reversable_Defect,Heart Problem
-806,57,Male,Typical Angina,150,276,FALSE,0,112,Yes,0.6,flat,1,Normal,No Heart Problem
-807,44,Male,Non-Anginal,130,233,FALSE,1,179,Yes,0.4,downsloping,0,Fixed_Defect,Heart Problem
-808,51,Male,Non-Anginal,94,227,FALSE,1,154,Yes,0,downsloping,1,Reversable_Defect,Heart Problem
-809,54,Female,Non-Anginal,110,214,FALSE,1,158,No,1.6,flat,0,Fixed_Defect,Heart Problem
-810,40,Male,Typical Angina,110,167,FALSE,0,114,Yes,2,flat,0,Reversable_Defect,No Heart Problem
-811,57,Male,Atypical Angina,124,261,FALSE,1,141,No,0.3,downsloping,0,Reversable_Defect,No Heart Problem
-812,62,Female,Typical Angina,140,268,FALSE,0,160,No,3.6,unsloping,2,Fixed_Defect,No Heart Problem
-813,53,Male,Typical Angina,140,203,TRUE,0,155,Yes,3.1,unsloping,0,Reversable_Defect,No Heart Problem
-814,62,Male,Atypical Angina,128,208,TRUE,0,140,No,0,downsloping,0,Fixed_Defect,Heart Problem
-815,58,Male,Non-Anginal,105,240,FALSE,0,154,Yes,0.6,flat,0,Reversable_Defect,Heart Problem
-816,70,Male,Atypical Angina,156,245,FALSE,0,143,No,0,downsloping,0,Fixed_Defect,Heart Problem
-817,45,Male,Typical Angina,115,260,FALSE,0,185,No,0,downsloping,0,Fixed_Defect,Heart Problem
-818,42,Male,Asymptomatic,148,244,FALSE,0,178,No,0.8,downsloping,2,Fixed_Defect,Heart Problem
-819,58,Female,Typical Angina,170,225,TRUE,0,146,Yes,2.8,flat,2,Normal,No Heart Problem
-820,61,Male,Typical Angina,140,207,FALSE,0,138,Yes,1.9,downsloping,1,Reversable_Defect,No Heart Problem
-821,62,Female,Typical Angina,140,268,FALSE,0,160,No,3.6,unsloping,2,Fixed_Defect,No Heart Problem
-822,60,Male,Typical Angina,130,253,FALSE,1,144,Yes,1.4,downsloping,1,Reversable_Defect,No Heart Problem
-823,54,Male,Typical Angina,140,239,FALSE,1,160,No,1.2,downsloping,0,Fixed_Defect,Heart Problem
-824,61,Male,Typical Angina,138,166,FALSE,0,125,Yes,3.6,flat,1,Fixed_Defect,No Heart Problem
-825,63,Female,Non-Anginal,135,252,FALSE,0,172,No,0,downsloping,0,Fixed_Defect,Heart Problem
-826,42,Male,Non-Anginal,130,180,FALSE,1,150,No,0,downsloping,0,Fixed_Defect,Heart Problem
-827,57,Male,Non-Anginal,128,229,FALSE,0,150,No,0.4,flat,1,Reversable_Defect,No Heart Problem
-828,44,Male,Non-Anginal,130,233,FALSE,1,179,Yes,0.4,downsloping,0,Fixed_Defect,Heart Problem
-829,54,Male,Typical Angina,124,266,FALSE,0,109,Yes,2.2,flat,1,Reversable_Defect,No Heart Problem
-830,51,Male,Non-Anginal,100,222,FALSE,1,143,Yes,1.2,flat,0,Fixed_Defect,Heart Problem
-831,58,Male,Atypical Angina,125,220,FALSE,1,144,No,0.4,flat,4,Reversable_Defect,Heart Problem
-832,68,Male,Non-Anginal,118,277,FALSE,1,151,No,1,downsloping,1,Reversable_Defect,Heart Problem
-833,55,Male,Typical Angina,140,217,FALSE,1,111,Yes,5.6,unsloping,0,Reversable_Defect,No Heart Problem
-834,42,Male,Typical Angina,136,315,FALSE,1,125,Yes,1.8,flat,0,Normal,No Heart Problem
-835,49,Male,Non-Anginal,118,149,FALSE,0,126,No,0.8,downsloping,3,Fixed_Defect,No Heart Problem
-836,53,Female,Typical Angina,138,234,FALSE,0,160,No,0,downsloping,0,Fixed_Defect,Heart Problem
-837,52,Male,Non-Anginal,172,199,TRUE,1,162,No,0.5,downsloping,0,Reversable_Defect,Heart Problem
-838,51,Male,Asymptomatic,125,213,FALSE,0,125,Yes,1.4,downsloping,1,Fixed_Defect,Heart Problem
-839,51,Male,Typical Angina,140,261,FALSE,0,186,Yes,0,downsloping,0,Fixed_Defect,Heart Problem
-840,70,Male,Typical Angina,145,174,FALSE,1,125,Yes,2.6,unsloping,0,Reversable_Defect,No Heart Problem
-841,35,Female,Typical Angina,138,183,FALSE,1,182,No,1.4,downsloping,0,Fixed_Defect,Heart Problem
-842,58,Male,Non-Anginal,112,230,FALSE,0,165,No,2.5,flat,1,Reversable_Defect,No Heart Problem
-843,59,Male,Asymptomatic,160,273,FALSE,0,125,No,0,downsloping,0,Fixed_Defect,No Heart Problem
-844,60,Male,Typical Angina,140,293,FALSE,0,170,No,1.2,flat,2,Reversable_Defect,No Heart Problem
-845,56,Male,Typical Angina,132,184,FALSE,0,105,Yes,2.1,flat,1,Normal,No Heart Problem
-846,35,Female,Typical Angina,138,183,FALSE,1,182,No,1.4,downsloping,0,Fixed_Defect,Heart Problem
-847,61,Male,Typical Angina,138,166,FALSE,0,125,Yes,3.6,flat,1,Fixed_Defect,No Heart Problem
-848,58,Female,Asymptomatic,150,283,TRUE,0,162,No,1,downsloping,0,Fixed_Defect,Heart Problem
-849,52,Male,Typical Angina,128,255,FALSE,1,161,Yes,0,downsloping,1,Reversable_Defect,No Heart Problem
-850,58,Male,Atypical Angina,120,284,FALSE,0,160,No,1.8,flat,0,Fixed_Defect,No Heart Problem
-851,37,Male,Non-Anginal,130,250,FALSE,1,187,No,3.5,unsloping,0,Fixed_Defect,Heart Problem
-852,52,Male,Typical Angina,128,255,FALSE,1,161,Yes,0,downsloping,1,Reversable_Defect,No Heart Problem
-853,67,Male,Typical Angina,120,229,FALSE,0,129,Yes,2.6,flat,2,Reversable_Defect,No Heart Problem
-854,65,Male,Asymptomatic,138,282,TRUE,0,174,No,1.4,flat,1,Fixed_Defect,No Heart Problem
-855,46,Male,Atypical Angina,101,197,TRUE,1,156,No,0,downsloping,0,Reversable_Defect,Heart Problem
-856,68,Female,Non-Anginal,120,211,FALSE,0,115,No,1.5,flat,0,Fixed_Defect,Heart Problem
-857,43,Male,Typical Angina,115,303,FALSE,1,181,No,1.2,flat,0,Fixed_Defect,Heart Problem
-858,68,Female,Non-Anginal,120,211,FALSE,0,115,No,1.5,flat,0,Fixed_Defect,Heart Problem
-859,51,Male,Typical Angina,140,299,FALSE,1,173,Yes,1.6,downsloping,0,Reversable_Defect,No Heart Problem
-860,52,Male,Typical Angina,112,230,FALSE,1,160,No,0,downsloping,1,Fixed_Defect,No Heart Problem
-861,64,Male,Non-Anginal,140,335,FALSE,1,158,No,0,downsloping,0,Fixed_Defect,No Heart Problem
-862,59,Male,Asymptomatic,170,288,FALSE,0,159,No,0.2,flat,0,Reversable_Defect,No Heart Problem
-863,52,Male,Typical Angina,125,212,FALSE,1,168,No,1,downsloping,2,Reversable_Defect,No Heart Problem
-864,59,Male,Asymptomatic,160,273,FALSE,0,125,No,0,downsloping,0,Fixed_Defect,No Heart Problem
-865,60,Female,Asymptomatic,150,240,FALSE,1,171,No,0.9,downsloping,0,Fixed_Defect,Heart Problem
-866,41,Male,Non-Anginal,112,250,FALSE,1,179,No,0,downsloping,0,Fixed_Defect,Heart Problem
-867,41,Male,Atypical Angina,110,235,FALSE,1,153,No,0,downsloping,0,Fixed_Defect,Heart Problem
-868,56,Male,Atypical Angina,120,240,FALSE,1,169,No,0,unsloping,0,Fixed_Defect,Heart Problem
-869,56,Male,Atypical Angina,120,236,FALSE,1,178,No,0.8,downsloping,0,Fixed_Defect,Heart Problem
-870,48,Female,Non-Anginal,130,275,FALSE,1,139,No,0.2,downsloping,0,Fixed_Defect,Heart Problem
-871,39,Male,Non-Anginal,140,321,FALSE,0,182,No,0,downsloping,0,Fixed_Defect,Heart Problem
-872,64,Male,Asymptomatic,170,227,FALSE,0,155,No,0.6,flat,0,Reversable_Defect,Heart Problem
-873,57,Male,Typical Angina,140,192,FALSE,1,148,No,0.4,flat,0,Normal,Heart Problem
-874,59,Male,Asymptomatic,160,273,FALSE,0,125,No,0,downsloping,0,Fixed_Defect,No Heart Problem
-875,60,Male,Typical Angina,130,206,FALSE,0,132,Yes,2.4,flat,2,Reversable_Defect,No Heart Problem
-876,61,Male,Typical Angina,140,207,FALSE,0,138,Yes,1.9,downsloping,1,Reversable_Defect,No Heart Problem
-877,43,Female,Non-Anginal,122,213,FALSE,1,165,No,0.2,flat,0,Fixed_Defect,Heart Problem
-878,54,Male,Typical Angina,120,188,FALSE,1,113,No,1.4,flat,1,Reversable_Defect,No Heart Problem
-879,59,Male,Typical Angina,138,271,FALSE,0,182,No,0,downsloping,0,Fixed_Defect,Heart Problem
-880,57,Male,Typical Angina,132,207,FALSE,1,168,Yes,0,downsloping,0,Reversable_Defect,Heart Problem
-881,57,Male,Atypical Angina,154,232,FALSE,0,164,No,0,downsloping,1,Fixed_Defect,No Heart Problem
-882,57,Male,Typical Angina,130,131,FALSE,1,115,Yes,1.2,flat,1,Reversable_Defect,No Heart Problem
-883,48,Male,Typical Angina,124,274,FALSE,0,166,No,0.5,flat,0,Reversable_Defect,No Heart Problem
-884,70,Male,Typical Angina,145,174,FALSE,1,125,Yes,2.6,unsloping,0,Reversable_Defect,No Heart Problem
-885,57,Male,Typical Angina,165,289,TRUE,0,124,No,1,flat,3,Reversable_Defect,No Heart Problem
-886,61,Male,Typical Angina,120,260,FALSE,1,140,Yes,3.6,flat,1,Reversable_Defect,No Heart Problem
-887,57,Male,Typical Angina,110,201,FALSE,1,126,Yes,1.5,flat,0,Normal,Heart Problem
-888,60,Female,Typical Angina,150,258,FALSE,0,157,No,2.6,flat,2,Reversable_Defect,No Heart Problem
-889,63,Female,Typical Angina,150,407,FALSE,0,154,No,4,flat,3,Reversable_Defect,No Heart Problem
-890,55,Female,Typical Angina,128,205,FALSE,2,130,Yes,2,flat,1,Reversable_Defect,No Heart Problem
-891,64,Female,Typical Angina,180,325,FALSE,1,154,Yes,0,downsloping,0,Fixed_Defect,Heart Problem
-892,54,Male,Typical Angina,110,239,FALSE,1,126,Yes,2.8,flat,1,Reversable_Defect,No Heart Problem
-893,52,Male,Typical Angina,128,204,TRUE,1,156,Yes,1,flat,0,0,No Heart Problem
-894,51,Male,Typical Angina,140,299,FALSE,1,173,Yes,1.6,downsloping,0,Reversable_Defect,No Heart Problem
-895,62,Female,Non-Anginal,130,263,FALSE,1,97,No,1.2,flat,1,Reversable_Defect,No Heart Problem
-896,59,Male,Asymptomatic,178,270,FALSE,0,145,No,4.2,unsloping,0,Reversable_Defect,Heart Problem
-897,52,Male,Atypical Angina,134,201,FALSE,1,158,No,0.8,downsloping,1,Fixed_Defect,Heart Problem
-898,42,Female,Typical Angina,102,265,FALSE,0,122,No,0.6,flat,0,Fixed_Defect,Heart Problem
-899,59,Male,Typical Angina,135,234,FALSE,1,161,No,0.5,flat,0,Reversable_Defect,Heart Problem
-900,61,Male,Asymptomatic,134,234,FALSE,1,145,No,2.6,flat,2,Fixed_Defect,No Heart Problem
-901,42,Female,Typical Angina,102,265,FALSE,0,122,No,0.6,flat,0,Fixed_Defect,Heart Problem
-902,62,Female,Typical Angina,140,268,FALSE,0,160,No,3.6,unsloping,2,Fixed_Defect,No Heart Problem
-903,59,Male,Non-Anginal,126,218,TRUE,1,134,No,2.2,flat,1,Normal,No Heart Problem
-904,55,Male,Atypical Angina,130,262,FALSE,1,155,No,0,downsloping,0,Fixed_Defect,Heart Problem
-905,64,Male,Typical Angina,120,246,FALSE,0,96,Yes,2.2,unsloping,1,Fixed_Defect,No Heart Problem
-906,42,Male,Typical Angina,140,226,FALSE,1,178,No,0,downsloping,0,Fixed_Defect,Heart Problem
-907,50,Female,Atypical Angina,120,244,FALSE,1,162,No,1.1,downsloping,0,Fixed_Defect,Heart Problem
-908,62,Male,Typical Angina,120,267,FALSE,1,99,Yes,1.8,flat,2,Reversable_Defect,No Heart Problem
-909,50,Male,Typical Angina,144,200,FALSE,0,126,Yes,0.9,flat,0,Reversable_Defect,No Heart Problem
-910,50,Male,Non-Anginal,140,233,FALSE,1,163,No,0.6,flat,1,Reversable_Defect,No Heart Problem
-911,58,Female,Atypical Angina,136,319,TRUE,0,152,No,0,downsloping,2,Fixed_Defect,No Heart Problem
-912,35,Male,Typical Angina,120,198,FALSE,1,130,Yes,1.6,flat,0,Reversable_Defect,No Heart Problem
-913,45,Male,Typical Angina,104,208,FALSE,0,148,Yes,3,flat,0,Fixed_Defect,Heart Problem
-914,66,Male,Typical Angina,112,212,FALSE,0,132,Yes,0.1,downsloping,1,Fixed_Defect,No Heart Problem
-915,46,Male,Typical Angina,120,249,FALSE,0,144,No,0.8,downsloping,0,Reversable_Defect,No Heart Problem
-916,65,Male,Typical Angina,135,254,FALSE,0,127,No,2.8,flat,1,Reversable_Defect,No Heart Problem
-917,47,Male,Non-Anginal,130,253,FALSE,1,179,No,0,downsloping,0,Fixed_Defect,Heart Problem
-918,59,Male,Asymptomatic,134,204,FALSE,1,162,No,0.8,downsloping,2,Fixed_Defect,No Heart Problem
-919,38,Male,Asymptomatic,120,231,FALSE,1,182,Yes,3.8,flat,0,Reversable_Defect,No Heart Problem
-920,39,Male,Typical Angina,118,219,FALSE,1,140,No,1.2,flat,0,Reversable_Defect,No Heart Problem
-921,58,Male,Typical Angina,146,218,FALSE,1,105,No,2,flat,1,Reversable_Defect,No Heart Problem
-922,44,Male,Atypical Angina,120,263,FALSE,1,173,No,0,downsloping,0,Reversable_Defect,Heart Problem
-923,54,Male,Typical Angina,140,239,FALSE,1,160,No,1.2,downsloping,0,Fixed_Defect,Heart Problem
-924,61,Female,Typical Angina,130,330,FALSE,0,169,No,0,downsloping,0,Fixed_Defect,No Heart Problem
-925,57,Male,Typical Angina,130,131,FALSE,1,115,Yes,1.2,flat,1,Reversable_Defect,No Heart Problem
-926,54,Male,Typical Angina,110,206,FALSE,0,108,Yes,0,flat,1,Fixed_Defect,No Heart Problem
-927,42,Male,Non-Anginal,120,240,TRUE,1,194,No,0.8,unsloping,0,Reversable_Defect,Heart Problem
-928,54,Male,Typical Angina,124,266,FALSE,0,109,Yes,2.2,flat,1,Reversable_Defect,No Heart Problem
-929,60,Male,Typical Angina,130,206,FALSE,0,132,Yes,2.4,flat,2,Reversable_Defect,No Heart Problem
-930,65,Male,Typical Angina,135,254,FALSE,0,127,No,2.8,flat,1,Reversable_Defect,No Heart Problem
-931,40,Male,Typical Angina,152,223,FALSE,1,181,No,0,downsloping,0,Reversable_Defect,No Heart Problem
-932,51,Female,Non-Anginal,140,308,FALSE,0,142,No,1.5,downsloping,1,Fixed_Defect,Heart Problem
-933,38,Male,Asymptomatic,120,231,FALSE,1,182,Yes,3.8,flat,0,Reversable_Defect,No Heart Problem
-934,42,Male,Non-Anginal,130,180,FALSE,1,150,No,0,downsloping,0,Fixed_Defect,Heart Problem
-935,56,Male,Atypical Angina,120,240,FALSE,1,169,No,0,unsloping,0,Fixed_Defect,Heart Problem
-936,43,Male,Non-Anginal,130,315,FALSE,1,162,No,1.9,downsloping,1,Fixed_Defect,Heart Problem
-937,64,Male,Non-Anginal,140,335,FALSE,1,158,No,0,downsloping,0,Fixed_Defect,No Heart Problem
-938,53,Male,Typical Angina,142,226,FALSE,0,111,Yes,0,downsloping,0,Reversable_Defect,Heart Problem
-939,49,Female,Atypical Angina,134,271,FALSE,1,162,No,0,flat,0,Fixed_Defect,Heart Problem
-940,57,Female,Typical Angina,140,241,FALSE,1,123,Yes,0.2,flat,0,Reversable_Defect,No Heart Problem
-941,52,Female,Non-Anginal,136,196,FALSE,0,169,No,0.1,flat,0,Fixed_Defect,Heart Problem
-942,69,Female,Asymptomatic,140,239,FALSE,1,151,No,1.8,downsloping,2,Fixed_Defect,Heart Problem
-943,65,Male,Typical Angina,120,177,FALSE,1,140,No,0.4,downsloping,0,Reversable_Defect,Heart Problem
-944,66,Female,Typical Angina,178,228,TRUE,1,165,Yes,1,flat,2,Reversable_Defect,No Heart Problem
-945,56,Male,Asymptomatic,120,193,FALSE,0,162,No,1.9,flat,0,Reversable_Defect,Heart Problem
-946,67,Female,Non-Anginal,152,277,FALSE,1,172,No,0,downsloping,1,Fixed_Defect,Heart Problem
-947,54,Female,Non-Anginal,160,201,FALSE,1,163,No,0,downsloping,1,Fixed_Defect,Heart Problem
-948,70,Male,Typical Angina,145,174,FALSE,1,125,Yes,2.6,unsloping,0,Reversable_Defect,No Heart Problem
-949,57,Male,Typical Angina,132,207,FALSE,1,168,Yes,0,downsloping,0,Reversable_Defect,Heart Problem
-950,67,Male,Typical Angina,160,286,FALSE,0,108,Yes,1.5,flat,3,Fixed_Defect,No Heart Problem
-951,62,Female,Non-Anginal,130,263,FALSE,1,97,No,1.2,flat,1,Reversable_Defect,No Heart Problem
-952,54,Female,Non-Anginal,135,304,TRUE,1,170,No,0,downsloping,0,Fixed_Defect,Heart Problem
-953,45,Female,Typical Angina,138,236,FALSE,0,152,Yes,0.2,flat,0,Fixed_Defect,Heart Problem
-954,53,Female,Typical Angina,130,264,FALSE,0,143,No,0.4,flat,0,Fixed_Defect,Heart Problem
-955,62,Male,Non-Anginal,130,231,FALSE,1,146,No,1.8,flat,3,Reversable_Defect,Heart Problem
-956,49,Female,Typical Angina,130,269,FALSE,1,163,No,0,downsloping,0,Fixed_Defect,Heart Problem
-957,50,Male,Non-Anginal,140,233,FALSE,1,163,No,0.6,flat,1,Reversable_Defect,No Heart Problem
-958,65,Female,Non-Anginal,140,417,TRUE,0,157,No,0.8,downsloping,1,Fixed_Defect,Heart Problem
-959,69,Female,Asymptomatic,140,239,FALSE,1,151,No,1.8,downsloping,2,Fixed_Defect,Heart Problem
-960,52,Female,Non-Anginal,136,196,FALSE,0,169,No,0.1,flat,0,Fixed_Defect,Heart Problem
-961,58,Female,Typical Angina,100,248,FALSE,0,122,No,1,flat,0,Fixed_Defect,Heart Problem
-962,52,Male,Typical Angina,108,233,TRUE,1,147,No,0.1,downsloping,3,Reversable_Defect,Heart Problem
-963,57,Female,Typical Angina,140,241,FALSE,1,123,Yes,0.2,flat,0,Reversable_Defect,No Heart Problem
-964,44,Female,Non-Anginal,108,141,FALSE,1,175,No,0.6,flat,0,Fixed_Defect,Heart Problem
-965,76,Female,Non-Anginal,140,197,FALSE,2,116,No,1.1,flat,0,Fixed_Defect,Heart Problem
-966,58,Male,Typical Angina,128,259,FALSE,0,130,Yes,3,flat,2,Reversable_Defect,No Heart Problem
-967,60,Female,Non-Anginal,120,178,TRUE,1,96,No,0,downsloping,0,Fixed_Defect,Heart Problem
-968,53,Male,Typical Angina,140,203,TRUE,0,155,Yes,3.1,unsloping,0,Reversable_Defect,No Heart Problem
-969,52,Male,Atypical Angina,120,325,FALSE,1,172,No,0.2,downsloping,0,Fixed_Defect,Heart Problem
-970,38,Male,Non-Anginal,138,175,FALSE,1,173,No,0,downsloping,4,Fixed_Defect,Heart Problem
-971,52,Male,Non-Anginal,172,199,TRUE,1,162,No,0.5,downsloping,0,Reversable_Defect,Heart Problem
-972,52,Male,Asymptomatic,118,186,FALSE,0,190,No,0,flat,0,Normal,Heart Problem
-973,51,Male,Non-Anginal,125,245,TRUE,0,166,No,2.4,flat,0,Fixed_Defect,Heart Problem
-974,43,Male,Typical Angina,110,211,FALSE,1,161,No,0,downsloping,0,Reversable_Defect,Heart Problem
-975,39,Male,Typical Angina,118,219,FALSE,1,140,No,1.2,flat,0,Reversable_Defect,No Heart Problem
-976,63,Female,Typical Angina,108,269,FALSE,1,169,Yes,1.8,flat,2,Fixed_Defect,No Heart Problem
-977,52,Male,Atypical Angina,128,205,TRUE,1,184,No,0,downsloping,0,Fixed_Defect,Heart Problem
-978,44,Male,Typical Angina,110,197,FALSE,0,177,No,0,downsloping,1,Fixed_Defect,No Heart Problem
-979,45,Male,Typical Angina,142,309,FALSE,0,147,Yes,0,flat,3,Reversable_Defect,No Heart Problem
-980,57,Male,Typical Angina,140,192,FALSE,1,148,No,0.4,flat,0,Normal,Heart Problem
-981,39,Male,Typical Angina,118,219,FALSE,1,140,No,1.2,flat,0,Reversable_Defect,No Heart Problem
-982,67,Female,Typical Angina,106,223,FALSE,1,142,No,0.3,downsloping,2,Fixed_Defect,Heart Problem
-983,64,Male,Typical Angina,128,263,FALSE,1,105,Yes,0.2,flat,1,Reversable_Defect,Heart Problem
-984,59,Male,Typical Angina,135,234,FALSE,1,161,No,0.5,flat,0,Reversable_Defect,Heart Problem
-985,62,Male,Non-Anginal,130,231,FALSE,1,146,No,1.8,flat,3,Reversable_Defect,Heart Problem
-986,55,Female,Typical Angina,180,327,FALSE,2,117,Yes,3.4,flat,0,Fixed_Defect,No Heart Problem
-987,57,Male,Atypical Angina,154,232,FALSE,0,164,No,0,downsloping,1,Fixed_Defect,No Heart Problem
-988,60,Male,Typical Angina,140,293,FALSE,0,170,No,1.2,flat,2,Reversable_Defect,No Heart Problem
-989,71,Female,Atypical Angina,160,302,FALSE,1,162,No,0.4,downsloping,2,Fixed_Defect,Heart Problem
-990,56,Male,Atypical Angina,120,236,FALSE,1,178,No,0.8,downsloping,0,Fixed_Defect,Heart Problem
-991,60,Male,Typical Angina,117,230,TRUE,1,160,Yes,1.4,downsloping,2,Reversable_Defect,No Heart Problem
-992,50,Female,Typical Angina,110,254,FALSE,0,159,No,0,downsloping,0,Fixed_Defect,Heart Problem
-993,43,Male,Typical Angina,132,247,TRUE,0,143,Yes,0.1,flat,4,Reversable_Defect,No Heart Problem
-994,59,Male,Typical Angina,110,239,FALSE,0,142,Yes,1.2,flat,1,Reversable_Defect,No Heart Problem
-995,44,Male,Atypical Angina,120,263,FALSE,1,173,No,0,downsloping,0,Reversable_Defect,Heart Problem
-996,56,Female,Typical Angina,134,409,FALSE,0,150,Yes,1.9,flat,2,Reversable_Defect,No Heart Problem
-997,54,Male,Typical Angina,120,188,FALSE,1,113,No,1.4,flat,1,Reversable_Defect,No Heart Problem
-998,42,Male,Typical Angina,136,315,FALSE,1,125,Yes,1.8,flat,0,Normal,No Heart Problem
-999,67,Male,Typical Angina,125,254,TRUE,1,163,No,0.2,flat,2,Reversable_Defect,No Heart Problem
-1000,64,Male,Typical Angina,145,212,FALSE,0,132,No,2,flat,2,Normal,No Heart Problem
-1001,42,Male,Typical Angina,140,226,FALSE,1,178,No,0,downsloping,0,Fixed_Defect,Heart Problem
-1002,66,Male,Typical Angina,112,212,FALSE,0,132,Yes,0.1,downsloping,1,Fixed_Defect,No Heart Problem
-1003,52,Male,Typical Angina,108,233,TRUE,1,147,No,0.1,downsloping,3,Reversable_Defect,Heart Problem
-1004,51,Female,Non-Anginal,140,308,FALSE,0,142,No,1.5,downsloping,1,Fixed_Defect,Heart Problem
-1005,55,Female,Typical Angina,128,205,FALSE,2,130,Yes,2,flat,1,Reversable_Defect,No Heart Problem
-1006,58,Male,Non-Anginal,140,211,TRUE,0,165,No,0,downsloping,0,Fixed_Defect,Heart Problem
-1007,56,Male,Asymptomatic,120,193,FALSE,0,162,No,1.9,flat,0,Reversable_Defect,Heart Problem
-1008,42,Male,Atypical Angina,120,295,FALSE,1,162,No,0,downsloping,0,Fixed_Defect,Heart Problem
-1009,40,Male,Typical Angina,152,223,FALSE,1,181,No,0,downsloping,0,Reversable_Defect,No Heart Problem
-1010,51,Male,Typical Angina,140,299,FALSE,1,173,Yes,1.6,downsloping,0,Reversable_Defect,No Heart Problem
-1011,45,Male,Atypical Angina,128,308,FALSE,0,170,No,0,downsloping,0,Fixed_Defect,Heart Problem
-1012,48,Male,Atypical Angina,110,229,FALSE,1,168,No,1,unsloping,0,Reversable_Defect,No Heart Problem
-1013,58,Male,Typical Angina,114,318,FALSE,2,140,No,4.4,unsloping,3,Normal,No Heart Problem
-1014,44,Female,Non-Anginal,108,141,FALSE,1,175,No,0.6,flat,0,Fixed_Defect,Heart Problem
-1015,58,Male,Typical Angina,128,216,FALSE,0,131,Yes,2.2,flat,3,Reversable_Defect,No Heart Problem
-1016,65,Male,Asymptomatic,138,282,TRUE,0,174,No,1.4,flat,1,Fixed_Defect,No Heart Problem
-1017,53,Male,Typical Angina,123,282,FALSE,1,95,Yes,2,flat,2,Reversable_Defect,No Heart Problem
-1018,41,Male,Typical Angina,110,172,FALSE,0,158,No,0,downsloping,0,Reversable_Defect,No Heart Problem
-1019,47,Male,Typical Angina,112,204,FALSE,1,143,No,0.1,downsloping,0,Fixed_Defect,Heart Problem
-1020,59,Male,Atypical Angina,140,221,FALSE,1,164,Yes,0,downsloping,0,Fixed_Defect,Heart Problem
-1021,60,Male,Typical Angina,125,258,FALSE,0,141,Yes,2.8,flat,1,Reversable_Defect,No Heart Problem
-1022,47,Male,Typical Angina,110,275,FALSE,0,118,Yes,1,flat,1,Fixed_Defect,No Heart Problem
-1023,50,Female,Typical Angina,110,254,FALSE,0,159,No,0,downsloping,0,Fixed_Defect,Heart Problem
-1024,54,Male,Typical Angina,120,188,FALSE,1,113,No,1.4,flat,1,Reversable_Defect,No Heart Problem
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,target
+52,1,0,125,212,0,1,168,0,1,2,2,3,0
+53,1,0,140,203,1,0,155,1,3.1,0,0,3,0
+70,1,0,145,174,0,1,125,1,2.6,0,0,3,0
+61,1,0,148,203,0,1,161,0,0,2,1,3,0
+62,0,0,138,294,1,1,106,0,1.9,1,3,2,0
+58,0,0,100,248,0,0,122,0,1,1,0,2,1
+58,1,0,114,318,0,2,140,0,4.4,0,3,1,0
+55,1,0,160,289,0,0,145,1,0.8,1,1,3,0
+46,1,0,120,249,0,0,144,0,0.8,2,0,3,0
+54,1,0,122,286,0,0,116,1,3.2,1,2,2,0
+71,0,0,112,149,0,1,125,0,1.6,1,0,2,1
+43,0,0,132,341,1,0,136,1,3,1,0,3,0
+34,0,1,118,210,0,1,192,0,0.7,2,0,2,1
+51,1,0,140,298,0,1,122,1,4.2,1,3,3,0
+52,1,0,128,204,1,1,156,1,1,1,0,0,0
+34,0,1,118,210,0,1,192,0,0.7,2,0,2,1
+51,0,2,140,308,0,0,142,0,1.5,2,1,2,1
+54,1,0,124,266,0,0,109,1,2.2,1,1,3,0
+50,0,1,120,244,0,1,162,0,1.1,2,0,2,1
+58,1,2,140,211,1,0,165,0,0,2,0,2,1
+60,1,2,140,185,0,0,155,0,3,1,0,2,0
+67,0,0,106,223,0,1,142,0,0.3,2,2,2,1
+45,1,0,104,208,0,0,148,1,3,1,0,2,1
+63,0,2,135,252,0,0,172,0,0,2,0,2,1
+42,0,2,120,209,0,1,173,0,0,1,0,2,1
+61,0,0,145,307,0,0,146,1,1,1,0,3,0
+44,1,2,130,233,0,1,179,1,0.4,2,0,2,1
+58,0,1,136,319,1,0,152,0,0,2,2,2,0
+56,1,2,130,256,1,0,142,1,0.6,1,1,1,0
+55,0,0,180,327,0,2,117,1,3.4,1,0,2,0
+44,1,0,120,169,0,1,144,1,2.8,0,0,1,0
+50,0,1,120,244,0,1,162,0,1.1,2,0,2,1
+57,1,0,130,131,0,1,115,1,1.2,1,1,3,0
+70,1,2,160,269,0,1,112,1,2.9,1,1,3,0
+50,1,2,129,196,0,1,163,0,0,2,0,2,1
+46,1,2,150,231,0,1,147,0,3.6,1,0,2,0
+51,1,3,125,213,0,0,125,1,1.4,2,1,2,1
+59,1,0,138,271,0,0,182,0,0,2,0,2,1
+64,1,0,128,263,0,1,105,1,0.2,1,1,3,1
+57,1,2,128,229,0,0,150,0,0.4,1,1,3,0
+65,0,2,160,360,0,0,151,0,0.8,2,0,2,1
+54,1,2,120,258,0,0,147,0,0.4,1,0,3,1
+61,0,0,130,330,0,0,169,0,0,2,0,2,0
+46,1,0,120,249,0,0,144,0,0.8,2,0,3,0
+55,0,1,132,342,0,1,166,0,1.2,2,0,2,1
+42,1,0,140,226,0,1,178,0,0,2,0,2,1
+41,1,1,135,203,0,1,132,0,0,1,0,1,1
+66,0,0,178,228,1,1,165,1,1,1,2,3,0
+66,0,2,146,278,0,0,152,0,0,1,1,2,1
+60,1,0,117,230,1,1,160,1,1.4,2,2,3,0
+58,0,3,150,283,1,0,162,0,1,2,0,2,1
+57,0,0,140,241,0,1,123,1,0.2,1,0,3,0
+38,1,2,138,175,0,1,173,0,0,2,4,2,1
+49,1,2,120,188,0,1,139,0,2,1,3,3,0
+55,1,0,140,217,0,1,111,1,5.6,0,0,3,0
+55,1,0,140,217,0,1,111,1,5.6,0,0,3,0
+56,1,3,120,193,0,0,162,0,1.9,1,0,3,1
+48,1,1,130,245,0,0,180,0,0.2,1,0,2,1
+67,1,2,152,212,0,0,150,0,0.8,1,0,3,0
+57,1,1,154,232,0,0,164,0,0,2,1,2,0
+29,1,1,130,204,0,0,202,0,0,2,0,2,1
+66,0,2,146,278,0,0,152,0,0,1,1,2,1
+67,1,0,100,299,0,0,125,1,0.9,1,2,2,0
+59,1,2,150,212,1,1,157,0,1.6,2,0,2,1
+29,1,1,130,204,0,0,202,0,0,2,0,2,1
+59,1,3,170,288,0,0,159,0,0.2,1,0,3,0
+53,1,2,130,197,1,0,152,0,1.2,0,0,2,1
+42,1,0,136,315,0,1,125,1,1.8,1,0,1,0
+37,0,2,120,215,0,1,170,0,0,2,0,2,1
+62,0,0,160,164,0,0,145,0,6.2,0,3,3,0
+59,1,0,170,326,0,0,140,1,3.4,0,0,3,0
+61,1,0,140,207,0,0,138,1,1.9,2,1,3,0
+56,1,0,125,249,1,0,144,1,1.2,1,1,2,0
+59,1,0,140,177,0,1,162,1,0,2,1,3,0
+48,1,0,130,256,1,0,150,1,0,2,2,3,0
+47,1,2,138,257,0,0,156,0,0,2,0,2,1
+48,1,2,124,255,1,1,175,0,0,2,2,2,1
+63,1,0,140,187,0,0,144,1,4,2,2,3,0
+52,1,1,134,201,0,1,158,0,0.8,2,1,2,1
+52,1,1,134,201,0,1,158,0,0.8,2,1,2,1
+50,1,2,140,233,0,1,163,0,0.6,1,1,3,0
+49,1,2,118,149,0,0,126,0,0.8,2,3,2,0
+46,1,2,150,231,0,1,147,0,3.6,1,0,2,0
+38,1,2,138,175,0,1,173,0,0,2,4,2,1
+37,0,2,120,215,0,1,170,0,0,2,0,2,1
+44,1,1,120,220,0,1,170,0,0,2,0,2,1
+58,1,2,140,211,1,0,165,0,0,2,0,2,1
+59,0,0,174,249,0,1,143,1,0,1,0,2,0
+62,0,0,140,268,0,0,160,0,3.6,0,2,2,0
+68,1,0,144,193,1,1,141,0,3.4,1,2,3,0
+54,0,2,108,267,0,0,167,0,0,2,0,2,1
+62,0,0,124,209,0,1,163,0,0,2,0,2,1
+63,1,0,140,187,0,0,144,1,4,2,2,3,0
+44,1,0,120,169,0,1,144,1,2.8,0,0,1,0
+62,1,1,128,208,1,0,140,0,0,2,0,2,1
+45,0,0,138,236,0,0,152,1,0.2,1,0,2,1
+57,0,0,128,303,0,0,159,0,0,2,1,2,1
+53,1,0,123,282,0,1,95,1,2,1,2,3,0
+65,1,0,110,248,0,0,158,0,0.6,2,2,1,0
+76,0,2,140,197,0,2,116,0,1.1,1,0,2,1
+43,0,2,122,213,0,1,165,0,0.2,1,0,2,1
+57,1,2,150,126,1,1,173,0,0.2,2,1,3,1
+54,1,1,108,309,0,1,156,0,0,2,0,3,1
+47,1,2,138,257,0,0,156,0,0,2,0,2,1
+52,1,3,118,186,0,0,190,0,0,1,0,1,1
+47,1,0,110,275,0,0,118,1,1,1,1,2,0
+51,1,0,140,299,0,1,173,1,1.6,2,0,3,0
+62,1,1,120,281,0,0,103,0,1.4,1,1,3,0
+40,1,0,152,223,0,1,181,0,0,2,0,3,0
+54,1,0,110,206,0,0,108,1,0,1,1,2,0
+44,1,0,110,197,0,0,177,0,0,2,1,2,0
+53,1,0,142,226,0,0,111,1,0,2,0,3,1
+48,1,0,130,256,1,0,150,1,0,2,2,3,0
+57,1,0,110,335,0,1,143,1,3,1,1,3,0
+59,1,2,126,218,1,1,134,0,2.2,1,1,1,0
+61,0,0,145,307,0,0,146,1,1,1,0,3,0
+63,1,0,130,254,0,0,147,0,1.4,1,1,3,0
+43,1,0,120,177,0,0,120,1,2.5,1,0,3,0
+29,1,1,130,204,0,0,202,0,0,2,0,2,1
+42,1,1,120,295,0,1,162,0,0,2,0,2,1
+54,1,1,108,309,0,1,156,0,0,2,0,3,1
+44,1,0,120,169,0,1,144,1,2.8,0,0,1,0
+60,1,0,145,282,0,0,142,1,2.8,1,2,3,0
+65,0,2,140,417,1,0,157,0,0.8,2,1,2,1
+61,1,0,120,260,0,1,140,1,3.6,1,1,3,0
+60,0,3,150,240,0,1,171,0,0.9,2,0,2,1
+66,1,0,120,302,0,0,151,0,0.4,1,0,2,1
+53,1,2,130,197,1,0,152,0,1.2,0,0,2,1
+52,1,2,138,223,0,1,169,0,0,2,4,2,1
+57,1,0,140,192,0,1,148,0,0.4,1,0,1,1
+60,0,3,150,240,0,1,171,0,0.9,2,0,2,1
+51,0,2,130,256,0,0,149,0,0.5,2,0,2,1
+41,1,1,135,203,0,1,132,0,0,1,0,1,1
+50,1,2,129,196,0,1,163,0,0,2,0,2,1
+54,1,1,108,309,0,1,156,0,0,2,0,3,1
+58,0,0,170,225,1,0,146,1,2.8,1,2,1,0
+55,0,1,132,342,0,1,166,0,1.2,2,0,2,1
+64,0,0,180,325,0,1,154,1,0,2,0,2,1
+47,1,2,138,257,0,0,156,0,0,2,0,2,1
+41,1,1,110,235,0,1,153,0,0,2,0,2,1
+57,1,0,152,274,0,1,88,1,1.2,1,1,3,0
+63,0,0,124,197,0,1,136,1,0,1,0,2,0
+61,1,3,134,234,0,1,145,0,2.6,1,2,2,0
+34,1,3,118,182,0,0,174,0,0,2,0,2,1
+47,1,0,112,204,0,1,143,0,0.1,2,0,2,1
+40,1,0,110,167,0,0,114,1,2,1,0,3,0
+51,0,2,120,295,0,0,157,0,0.6,2,0,2,1
+41,1,0,110,172,0,0,158,0,0,2,0,3,0
+52,1,3,152,298,1,1,178,0,1.2,1,0,3,1
+39,1,2,140,321,0,0,182,0,0,2,0,2,1
+58,1,0,114,318,0,2,140,0,4.4,0,3,1,0
+54,1,1,192,283,0,0,195,0,0,2,1,3,0
+58,1,0,125,300,0,0,171,0,0,2,2,3,0
+54,1,2,120,258,0,0,147,0,0.4,1,0,3,1
+63,1,0,130,330,1,0,132,1,1.8,2,3,3,0
+54,1,1,108,309,0,1,156,0,0,2,0,3,1
+40,1,3,140,199,0,1,178,1,1.4,2,0,3,1
+54,1,2,120,258,0,0,147,0,0.4,1,0,3,1
+67,0,2,115,564,0,0,160,0,1.6,1,0,3,1
+41,1,1,120,157,0,1,182,0,0,2,0,2,1
+77,1,0,125,304,0,0,162,1,0,2,3,2,0
+51,1,2,100,222,0,1,143,1,1.2,1,0,2,1
+77,1,0,125,304,0,0,162,1,0,2,3,2,0
+48,1,0,124,274,0,0,166,0,0.5,1,0,3,0
+56,1,0,125,249,1,0,144,1,1.2,1,1,2,0
+59,1,0,170,326,0,0,140,1,3.4,0,0,3,0
+56,1,0,132,184,0,0,105,1,2.1,1,1,1,0
+57,0,0,120,354,0,1,163,1,0.6,2,0,2,1
+43,1,2,130,315,0,1,162,0,1.9,2,1,2,1
+45,0,1,112,160,0,1,138,0,0,1,0,2,1
+43,1,0,150,247,0,1,171,0,1.5,2,0,2,1
+56,1,0,130,283,1,0,103,1,1.6,0,0,3,0
+56,1,1,120,240,0,1,169,0,0,0,0,2,1
+39,0,2,94,199,0,1,179,0,0,2,0,2,1
+54,1,0,110,239,0,1,126,1,2.8,1,1,3,0
+56,0,0,200,288,1,0,133,1,4,0,2,3,0
+56,1,0,130,283,1,0,103,1,1.6,0,0,3,0
+64,1,0,120,246,0,0,96,1,2.2,0,1,2,0
+44,1,0,110,197,0,0,177,0,0,2,1,2,0
+56,0,0,134,409,0,0,150,1,1.9,1,2,3,0
+63,1,0,140,187,0,0,144,1,4,2,2,3,0
+64,1,3,110,211,0,0,144,1,1.8,1,0,2,1
+60,1,0,140,293,0,0,170,0,1.2,1,2,3,0
+42,1,2,130,180,0,1,150,0,0,2,0,2,1
+45,1,1,128,308,0,0,170,0,0,2,0,2,1
+57,1,0,165,289,1,0,124,0,1,1,3,3,0
+40,1,0,110,167,0,0,114,1,2,1,0,3,0
+56,1,0,125,249,1,0,144,1,1.2,1,1,2,0
+63,1,0,130,254,0,0,147,0,1.4,1,1,3,0
+64,1,2,125,309,0,1,131,1,1.8,1,0,3,0
+41,1,2,112,250,0,1,179,0,0,2,0,2,1
+56,1,1,130,221,0,0,163,0,0,2,0,3,1
+67,0,2,115,564,0,0,160,0,1.6,1,0,3,1
+69,1,3,160,234,1,0,131,0,0.1,1,1,2,1
+67,1,0,160,286,0,0,108,1,1.5,1,3,2,0
+59,1,2,150,212,1,1,157,0,1.6,2,0,2,1
+58,1,0,100,234,0,1,156,0,0.1,2,1,3,0
+45,1,0,115,260,0,0,185,0,0,2,0,2,1
+60,0,2,102,318,0,1,160,0,0,2,1,2,1
+50,1,0,144,200,0,0,126,1,0.9,1,0,3,0
+62,0,0,124,209,0,1,163,0,0,2,0,2,1
+34,1,3,118,182,0,0,174,0,0,2,0,2,1
+52,1,3,152,298,1,1,178,0,1.2,1,0,3,1
+64,1,3,170,227,0,0,155,0,0.6,1,0,3,1
+66,0,2,146,278,0,0,152,0,0,1,1,2,1
+42,1,3,148,244,0,0,178,0,0.8,2,2,2,1
+59,1,2,126,218,1,1,134,0,2.2,1,1,1,0
+41,1,2,112,250,0,1,179,0,0,2,0,2,1
+38,1,2,138,175,0,1,173,0,0,2,4,2,1
+62,1,1,120,281,0,0,103,0,1.4,1,1,3,0
+42,1,2,120,240,1,1,194,0,0.8,0,0,3,1
+67,1,0,100,299,0,0,125,1,0.9,1,2,2,0
+50,1,0,150,243,0,0,128,0,2.6,1,0,3,0
+43,1,2,130,315,0,1,162,0,1.9,2,1,2,1
+45,1,1,128,308,0,0,170,0,0,2,0,2,1
+49,1,1,130,266,0,1,171,0,0.6,2,0,2,1
+65,1,0,135,254,0,0,127,0,2.8,1,1,3,0
+41,1,1,120,157,0,1,182,0,0,2,0,2,1
+46,1,0,140,311,0,1,120,1,1.8,1,2,3,0
+54,1,0,122,286,0,0,116,1,3.2,1,2,2,0
+57,0,1,130,236,0,0,174,0,0,1,1,2,0
+63,1,0,130,254,0,0,147,0,1.4,1,1,3,0
+64,1,3,110,211,0,0,144,1,1.8,1,0,2,1
+39,0,2,94,199,0,1,179,0,0,2,0,2,1
+51,1,0,140,261,0,0,186,1,0,2,0,2,1
+54,1,2,150,232,0,0,165,0,1.6,2,0,3,1
+49,1,2,118,149,0,0,126,0,0.8,2,3,2,0
+44,0,2,118,242,0,1,149,0,0.3,1,1,2,1
+52,1,1,128,205,1,1,184,0,0,2,0,2,1
+66,0,0,178,228,1,1,165,1,1,1,2,3,0
+58,1,0,125,300,0,0,171,0,0,2,2,3,0
+56,1,1,120,236,0,1,178,0,0.8,2,0,2,1
+60,1,0,125,258,0,0,141,1,2.8,1,1,3,0
+41,0,1,126,306,0,1,163,0,0,2,0,2,1
+49,0,0,130,269,0,1,163,0,0,2,0,2,1
+64,1,3,170,227,0,0,155,0,0.6,1,0,3,1
+49,1,2,118,149,0,0,126,0,0.8,2,3,2,0
+57,1,1,124,261,0,1,141,0,0.3,2,0,3,0
+60,1,0,117,230,1,1,160,1,1.4,2,2,3,0
+62,0,0,150,244,0,1,154,1,1.4,1,0,2,0
+54,0,1,132,288,1,0,159,1,0,2,1,2,1
+67,1,2,152,212,0,0,150,0,0.8,1,0,3,0
+38,1,2,138,175,0,1,173,0,0,2,4,2,1
+60,1,2,140,185,0,0,155,0,3,1,0,2,0
+51,1,2,125,245,1,0,166,0,2.4,1,0,2,1
+44,1,1,130,219,0,0,188,0,0,2,0,2,1
+54,1,1,192,283,0,0,195,0,0,2,1,3,0
+46,1,0,140,311,0,1,120,1,1.8,1,2,3,0
+39,0,2,138,220,0,1,152,0,0,1,0,2,1
+42,1,2,130,180,0,1,150,0,0,2,0,2,1
+47,1,0,110,275,0,0,118,1,1,1,1,2,0
+45,0,1,112,160,0,1,138,0,0,1,0,2,1
+55,1,0,132,353,0,1,132,1,1.2,1,1,3,0
+57,1,0,165,289,1,0,124,0,1,1,3,3,0
+35,1,0,120,198,0,1,130,1,1.6,1,0,3,0
+62,0,0,140,394,0,0,157,0,1.2,1,0,2,1
+35,0,0,138,183,0,1,182,0,1.4,2,0,2,1
+64,0,0,180,325,0,1,154,1,0,2,0,2,1
+38,1,3,120,231,0,1,182,1,3.8,1,0,3,0
+66,1,0,120,302,0,0,151,0,0.4,1,0,2,1
+44,1,2,120,226,0,1,169,0,0,2,0,2,1
+54,1,2,150,232,0,0,165,0,1.6,2,0,3,1
+48,1,0,122,222,0,0,186,0,0,2,0,2,1
+55,0,1,132,342,0,1,166,0,1.2,2,0,2,1
+58,0,0,170,225,1,0,146,1,2.8,1,2,1,0
+45,1,0,104,208,0,0,148,1,3,1,0,2,1
+53,1,0,123,282,0,1,95,1,2,1,2,3,0
+67,1,0,120,237,0,1,71,0,1,1,0,2,0
+58,1,2,132,224,0,0,173,0,3.2,2,2,3,0
+71,0,2,110,265,1,0,130,0,0,2,1,2,1
+43,1,0,110,211,0,1,161,0,0,2,0,3,1
+44,1,1,120,263,0,1,173,0,0,2,0,3,1
+39,0,2,138,220,0,1,152,0,0,1,0,2,1
+54,1,0,110,206,0,0,108,1,0,1,1,2,0
+66,1,0,160,228,0,0,138,0,2.3,2,0,1,1
+56,1,0,130,283,1,0,103,1,1.6,0,0,3,0
+57,1,0,132,207,0,1,168,1,0,2,0,3,1
+44,1,1,130,219,0,0,188,0,0,2,0,2,1
+55,1,0,160,289,0,0,145,1,0.8,1,1,3,0
+41,0,1,105,198,0,1,168,0,0,2,1,2,1
+45,0,1,130,234,0,0,175,0,0.6,1,0,2,1
+35,1,1,122,192,0,1,174,0,0,2,0,2,1
+41,0,1,130,204,0,0,172,0,1.4,2,0,2,1
+64,1,3,110,211,0,0,144,1,1.8,1,0,2,1
+58,1,2,132,224,0,0,173,0,3.2,2,2,3,0
+71,0,2,110,265,1,0,130,0,0,2,1,2,1
+64,0,2,140,313,0,1,133,0,0.2,2,0,3,1
+71,0,1,160,302,0,1,162,0,0.4,2,2,2,1
+58,0,2,120,340,0,1,172,0,0,2,0,2,1
+40,1,0,152,223,0,1,181,0,0,2,0,3,0
+52,1,2,138,223,0,1,169,0,0,2,4,2,1
+58,1,0,128,259,0,0,130,1,3,1,2,3,0
+61,1,2,150,243,1,1,137,1,1,1,0,2,1
+59,1,2,150,212,1,1,157,0,1.6,2,0,2,1
+56,0,0,200,288,1,0,133,1,4,0,2,3,0
+67,1,0,100,299,0,0,125,1,0.9,1,2,2,0
+67,1,0,120,237,0,1,71,0,1,1,0,2,0
+58,1,0,150,270,0,0,111,1,0.8,2,0,3,0
+35,1,1,122,192,0,1,174,0,0,2,0,2,1
+52,1,1,120,325,0,1,172,0,0.2,2,0,2,1
+46,0,1,105,204,0,1,172,0,0,2,0,2,1
+51,1,2,94,227,0,1,154,1,0,2,1,3,1
+55,0,1,132,342,0,1,166,0,1.2,2,0,2,1
+60,1,0,145,282,0,0,142,1,2.8,1,2,3,0
+52,0,2,136,196,0,0,169,0,0.1,1,0,2,1
+62,1,0,120,267,0,1,99,1,1.8,1,2,3,0
+44,0,2,118,242,0,1,149,0,0.3,1,1,2,1
+44,1,1,120,220,0,1,170,0,0,2,0,2,1
+59,1,2,126,218,1,1,134,0,2.2,1,1,1,0
+56,0,1,140,294,0,0,153,0,1.3,1,0,2,1
+61,1,0,120,260,0,1,140,1,3.6,1,1,3,0
+48,1,0,130,256,1,0,150,1,0,2,2,3,0
+70,1,2,160,269,0,1,112,1,2.9,1,1,3,0
+74,0,1,120,269,0,0,121,1,0.2,2,1,2,1
+40,1,3,140,199,0,1,178,1,1.4,2,0,3,1
+42,1,3,148,244,0,0,178,0,0.8,2,2,2,1
+64,0,2,140,313,0,1,133,0,0.2,2,0,3,1
+63,0,2,135,252,0,0,172,0,0,2,0,2,1
+59,1,0,140,177,0,1,162,1,0,2,1,3,0
+53,0,2,128,216,0,0,115,0,0,2,0,0,1
+53,0,0,130,264,0,0,143,0,0.4,1,0,2,1
+48,0,2,130,275,0,1,139,0,0.2,2,0,2,1
+45,1,0,142,309,0,0,147,1,0,1,3,3,0
+66,1,1,160,246,0,1,120,1,0,1,3,1,0
+48,1,1,130,245,0,0,180,0,0.2,1,0,2,1
+56,0,1,140,294,0,0,153,0,1.3,1,0,2,1
+54,1,1,192,283,0,0,195,0,0,2,1,3,0
+57,1,0,150,276,0,0,112,1,0.6,1,1,1,0
+70,1,0,130,322,0,0,109,0,2.4,1,3,2,0
+53,0,2,128,216,0,0,115,0,0,2,0,0,1
+37,0,2,120,215,0,1,170,0,0,2,0,2,1
+63,0,0,108,269,0,1,169,1,1.8,1,2,2,0
+37,1,2,130,250,0,1,187,0,3.5,0,0,2,1
+54,0,2,110,214,0,1,158,0,1.6,1,0,2,1
+60,1,0,130,206,0,0,132,1,2.4,1,2,3,0
+58,1,0,150,270,0,0,111,1,0.8,2,0,3,0
+57,1,2,150,126,1,1,173,0,0.2,2,1,3,1
+54,1,2,125,273,0,0,152,0,0.5,0,1,2,1
+56,1,2,130,256,1,0,142,1,0.6,1,1,1,0
+60,1,0,130,253,0,1,144,1,1.4,2,1,3,0
+38,1,2,138,175,0,1,173,0,0,2,4,2,1
+44,1,2,120,226,0,1,169,0,0,2,0,2,1
+65,0,2,155,269,0,1,148,0,0.8,2,0,2,1
+52,1,2,172,199,1,1,162,0,0.5,2,0,3,1
+41,1,1,120,157,0,1,182,0,0,2,0,2,1
+66,1,1,160,246,0,1,120,1,0,1,3,1,0
+50,1,0,150,243,0,0,128,0,2.6,1,0,3,0
+54,0,2,108,267,0,0,167,0,0,2,0,2,1
+43,1,0,132,247,1,0,143,1,0.1,1,4,3,0
+62,0,2,130,263,0,1,97,0,1.2,1,1,3,0
+66,1,0,120,302,0,0,151,0,0.4,1,0,2,1
+50,1,0,144,200,0,0,126,1,0.9,1,0,3,0
+57,1,0,110,335,0,1,143,1,3,1,1,3,0
+57,1,0,110,201,0,1,126,1,1.5,1,0,1,1
+57,1,1,124,261,0,1,141,0,0.3,2,0,3,0
+46,0,0,138,243,0,0,152,1,0,1,0,2,1
+59,1,0,164,176,1,0,90,0,1,1,2,1,0
+67,1,0,160,286,0,0,108,1,1.5,1,3,2,0
+59,1,3,134,204,0,1,162,0,0.8,2,2,2,0
+53,0,2,128,216,0,0,115,0,0,2,0,0,1
+48,1,0,122,222,0,0,186,0,0,2,0,2,1
+62,1,2,130,231,0,1,146,0,1.8,1,3,3,1
+43,0,2,122,213,0,1,165,0,0.2,1,0,2,1
+53,1,2,130,246,1,0,173,0,0,2,3,2,1
+57,0,1,130,236,0,0,174,0,0,1,1,2,0
+53,1,2,130,246,1,0,173,0,0,2,3,2,1
+58,1,2,112,230,0,0,165,0,2.5,1,1,3,0
+48,1,1,110,229,0,1,168,0,1,0,0,3,0
+58,1,2,105,240,0,0,154,1,0.6,1,0,3,1
+51,1,2,110,175,0,1,123,0,0.6,2,0,2,1
+43,0,0,132,341,1,0,136,1,3,1,0,3,0
+55,1,0,132,353,0,1,132,1,1.2,1,1,3,0
+54,0,2,110,214,0,1,158,0,1.6,1,0,2,1
+58,1,1,120,284,0,0,160,0,1.8,1,0,2,0
+46,0,2,142,177,0,0,160,1,1.4,0,0,2,1
+66,1,0,160,228,0,0,138,0,2.3,2,0,1,1
+59,1,1,140,221,0,1,164,1,0,2,0,2,1
+64,0,0,130,303,0,1,122,0,2,1,2,2,1
+67,1,0,120,237,0,1,71,0,1,1,0,2,0
+52,1,3,118,186,0,0,190,0,0,1,0,1,1
+58,1,0,146,218,0,1,105,0,2,1,1,3,0
+58,1,2,132,224,0,0,173,0,3.2,2,2,3,0
+59,1,0,110,239,0,0,142,1,1.2,1,1,3,0
+58,1,0,150,270,0,0,111,1,0.8,2,0,3,0
+35,1,0,126,282,0,0,156,1,0,2,0,3,0
+51,1,2,110,175,0,1,123,0,0.6,2,0,2,1
+42,0,2,120,209,0,1,173,0,0,1,0,2,1
+77,1,0,125,304,0,0,162,1,0,2,3,2,0
+64,1,0,120,246,0,0,96,1,2.2,0,1,2,0
+63,1,3,145,233,1,0,150,0,2.3,0,0,1,1
+58,0,1,136,319,1,0,152,0,0,2,2,2,0
+45,1,3,110,264,0,1,132,0,1.2,1,0,3,0
+51,1,2,110,175,0,1,123,0,0.6,2,0,2,1
+62,0,0,160,164,0,0,145,0,6.2,0,3,3,0
+63,1,0,130,330,1,0,132,1,1.8,2,3,3,0
+66,0,2,146,278,0,0,152,0,0,1,1,2,1
+68,1,2,180,274,1,0,150,1,1.6,1,0,3,0
+40,1,0,110,167,0,0,114,1,2,1,0,3,0
+66,1,0,160,228,0,0,138,0,2.3,2,0,1,1
+63,1,3,145,233,1,0,150,0,2.3,0,0,1,1
+49,1,2,120,188,0,1,139,0,2,1,3,3,0
+71,0,0,112,149,0,1,125,0,1.6,1,0,2,1
+70,1,1,156,245,0,0,143,0,0,2,0,2,1
+46,0,1,105,204,0,1,172,0,0,2,0,2,1
+61,1,0,140,207,0,0,138,1,1.9,2,1,3,0
+56,1,2,130,256,1,0,142,1,0.6,1,1,1,0
+58,1,2,140,211,1,0,165,0,0,2,0,2,1
+58,1,0,100,234,0,1,156,0,0.1,2,1,3,0
+46,0,0,138,243,0,0,152,1,0,1,0,2,1
+46,1,2,150,231,0,1,147,0,3.6,1,0,2,0
+41,0,1,105,198,0,1,168,0,0,2,1,2,1
+56,1,0,125,249,1,0,144,1,1.2,1,1,2,0
+57,1,0,150,276,0,0,112,1,0.6,1,1,1,0
+70,1,0,130,322,0,0,109,0,2.4,1,3,2,0
+59,1,3,170,288,0,0,159,0,0.2,1,0,3,0
+41,0,1,130,204,0,0,172,0,1.4,2,0,2,1
+54,1,2,125,273,0,0,152,0,0.5,0,1,2,1
+52,1,2,138,223,0,1,169,0,0,2,4,2,1
+62,0,0,124,209,0,1,163,0,0,2,0,2,1
+65,0,2,160,360,0,0,151,0,0.8,2,0,2,1
+57,0,0,128,303,0,0,159,0,0,2,1,2,1
+42,0,0,102,265,0,0,122,0,0.6,1,0,2,1
+57,0,0,120,354,0,1,163,1,0.6,2,0,2,1
+58,0,1,136,319,1,0,152,0,0,2,2,2,0
+45,1,0,142,309,0,0,147,1,0,1,3,3,0
+51,0,0,130,305,0,1,142,1,1.2,1,0,3,0
+54,0,2,160,201,0,1,163,0,0,2,1,2,1
+57,1,2,150,168,0,1,174,0,1.6,2,0,2,1
+43,1,0,132,247,1,0,143,1,0.1,1,4,3,0
+47,1,2,108,243,0,1,152,0,0,2,0,2,0
+67,1,2,152,212,0,0,150,0,0.8,1,0,3,0
+65,0,0,150,225,0,0,114,0,1,1,3,3,0
+60,0,2,102,318,0,1,160,0,0,2,1,2,1
+37,1,2,130,250,0,1,187,0,3.5,0,0,2,1
+41,0,2,112,268,0,0,172,1,0,2,0,2,1
+57,0,0,120,354,0,1,163,1,0.6,2,0,2,1
+59,0,0,174,249,0,1,143,1,0,1,0,2,0
+67,1,0,120,229,0,0,129,1,2.6,1,2,3,0
+47,1,2,130,253,0,1,179,0,0,2,0,2,1
+58,1,1,120,284,0,0,160,0,1.8,1,0,2,0
+62,0,0,150,244,0,1,154,1,1.4,1,0,2,0
+60,1,0,140,293,0,0,170,0,1.2,1,2,3,0
+57,1,0,152,274,0,1,88,1,1.2,1,1,3,0
+57,1,2,150,168,0,1,174,0,1.6,2,0,2,1
+47,1,2,130,253,0,1,179,0,0,2,0,2,1
+52,1,1,128,205,1,1,184,0,0,2,0,2,1
+53,1,2,130,246,1,0,173,0,0,2,3,2,1
+55,1,0,160,289,0,0,145,1,0.8,1,1,3,0
+51,0,2,120,295,0,0,157,0,0.6,2,0,2,1
+52,1,0,112,230,0,1,160,0,0,2,1,2,0
+63,0,0,150,407,0,0,154,0,4,1,3,3,0
+49,0,1,134,271,0,1,162,0,0,1,0,2,1
+66,0,0,178,228,1,1,165,1,1,1,2,3,0
+49,0,1,134,271,0,1,162,0,0,1,0,2,1
+65,0,0,150,225,0,0,114,0,1,1,3,3,0
+69,1,3,160,234,1,0,131,0,0.1,1,1,2,1
+47,1,2,108,243,0,1,152,0,0,2,0,2,0
+39,0,2,138,220,0,1,152,0,0,1,0,2,1
+43,1,0,150,247,0,1,171,0,1.5,2,0,2,1
+51,1,0,140,261,0,0,186,1,0,2,0,2,1
+69,1,2,140,254,0,0,146,0,2,1,3,3,0
+48,1,2,124,255,1,1,175,0,0,2,2,2,1
+52,1,3,118,186,0,0,190,0,0,1,0,1,1
+43,1,0,110,211,0,1,161,0,0,2,0,3,1
+67,0,2,115,564,0,0,160,0,1.6,1,0,3,1
+38,1,2,138,175,0,1,173,0,0,2,4,2,1
+44,1,1,130,219,0,0,188,0,0,2,0,2,1
+47,1,0,110,275,0,0,118,1,1,1,1,2,0
+61,1,2,150,243,1,1,137,1,1,1,0,2,1
+67,1,0,160,286,0,0,108,1,1.5,1,3,2,0
+60,0,3,150,240,0,1,171,0,0.9,2,0,2,1
+64,0,2,140,313,0,1,133,0,0.2,2,0,3,1
+58,0,0,130,197,0,1,131,0,0.6,1,0,2,1
+41,1,2,130,214,0,0,168,0,2,1,0,2,1
+48,1,1,110,229,0,1,168,0,1,0,0,3,0
+57,1,2,150,126,1,1,173,0,0.2,2,1,3,1
+57,1,0,165,289,1,0,124,0,1,1,3,3,0
+57,1,2,128,229,0,0,150,0,0.4,1,1,3,0
+39,1,2,140,321,0,0,182,0,0,2,0,2,1
+58,1,0,128,216,0,0,131,1,2.2,1,3,3,0
+51,0,0,130,305,0,1,142,1,1.2,1,0,3,0
+63,0,0,150,407,0,0,154,0,4,1,3,3,0
+51,1,0,140,298,0,1,122,1,4.2,1,3,3,0
+35,1,1,122,192,0,1,174,0,0,2,0,2,1
+65,1,0,110,248,0,0,158,0,0.6,2,2,1,0
+62,1,1,120,281,0,0,103,0,1.4,1,1,3,0
+41,1,0,110,172,0,0,158,0,0,2,0,3,0
+65,1,0,135,254,0,0,127,0,2.8,1,1,3,0
+54,0,1,132,288,1,0,159,1,0,2,1,2,1
+61,1,2,150,243,1,1,137,1,1,1,0,2,1
+57,0,0,128,303,0,0,159,0,0,2,1,2,1
+57,1,2,150,168,0,1,174,0,1.6,2,0,2,1
+64,1,2,125,309,0,1,131,1,1.8,1,0,3,0
+55,1,0,132,353,0,1,132,1,1.2,1,1,3,0
+51,1,2,125,245,1,0,166,0,2.4,1,0,2,1
+59,1,0,135,234,0,1,161,0,0.5,1,0,3,1
+68,1,2,180,274,1,0,150,1,1.6,1,0,3,0
+57,1,1,154,232,0,0,164,0,0,2,1,2,0
+54,1,0,140,239,0,1,160,0,1.2,2,0,2,1
+46,0,2,142,177,0,0,160,1,1.4,0,0,2,1
+71,0,0,112,149,0,1,125,0,1.6,1,0,2,1
+35,0,0,138,183,0,1,182,0,1.4,2,0,2,1
+46,0,2,142,177,0,0,160,1,1.4,0,0,2,1
+45,0,1,130,234,0,0,175,0,0.6,1,0,2,1
+47,1,2,108,243,0,1,152,0,0,2,0,2,0
+44,0,2,118,242,0,1,149,0,0.3,1,1,2,1
+61,1,0,120,260,0,1,140,1,3.6,1,1,3,0
+41,0,1,130,204,0,0,172,0,1.4,2,0,2,1
+56,0,0,200,288,1,0,133,1,4,0,2,3,0
+55,0,0,180,327,0,2,117,1,3.4,1,0,2,0
+54,0,1,132,288,1,0,159,1,0,2,1,2,1
+43,1,0,120,177,0,0,120,1,2.5,1,0,3,0
+44,1,0,112,290,0,0,153,0,0,2,1,2,0
+54,1,0,110,206,0,0,108,1,0,1,1,2,0
+44,1,1,120,220,0,1,170,0,0,2,0,2,1
+49,1,2,120,188,0,1,139,0,2,1,3,3,0
+60,1,0,130,206,0,0,132,1,2.4,1,2,3,0
+41,0,1,105,198,0,1,168,0,0,2,1,2,1
+49,1,2,120,188,0,1,139,0,2,1,3,3,0
+61,1,0,148,203,0,1,161,0,0,2,1,3,0
+59,1,0,140,177,0,1,162,1,0,2,1,3,0
+58,1,1,125,220,0,1,144,0,0.4,1,4,3,1
+67,0,2,152,277,0,1,172,0,0,2,1,2,1
+61,1,0,148,203,0,1,161,0,0,2,1,3,0
+58,1,2,112,230,0,0,165,0,2.5,1,1,3,0
+51,0,2,130,256,0,0,149,0,0.5,2,0,2,1
+62,0,0,160,164,0,0,145,0,6.2,0,3,3,0
+62,0,0,124,209,0,1,163,0,0,2,0,2,1
+59,1,3,178,270,0,0,145,0,4.2,0,0,3,1
+69,1,3,160,234,1,0,131,0,0.1,1,1,2,1
+60,0,0,150,258,0,0,157,0,2.6,1,2,3,0
+65,0,2,155,269,0,1,148,0,0.8,2,0,2,1
+63,0,0,124,197,0,1,136,1,0,1,0,2,0
+53,0,0,138,234,0,0,160,0,0,2,0,2,1
+54,0,2,108,267,0,0,167,0,0,2,0,2,1
+76,0,2,140,197,0,2,116,0,1.1,1,0,2,1
+50,0,2,120,219,0,1,158,0,1.6,1,0,2,1
+52,1,1,120,325,0,1,172,0,0.2,2,0,2,1
+46,1,0,120,249,0,0,144,0,0.8,2,0,3,0
+64,1,3,170,227,0,0,155,0,0.6,1,0,3,1
+58,1,0,128,259,0,0,130,1,3,1,2,3,0
+44,1,2,140,235,0,0,180,0,0,2,0,2,1
+62,0,0,140,394,0,0,157,0,1.2,1,0,2,1
+59,1,3,134,204,0,1,162,0,0.8,2,2,2,0
+54,1,2,125,273,0,0,152,0,0.5,0,1,2,1
+48,1,1,110,229,0,1,168,0,1,0,0,3,0
+70,1,0,130,322,0,0,109,0,2.4,1,3,2,0
+67,0,0,106,223,0,1,142,0,0.3,2,2,2,1
+51,0,2,120,295,0,0,157,0,0.6,2,0,2,1
+68,1,2,118,277,0,1,151,0,1,2,1,3,1
+69,1,2,140,254,0,0,146,0,2,1,3,3,0
+54,1,0,122,286,0,0,116,1,3.2,1,2,2,0
+43,0,0,132,341,1,0,136,1,3,1,0,3,0
+53,1,2,130,197,1,0,152,0,1.2,0,0,2,1
+58,1,0,100,234,0,1,156,0,0.1,2,1,3,0
+67,1,0,125,254,1,1,163,0,0.2,1,2,3,0
+59,1,0,140,177,0,1,162,1,0,2,1,3,0
+48,1,0,122,222,0,0,186,0,0,2,0,2,1
+39,0,2,94,199,0,1,179,0,0,2,0,2,1
+67,1,0,120,237,0,1,71,0,1,1,0,2,0
+58,0,0,130,197,0,1,131,0,0.6,1,0,2,1
+65,0,2,155,269,0,1,148,0,0.8,2,0,2,1
+42,0,2,120,209,0,1,173,0,0,1,0,2,1
+44,1,0,112,290,0,0,153,0,0,2,1,2,0
+56,1,0,132,184,0,0,105,1,2.1,1,1,1,0
+53,0,0,138,234,0,0,160,0,0,2,0,2,1
+50,0,0,110,254,0,0,159,0,0,2,0,2,1
+41,1,2,130,214,0,0,168,0,2,1,0,2,1
+54,0,2,160,201,0,1,163,0,0,2,1,2,1
+42,1,2,120,240,1,1,194,0,0.8,0,0,3,1
+54,0,2,135,304,1,1,170,0,0,2,0,2,1
+60,1,0,145,282,0,0,142,1,2.8,1,2,3,0
+34,1,3,118,182,0,0,174,0,0,2,0,2,1
+44,1,0,112,290,0,0,153,0,0,2,1,2,0
+60,1,0,125,258,0,0,141,1,2.8,1,1,3,0
+43,1,0,150,247,0,1,171,0,1.5,2,0,2,1
+52,1,3,152,298,1,1,178,0,1.2,1,0,3,1
+70,1,0,130,322,0,0,109,0,2.4,1,3,2,0
+62,0,0,140,394,0,0,157,0,1.2,1,0,2,1
+58,1,0,146,218,0,1,105,0,2,1,1,3,0
+46,1,1,101,197,1,1,156,0,0,2,0,3,1
+44,1,2,140,235,0,0,180,0,0,2,0,2,1
+55,1,1,130,262,0,1,155,0,0,2,0,2,1
+43,1,0,120,177,0,0,120,1,2.5,1,0,3,0
+55,1,0,132,353,0,1,132,1,1.2,1,1,3,0
+40,1,3,140,199,0,1,178,1,1.4,2,0,3,1
+64,1,2,125,309,0,1,131,1,1.8,1,0,3,0
+59,1,0,164,176,1,0,90,0,1,1,2,1,0
+61,0,0,145,307,0,0,146,1,1,1,0,3,0
+54,1,0,122,286,0,0,116,1,3.2,1,2,2,0
+74,0,1,120,269,0,0,121,1,0.2,2,1,2,1
+63,0,0,108,269,0,1,169,1,1.8,1,2,2,0
+70,1,2,160,269,0,1,112,1,2.9,1,1,3,0
+63,0,0,108,269,0,1,169,1,1.8,1,2,2,0
+64,1,0,145,212,0,0,132,0,2,1,2,1,0
+61,1,0,148,203,0,1,161,0,0,2,1,3,0
+59,1,1,140,221,0,1,164,1,0,2,0,2,1
+38,1,2,138,175,0,1,173,0,0,2,4,2,1
+58,1,1,120,284,0,0,160,0,1.8,1,0,2,0
+63,0,1,140,195,0,1,179,0,0,2,2,2,1
+62,0,2,130,263,0,1,97,0,1.2,1,1,3,0
+46,1,0,140,311,0,1,120,1,1.8,1,2,3,0
+58,0,2,120,340,0,1,172,0,0,2,0,2,1
+63,0,1,140,195,0,1,179,0,0,2,2,2,1
+47,1,2,130,253,0,1,179,0,0,2,0,2,1
+71,0,2,110,265,1,0,130,0,0,2,1,2,1
+66,1,0,112,212,0,0,132,1,0.1,2,1,2,0
+42,1,0,136,315,0,1,125,1,1.8,1,0,1,0
+64,1,0,145,212,0,0,132,0,2,1,2,1,0
+55,0,0,180,327,0,2,117,1,3.4,1,0,2,0
+43,0,0,132,341,1,0,136,1,3,1,0,3,0
+55,0,0,128,205,0,2,130,1,2,1,1,3,0
+58,0,0,170,225,1,0,146,1,2.8,1,2,1,0
+55,1,0,140,217,0,1,111,1,5.6,0,0,3,0
+51,0,0,130,305,0,1,142,1,1.2,1,0,3,0
+50,0,2,120,219,0,1,158,0,1.6,1,0,2,1
+43,1,0,115,303,0,1,181,0,1.2,1,0,2,1
+41,0,1,126,306,0,1,163,0,0,2,0,2,1
+49,1,1,130,266,0,1,171,0,0.6,2,0,2,1
+65,1,0,110,248,0,0,158,0,0.6,2,2,1,0
+57,1,0,152,274,0,1,88,1,1.2,1,1,3,0
+48,1,0,130,256,1,0,150,1,0,2,2,3,0
+62,0,0,138,294,1,1,106,0,1.9,1,3,2,0
+61,1,3,134,234,0,1,145,0,2.6,1,2,2,0
+59,1,3,178,270,0,0,145,0,4.2,0,0,3,1
+69,1,2,140,254,0,0,146,0,2,1,3,3,0
+58,1,2,132,224,0,0,173,0,3.2,2,2,3,0
+38,1,3,120,231,0,1,182,1,3.8,1,0,3,0
+69,0,3,140,239,0,1,151,0,1.8,2,2,2,1
+65,1,3,138,282,1,0,174,0,1.4,1,1,2,0
+45,1,3,110,264,0,1,132,0,1.2,1,0,3,0
+49,1,1,130,266,0,1,171,0,0.6,2,0,2,1
+45,0,1,130,234,0,0,175,0,0.6,1,0,2,1
+61,1,0,138,166,0,0,125,1,3.6,1,1,2,0
+52,1,0,125,212,0,1,168,0,1,2,2,3,0
+53,0,0,130,264,0,0,143,0,0.4,1,0,2,1
+59,0,0,174,249,0,1,143,1,0,1,0,2,0
+58,0,2,120,340,0,1,172,0,0,2,0,2,1
+65,1,3,138,282,1,0,174,0,1.4,1,1,2,0
+58,0,0,130,197,0,1,131,0,0.6,1,0,2,1
+46,0,0,138,243,0,0,152,1,0,1,0,2,1
+56,0,0,134,409,0,0,150,1,1.9,1,2,3,0
+64,1,0,128,263,0,1,105,1,0.2,1,1,3,1
+65,1,0,120,177,0,1,140,0,0.4,2,0,3,1
+44,1,2,120,226,0,1,169,0,0,2,0,2,1
+50,1,0,150,243,0,0,128,0,2.6,1,0,3,0
+47,1,2,108,243,0,1,152,0,0,2,0,2,0
+64,0,0,130,303,0,1,122,0,2,1,2,2,1
+71,0,0,112,149,0,1,125,0,1.6,1,0,2,1
+45,0,1,130,234,0,0,175,0,0.6,1,0,2,1
+62,1,0,120,267,0,1,99,1,1.8,1,2,3,0
+41,1,1,120,157,0,1,182,0,0,2,0,2,1
+66,0,3,150,226,0,1,114,0,2.6,0,0,2,1
+56,1,0,130,283,1,0,103,1,1.6,0,0,3,0
+41,0,1,126,306,0,1,163,0,0,2,0,2,1
+41,1,1,110,235,0,1,153,0,0,2,0,2,1
+57,0,1,130,236,0,0,174,0,0,1,1,2,0
+39,0,2,138,220,0,1,152,0,0,1,0,2,1
+64,1,2,125,309,0,1,131,1,1.8,1,0,3,0
+59,1,0,138,271,0,0,182,0,0,2,0,2,1
+61,1,0,138,166,0,0,125,1,3.6,1,1,2,0
+58,1,0,114,318,0,2,140,0,4.4,0,3,1,0
+47,1,0,112,204,0,1,143,0,0.1,2,0,2,1
+58,0,0,100,248,0,0,122,0,1,1,0,2,1
+66,0,3,150,226,0,1,114,0,2.6,0,0,2,1
+65,0,2,140,417,1,0,157,0,0.8,2,1,2,1
+35,1,1,122,192,0,1,174,0,0,2,0,2,1
+57,1,1,124,261,0,1,141,0,0.3,2,0,3,0
+29,1,1,130,204,0,0,202,0,0,2,0,2,1
+66,1,1,160,246,0,1,120,1,0,1,3,1,0
+61,0,0,130,330,0,0,169,0,0,2,0,2,0
+52,1,0,125,212,0,1,168,0,1,2,2,3,0
+68,1,2,118,277,0,1,151,0,1,2,1,3,1
+54,1,2,120,258,0,0,147,0,0.4,1,0,3,1
+63,1,0,130,330,1,0,132,1,1.8,2,3,3,0
+58,1,0,100,234,0,1,156,0,0.1,2,1,3,0
+60,1,0,130,253,0,1,144,1,1.4,2,1,3,0
+63,1,0,130,254,0,0,147,0,1.4,1,1,3,0
+41,0,2,112,268,0,0,172,1,0,2,0,2,1
+68,1,2,180,274,1,0,150,1,1.6,1,0,3,0
+42,1,1,120,295,0,1,162,0,0,2,0,2,1
+59,1,0,170,326,0,0,140,1,3.4,0,0,3,0
+59,1,0,164,176,1,0,90,0,1,1,2,1,0
+43,1,0,120,177,0,0,120,1,2.5,1,0,3,0
+60,1,2,140,185,0,0,155,0,3,1,0,2,0
+63,0,0,150,407,0,0,154,0,4,1,3,3,0
+52,1,0,128,204,1,1,156,1,1,1,0,0,0
+58,1,0,125,300,0,0,171,0,0,2,2,3,0
+56,0,0,200,288,1,0,133,1,4,0,2,3,0
+54,0,2,135,304,1,1,170,0,0,2,0,2,1
+58,1,2,105,240,0,0,154,1,0.6,1,0,3,1
+55,0,1,135,250,0,0,161,0,1.4,1,0,2,1
+53,1,0,140,203,1,0,155,1,3.1,0,0,3,0
+63,0,1,140,195,0,1,179,0,0,2,2,2,1
+39,1,0,118,219,0,1,140,0,1.2,1,0,3,0
+35,1,0,126,282,0,0,156,1,0,2,0,3,0
+50,0,2,120,219,0,1,158,0,1.6,1,0,2,1
+67,1,2,152,212,0,0,150,0,0.8,1,0,3,0
+66,1,0,112,212,0,0,132,1,0.1,2,1,2,0
+35,1,0,126,282,0,0,156,1,0,2,0,3,0
+41,1,2,130,214,0,0,168,0,2,1,0,2,1
+35,1,0,120,198,0,1,130,1,1.6,1,0,3,0
+71,0,1,160,302,0,1,162,0,0.4,2,2,2,1
+57,1,0,110,201,0,1,126,1,1.5,1,0,1,1
+51,1,2,94,227,0,1,154,1,0,2,1,3,1
+58,1,0,128,216,0,0,131,1,2.2,1,3,3,0
+57,1,2,128,229,0,0,150,0,0.4,1,1,3,0
+56,0,1,140,294,0,0,153,0,1.3,1,0,2,1
+60,0,2,120,178,1,1,96,0,0,2,0,2,1
+45,1,3,110,264,0,1,132,0,1.2,1,0,3,0
+56,1,1,130,221,0,0,163,0,0,2,0,3,1
+35,1,0,120,198,0,1,130,1,1.6,1,0,3,0
+45,0,1,112,160,0,1,138,0,0,1,0,2,1
+66,0,3,150,226,0,1,114,0,2.6,0,0,2,1
+51,1,3,125,213,0,0,125,1,1.4,2,1,2,1
+70,1,1,156,245,0,0,143,0,0,2,0,2,1
+55,0,0,128,205,0,2,130,1,2,1,1,3,0
+56,1,2,130,256,1,0,142,1,0.6,1,1,1,0
+55,0,1,135,250,0,0,161,0,1.4,1,0,2,1
+52,1,0,108,233,1,1,147,0,0.1,2,3,3,1
+64,1,2,140,335,0,1,158,0,0,2,0,2,0
+45,1,0,115,260,0,0,185,0,0,2,0,2,1
+67,0,2,152,277,0,1,172,0,0,2,1,2,1
+68,0,2,120,211,0,0,115,0,1.5,1,0,2,1
+74,0,1,120,269,0,0,121,1,0.2,2,1,2,1
+60,0,0,150,258,0,0,157,0,2.6,1,2,3,0
+48,1,0,124,274,0,0,166,0,0.5,1,0,3,0
+56,1,1,130,221,0,0,163,0,0,2,0,3,1
+46,1,0,140,311,0,1,120,1,1.8,1,2,3,0
+55,0,1,135,250,0,0,161,0,1.4,1,0,2,1
+44,1,1,120,220,0,1,170,0,0,2,0,2,1
+52,1,0,112,230,0,1,160,0,0,2,1,2,0
+51,1,2,94,227,0,1,154,1,0,2,1,3,1
+44,0,2,108,141,0,1,175,0,0.6,1,0,2,1
+52,1,0,128,204,1,1,156,1,1,1,0,0,0
+50,1,2,129,196,0,1,163,0,0,2,0,2,1
+59,1,0,110,239,0,0,142,1,1.2,1,1,3,0
+67,1,0,120,229,0,0,129,1,2.6,1,2,3,0
+58,1,0,125,300,0,0,171,0,0,2,2,3,0
+52,1,0,128,255,0,1,161,1,0,2,1,3,0
+44,1,2,140,235,0,0,180,0,0,2,0,2,1
+41,0,2,112,268,0,0,172,1,0,2,0,2,1
+63,1,0,130,330,1,0,132,1,1.8,2,3,3,0
+58,1,1,125,220,0,1,144,0,0.4,1,4,3,1
+60,0,2,102,318,0,1,160,0,0,2,1,2,1
+51,1,2,100,222,0,1,143,1,1.2,1,0,2,1
+64,1,2,140,335,0,1,158,0,0,2,0,2,0
+60,1,0,117,230,1,1,160,1,1.4,2,2,3,0
+44,1,2,120,226,0,1,169,0,0,2,0,2,1
+58,1,1,125,220,0,1,144,0,0.4,1,4,3,1
+55,1,1,130,262,0,1,155,0,0,2,0,2,1
+65,0,2,160,360,0,0,151,0,0.8,2,0,2,1
+48,1,1,130,245,0,0,180,0,0.2,1,0,2,1
+65,1,0,120,177,0,1,140,0,0.4,2,0,3,1
+51,0,2,130,256,0,0,149,0,0.5,2,0,2,1
+48,1,2,124,255,1,1,175,0,0,2,2,2,1
+64,1,0,120,246,0,0,96,1,2.2,0,1,2,0
+66,1,0,160,228,0,0,138,0,2.3,2,0,1,1
+46,0,1,105,204,0,1,172,0,0,2,0,2,1
+61,0,0,130,330,0,0,169,0,0,2,0,2,0
+57,1,0,150,276,0,0,112,1,0.6,1,1,1,0
+49,0,0,130,269,0,1,163,0,0,2,0,2,1
+56,1,1,130,221,0,0,163,0,0,2,0,3,1
+58,0,3,150,283,1,0,162,0,1,2,0,2,1
+63,1,0,140,187,0,0,144,1,4,2,2,3,0
+57,1,0,110,335,0,1,143,1,3,1,1,3,0
+57,1,0,110,335,0,1,143,1,3,1,1,3,0
+68,1,0,144,193,1,1,141,0,3.4,1,2,3,0
+46,1,1,101,197,1,1,156,0,0,2,0,3,1
+71,0,2,110,265,1,0,130,0,0,2,1,2,1
+41,1,1,135,203,0,1,132,0,0,1,0,1,1
+45,0,0,138,236,0,0,152,1,0.2,1,0,2,1
+62,0,0,150,244,0,1,154,1,1.4,1,0,2,0
+65,0,0,150,225,0,0,114,0,1,1,3,3,0
+48,0,2,130,275,0,1,139,0,0.2,2,0,2,1
+51,1,2,100,222,0,1,143,1,1.2,1,0,2,1
+61,0,0,145,307,0,0,146,1,1,1,0,3,0
+53,1,0,123,282,0,1,95,1,2,1,2,3,0
+59,1,3,134,204,0,1,162,0,0.8,2,2,2,0
+34,0,1,118,210,0,1,192,0,0.7,2,0,2,1
+44,1,0,120,169,0,1,144,1,2.8,0,0,1,0
+58,1,0,146,218,0,1,105,0,2,1,1,3,0
+64,0,0,130,303,0,1,122,0,2,1,2,2,1
+56,1,1,120,240,0,1,169,0,0,0,0,2,1
+54,1,2,150,232,0,0,165,0,1.6,2,0,3,1
+55,1,0,160,289,0,0,145,1,0.8,1,1,3,0
+67,1,0,125,254,1,1,163,0,0.2,1,2,3,0
+51,1,0,140,298,0,1,122,1,4.2,1,3,3,0
+62,0,0,138,294,1,1,106,0,1.9,1,3,2,0
+62,1,1,120,281,0,0,103,0,1.4,1,1,3,0
+54,1,0,110,239,0,1,126,1,2.8,1,1,3,0
+54,1,0,110,239,0,1,126,1,2.8,1,1,3,0
+68,1,0,144,193,1,1,141,0,3.4,1,2,3,0
+60,0,2,120,178,1,1,96,0,0,2,0,2,1
+61,1,3,134,234,0,1,145,0,2.6,1,2,2,0
+62,1,1,128,208,1,0,140,0,0,2,0,2,1
+41,1,1,135,203,0,1,132,0,0,1,0,1,1
+65,0,0,150,225,0,0,114,0,1,1,3,3,0
+59,1,3,170,288,0,0,159,0,0.2,1,0,3,0
+43,1,0,115,303,0,1,181,0,1.2,1,0,2,1
+67,1,0,120,229,0,0,129,1,2.6,1,2,3,0
+63,1,3,145,233,1,0,150,0,2.3,0,0,1,1
+63,0,0,124,197,0,1,136,1,0,1,0,2,0
+52,1,0,112,230,0,1,160,0,0,2,1,2,0
+58,0,0,130,197,0,1,131,0,0.6,1,0,2,1
+53,1,0,142,226,0,0,111,1,0,2,0,3,1
+57,1,0,150,276,0,0,112,1,0.6,1,1,1,0
+44,1,2,130,233,0,1,179,1,0.4,2,0,2,1
+51,1,2,94,227,0,1,154,1,0,2,1,3,1
+54,0,2,110,214,0,1,158,0,1.6,1,0,2,1
+40,1,0,110,167,0,0,114,1,2,1,0,3,0
+57,1,1,124,261,0,1,141,0,0.3,2,0,3,0
+62,0,0,140,268,0,0,160,0,3.6,0,2,2,0
+53,1,0,140,203,1,0,155,1,3.1,0,0,3,0
+62,1,1,128,208,1,0,140,0,0,2,0,2,1
+58,1,2,105,240,0,0,154,1,0.6,1,0,3,1
+70,1,1,156,245,0,0,143,0,0,2,0,2,1
+45,1,0,115,260,0,0,185,0,0,2,0,2,1
+42,1,3,148,244,0,0,178,0,0.8,2,2,2,1
+58,0,0,170,225,1,0,146,1,2.8,1,2,1,0
+61,1,0,140,207,0,0,138,1,1.9,2,1,3,0
+62,0,0,140,268,0,0,160,0,3.6,0,2,2,0
+60,1,0,130,253,0,1,144,1,1.4,2,1,3,0
+54,1,0,140,239,0,1,160,0,1.2,2,0,2,1
+61,1,0,138,166,0,0,125,1,3.6,1,1,2,0
+63,0,2,135,252,0,0,172,0,0,2,0,2,1
+42,1,2,130,180,0,1,150,0,0,2,0,2,1
+57,1,2,128,229,0,0,150,0,0.4,1,1,3,0
+44,1,2,130,233,0,1,179,1,0.4,2,0,2,1
+54,1,0,124,266,0,0,109,1,2.2,1,1,3,0
+51,1,2,100,222,0,1,143,1,1.2,1,0,2,1
+58,1,1,125,220,0,1,144,0,0.4,1,4,3,1
+68,1,2,118,277,0,1,151,0,1,2,1,3,1
+55,1,0,140,217,0,1,111,1,5.6,0,0,3,0
+42,1,0,136,315,0,1,125,1,1.8,1,0,1,0
+49,1,2,118,149,0,0,126,0,0.8,2,3,2,0
+53,0,0,138,234,0,0,160,0,0,2,0,2,1
+52,1,2,172,199,1,1,162,0,0.5,2,0,3,1
+51,1,3,125,213,0,0,125,1,1.4,2,1,2,1
+51,1,0,140,261,0,0,186,1,0,2,0,2,1
+70,1,0,145,174,0,1,125,1,2.6,0,0,3,0
+35,0,0,138,183,0,1,182,0,1.4,2,0,2,1
+58,1,2,112,230,0,0,165,0,2.5,1,1,3,0
+59,1,3,160,273,0,0,125,0,0,2,0,2,0
+60,1,0,140,293,0,0,170,0,1.2,1,2,3,0
+56,1,0,132,184,0,0,105,1,2.1,1,1,1,0
+35,0,0,138,183,0,1,182,0,1.4,2,0,2,1
+61,1,0,138,166,0,0,125,1,3.6,1,1,2,0
+58,0,3,150,283,1,0,162,0,1,2,0,2,1
+52,1,0,128,255,0,1,161,1,0,2,1,3,0
+58,1,1,120,284,0,0,160,0,1.8,1,0,2,0
+37,1,2,130,250,0,1,187,0,3.5,0,0,2,1
+52,1,0,128,255,0,1,161,1,0,2,1,3,0
+67,1,0,120,229,0,0,129,1,2.6,1,2,3,0
+65,1,3,138,282,1,0,174,0,1.4,1,1,2,0
+46,1,1,101,197,1,1,156,0,0,2,0,3,1
+68,0,2,120,211,0,0,115,0,1.5,1,0,2,1
+43,1,0,115,303,0,1,181,0,1.2,1,0,2,1
+68,0,2,120,211,0,0,115,0,1.5,1,0,2,1
+51,1,0,140,299,0,1,173,1,1.6,2,0,3,0
+52,1,0,112,230,0,1,160,0,0,2,1,2,0
+64,1,2,140,335,0,1,158,0,0,2,0,2,0
+59,1,3,170,288,0,0,159,0,0.2,1,0,3,0
+52,1,0,125,212,0,1,168,0,1,2,2,3,0
+59,1,3,160,273,0,0,125,0,0,2,0,2,0
+60,0,3,150,240,0,1,171,0,0.9,2,0,2,1
+41,1,2,112,250,0,1,179,0,0,2,0,2,1
+41,1,1,110,235,0,1,153,0,0,2,0,2,1
+56,1,1,120,240,0,1,169,0,0,0,0,2,1
+56,1,1,120,236,0,1,178,0,0.8,2,0,2,1
+48,0,2,130,275,0,1,139,0,0.2,2,0,2,1
+39,1,2,140,321,0,0,182,0,0,2,0,2,1
+64,1,3,170,227,0,0,155,0,0.6,1,0,3,1
+57,1,0,140,192,0,1,148,0,0.4,1,0,1,1
+59,1,3,160,273,0,0,125,0,0,2,0,2,0
+60,1,0,130,206,0,0,132,1,2.4,1,2,3,0
+61,1,0,140,207,0,0,138,1,1.9,2,1,3,0
+43,0,2,122,213,0,1,165,0,0.2,1,0,2,1
+54,1,0,120,188,0,1,113,0,1.4,1,1,3,0
+59,1,0,138,271,0,0,182,0,0,2,0,2,1
+57,1,0,132,207,0,1,168,1,0,2,0,3,1
+57,1,1,154,232,0,0,164,0,0,2,1,2,0
+57,1,0,130,131,0,1,115,1,1.2,1,1,3,0
+48,1,0,124,274,0,0,166,0,0.5,1,0,3,0
+70,1,0,145,174,0,1,125,1,2.6,0,0,3,0
+57,1,0,165,289,1,0,124,0,1,1,3,3,0
+61,1,0,120,260,0,1,140,1,3.6,1,1,3,0
+57,1,0,110,201,0,1,126,1,1.5,1,0,1,1
+60,0,0,150,258,0,0,157,0,2.6,1,2,3,0
+63,0,0,150,407,0,0,154,0,4,1,3,3,0
+55,0,0,128,205,0,2,130,1,2,1,1,3,0
+64,0,0,180,325,0,1,154,1,0,2,0,2,1
+54,1,0,110,239,0,1,126,1,2.8,1,1,3,0
+52,1,0,128,204,1,1,156,1,1,1,0,0,0
+51,1,0,140,299,0,1,173,1,1.6,2,0,3,0
+62,0,2,130,263,0,1,97,0,1.2,1,1,3,0
+59,1,3,178,270,0,0,145,0,4.2,0,0,3,1
+52,1,1,134,201,0,1,158,0,0.8,2,1,2,1
+42,0,0,102,265,0,0,122,0,0.6,1,0,2,1
+59,1,0,135,234,0,1,161,0,0.5,1,0,3,1
+61,1,3,134,234,0,1,145,0,2.6,1,2,2,0
+42,0,0,102,265,0,0,122,0,0.6,1,0,2,1
+62,0,0,140,268,0,0,160,0,3.6,0,2,2,0
+59,1,2,126,218,1,1,134,0,2.2,1,1,1,0
+55,1,1,130,262,0,1,155,0,0,2,0,2,1
+64,1,0,120,246,0,0,96,1,2.2,0,1,2,0
+42,1,0,140,226,0,1,178,0,0,2,0,2,1
+50,0,1,120,244,0,1,162,0,1.1,2,0,2,1
+62,1,0,120,267,0,1,99,1,1.8,1,2,3,0
+50,1,0,144,200,0,0,126,1,0.9,1,0,3,0
+50,1,2,140,233,0,1,163,0,0.6,1,1,3,0
+58,0,1,136,319,1,0,152,0,0,2,2,2,0
+35,1,0,120,198,0,1,130,1,1.6,1,0,3,0
+45,1,0,104,208,0,0,148,1,3,1,0,2,1
+66,1,0,112,212,0,0,132,1,0.1,2,1,2,0
+46,1,0,120,249,0,0,144,0,0.8,2,0,3,0
+65,1,0,135,254,0,0,127,0,2.8,1,1,3,0
+47,1,2,130,253,0,1,179,0,0,2,0,2,1
+59,1,3,134,204,0,1,162,0,0.8,2,2,2,0
+38,1,3,120,231,0,1,182,1,3.8,1,0,3,0
+39,1,0,118,219,0,1,140,0,1.2,1,0,3,0
+58,1,0,146,218,0,1,105,0,2,1,1,3,0
+44,1,1,120,263,0,1,173,0,0,2,0,3,1
+54,1,0,140,239,0,1,160,0,1.2,2,0,2,1
+61,0,0,130,330,0,0,169,0,0,2,0,2,0
+57,1,0,130,131,0,1,115,1,1.2,1,1,3,0
+54,1,0,110,206,0,0,108,1,0,1,1,2,0
+42,1,2,120,240,1,1,194,0,0.8,0,0,3,1
+54,1,0,124,266,0,0,109,1,2.2,1,1,3,0
+60,1,0,130,206,0,0,132,1,2.4,1,2,3,0
+65,1,0,135,254,0,0,127,0,2.8,1,1,3,0
+40,1,0,152,223,0,1,181,0,0,2,0,3,0
+51,0,2,140,308,0,0,142,0,1.5,2,1,2,1
+38,1,3,120,231,0,1,182,1,3.8,1,0,3,0
+42,1,2,130,180,0,1,150,0,0,2,0,2,1
+56,1,1,120,240,0,1,169,0,0,0,0,2,1
+43,1,2,130,315,0,1,162,0,1.9,2,1,2,1
+64,1,2,140,335,0,1,158,0,0,2,0,2,0
+53,1,0,142,226,0,0,111,1,0,2,0,3,1
+49,0,1,134,271,0,1,162,0,0,1,0,2,1
+57,0,0,140,241,0,1,123,1,0.2,1,0,3,0
+52,0,2,136,196,0,0,169,0,0.1,1,0,2,1
+69,0,3,140,239,0,1,151,0,1.8,2,2,2,1
+65,1,0,120,177,0,1,140,0,0.4,2,0,3,1
+66,0,0,178,228,1,1,165,1,1,1,2,3,0
+56,1,3,120,193,0,0,162,0,1.9,1,0,3,1
+67,0,2,152,277,0,1,172,0,0,2,1,2,1
+54,0,2,160,201,0,1,163,0,0,2,1,2,1
+70,1,0,145,174,0,1,125,1,2.6,0,0,3,0
+57,1,0,132,207,0,1,168,1,0,2,0,3,1
+67,1,0,160,286,0,0,108,1,1.5,1,3,2,0
+62,0,2,130,263,0,1,97,0,1.2,1,1,3,0
+54,0,2,135,304,1,1,170,0,0,2,0,2,1
+45,0,0,138,236,0,0,152,1,0.2,1,0,2,1
+53,0,0,130,264,0,0,143,0,0.4,1,0,2,1
+62,1,2,130,231,0,1,146,0,1.8,1,3,3,1
+49,0,0,130,269,0,1,163,0,0,2,0,2,1
+50,1,2,140,233,0,1,163,0,0.6,1,1,3,0
+65,0,2,140,417,1,0,157,0,0.8,2,1,2,1
+69,0,3,140,239,0,1,151,0,1.8,2,2,2,1
+52,0,2,136,196,0,0,169,0,0.1,1,0,2,1
+58,0,0,100,248,0,0,122,0,1,1,0,2,1
+52,1,0,108,233,1,1,147,0,0.1,2,3,3,1
+57,0,0,140,241,0,1,123,1,0.2,1,0,3,0
+44,0,2,108,141,0,1,175,0,0.6,1,0,2,1
+76,0,2,140,197,0,2,116,0,1.1,1,0,2,1
+58,1,0,128,259,0,0,130,1,3,1,2,3,0
+60,0,2,120,178,1,1,96,0,0,2,0,2,1
+53,1,0,140,203,1,0,155,1,3.1,0,0,3,0
+52,1,1,120,325,0,1,172,0,0.2,2,0,2,1
+38,1,2,138,175,0,1,173,0,0,2,4,2,1
+52,1,2,172,199,1,1,162,0,0.5,2,0,3,1
+52,1,3,118,186,0,0,190,0,0,1,0,1,1
+51,1,2,125,245,1,0,166,0,2.4,1,0,2,1
+43,1,0,110,211,0,1,161,0,0,2,0,3,1
+39,1,0,118,219,0,1,140,0,1.2,1,0,3,0
+63,0,0,108,269,0,1,169,1,1.8,1,2,2,0
+52,1,1,128,205,1,1,184,0,0,2,0,2,1
+44,1,0,110,197,0,0,177,0,0,2,1,2,0
+45,1,0,142,309,0,0,147,1,0,1,3,3,0
+57,1,0,140,192,0,1,148,0,0.4,1,0,1,1
+39,1,0,118,219,0,1,140,0,1.2,1,0,3,0
+67,0,0,106,223,0,1,142,0,0.3,2,2,2,1
+64,1,0,128,263,0,1,105,1,0.2,1,1,3,1
+59,1,0,135,234,0,1,161,0,0.5,1,0,3,1
+62,1,2,130,231,0,1,146,0,1.8,1,3,3,1
+55,0,0,180,327,0,2,117,1,3.4,1,0,2,0
+57,1,1,154,232,0,0,164,0,0,2,1,2,0
+60,1,0,140,293,0,0,170,0,1.2,1,2,3,0
+71,0,1,160,302,0,1,162,0,0.4,2,2,2,1
+56,1,1,120,236,0,1,178,0,0.8,2,0,2,1
+60,1,0,117,230,1,1,160,1,1.4,2,2,3,0
+50,0,0,110,254,0,0,159,0,0,2,0,2,1
+43,1,0,132,247,1,0,143,1,0.1,1,4,3,0
+59,1,0,110,239,0,0,142,1,1.2,1,1,3,0
+44,1,1,120,263,0,1,173,0,0,2,0,3,1
+56,0,0,134,409,0,0,150,1,1.9,1,2,3,0
+54,1,0,120,188,0,1,113,0,1.4,1,1,3,0
+42,1,0,136,315,0,1,125,1,1.8,1,0,1,0
+67,1,0,125,254,1,1,163,0,0.2,1,2,3,0
+64,1,0,145,212,0,0,132,0,2,1,2,1,0
+42,1,0,140,226,0,1,178,0,0,2,0,2,1
+66,1,0,112,212,0,0,132,1,0.1,2,1,2,0
+52,1,0,108,233,1,1,147,0,0.1,2,3,3,1
+51,0,2,140,308,0,0,142,0,1.5,2,1,2,1
+55,0,0,128,205,0,2,130,1,2,1,1,3,0
+58,1,2,140,211,1,0,165,0,0,2,0,2,1
+56,1,3,120,193,0,0,162,0,1.9,1,0,3,1
+42,1,1,120,295,0,1,162,0,0,2,0,2,1
+40,1,0,152,223,0,1,181,0,0,2,0,3,0
+51,1,0,140,299,0,1,173,1,1.6,2,0,3,0
+45,1,1,128,308,0,0,170,0,0,2,0,2,1
+48,1,1,110,229,0,1,168,0,1,0,0,3,0
+58,1,0,114,318,0,2,140,0,4.4,0,3,1,0
+44,0,2,108,141,0,1,175,0,0.6,1,0,2,1
+58,1,0,128,216,0,0,131,1,2.2,1,3,3,0
+65,1,3,138,282,1,0,174,0,1.4,1,1,2,0
+53,1,0,123,282,0,1,95,1,2,1,2,3,0
+41,1,0,110,172,0,0,158,0,0,2,0,3,0
+47,1,0,112,204,0,1,143,0,0.1,2,0,2,1
+59,1,1,140,221,0,1,164,1,0,2,0,2,1
+60,1,0,125,258,0,0,141,1,2.8,1,1,3,0
+47,1,0,110,275,0,0,118,1,1,1,1,2,0
+50,0,0,110,254,0,0,159,0,0,2,0,2,1
+54,1,0,120,188,0,1,113,0,1.4,1,1,3,0
